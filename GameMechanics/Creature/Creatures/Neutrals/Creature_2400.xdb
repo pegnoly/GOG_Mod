@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
-	<AttackSkill>36</AttackSkill>
-	<DefenceSkill>39</DefenceSkill>
+	<AttackSkill>20</AttackSkill>
+	<DefenceSkill>12</DefenceSkill>
 	<Shots>0</Shots>
-	<MinDamage>150</MinDamage>
-	<MaxDamage>250</MaxDamage>
+	<MinDamage>50</MinDamage>
+	<MaxDamage>75</MaxDamage>
 	<Speed>7</Speed>
 	<Initiative>13</Initiative>
 	<Flying>true</Flying>
-	<Health>5555</Health>
+	<Health>550</Health>
 	<KnownSpells/>
 	<SpellPoints>0</SpellPoints>
 	<SpellPoints1>0</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>
 	<Exp>59</Exp>
-	<Power>800</Power>
+	<Power>0</Power>
 	<TimeToCommand>10</TimeToCommand>
 	<CreatureTier>8</CreatureTier>
 	<Upgrade>false</Upgrade>
@@ -39,7 +39,7 @@
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>
 	<flybySequence/>
-	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/CursedRock/CursedRock_Easy/Visual.xdb#xpointer(/CreatureVisual)"/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/CursedRock/Easy/CursedRock.xdb#xpointer(/CreatureVisual)"/>
 	<Range>0</Range>
 	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
 	<Upgrades/>
