@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapObjectLink>
+    <Link href="/MapObjects/Haven/HolyAvenger/Paladin.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+    <RndGroup/>
+    <IconFile>Icons\Creature_615.dds</IconFile>
+    <HideInEditor>false</HideInEditor>
+</AdvMapObjectLink>

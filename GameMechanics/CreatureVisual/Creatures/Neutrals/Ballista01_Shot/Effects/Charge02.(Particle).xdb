@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Particle>
+	<SrcName href="/Effects/Characters/DUNGEON/Matron/RangeAttack_charge.mb"/>
+	<ExportPrefix>FX_discharge</ExportPrefix>
+	<WrapSize>
+		<x>0</x>
+		<y>0</y>
+	</WrapSize>
+	<Bound>889b1f3ec0f34bbcc8efc13fa72622405a84c53f0c0eac3f3432bf3f</Bound>
+	<PerParticleFog>false</PerParticleFog>
+	<uid>4DAB4EF0-BBE7-4535-A488-3B389E26FC5E</uid>
+</Particle>

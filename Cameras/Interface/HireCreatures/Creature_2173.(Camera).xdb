@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Camera>
+	<Name/>
+	<Pos>
+		<x>-1.90000</x>
+		<y>-3.80000</y>
+		<z>0.85000</z>
+	</Pos>
+	<Rot>
+		<x>0.85000</x>
+		<y>-11.30000</y>
+		<z>0</z>
+	</Rot>
+	<Rod>4.50000</Rod>
+	<FOV>54.40000</FOV>
+	<ClipDistanceMin>1</ClipDistanceMin>
+	<ClipDistanceMax>500</ClipDistanceMax>
+	<SrcName/>
+	<RootJoint/>
+</Camera>

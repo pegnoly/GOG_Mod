@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature>
+	<AttackSkill>14</AttackSkill>
+	<DefenceSkill>2</DefenceSkill>
+	<Shots>0</Shots>
+	<MinDamage>8</MinDamage>
+	<MaxDamage>12</MaxDamage>
+	<Speed>7</Speed>
+	<Initiative>12</Initiative>
+	<Flying>false</Flying>
+	<Health>80</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>60</Exp>
+	<Power>445</Power>
+	<TimeToCommand>10</TimeToCommand>
+	<CreatureTier>4</CreatureTier>
+	<Upgrade>false</Upgrade>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_EARTH</First>
+		<Second>ELEMENT_WATER</Second>
+	</MagicElement>
+	<WeeklyGrowth>4</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>0</Gem>
+		<Gold>440</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<MonsterShared href="/new_creatures/Neutral/H7_Naoless_1/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/new_creatures/Neutral/H7_Naoless_1/creature.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
+	<Range>0</Range>
+	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_IMMUNITY_TO_BLIND</Item>
+		<Item>ABILITY_ELDRITCH_AURA</Item>
+                <Item>ABILITY_IMMUNITY_TO_EARTH</Item>
+		<Item>ABILITY_PURGER</Item>
+	</Abilities>
+</Creature>

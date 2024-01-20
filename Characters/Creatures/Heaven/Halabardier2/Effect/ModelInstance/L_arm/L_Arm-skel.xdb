@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/L_Arm.mb"/>
+	<RootJoint>L_Arm</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>93897312-D00D-4D8B-9AB2-F1B751C21F7E</uid>
+</Skeleton>

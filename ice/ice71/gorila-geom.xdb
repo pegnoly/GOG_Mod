@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/gorila.mb"/>
+	<uid>1586794E-8E67-48A8-BD62-1AB322DA4264</uid>
+	<RootMesh/>
+	<RootJoint>gorila</RootJoint>
+	<Size>
+		<x>2.63124</x>
+		<y>3.73794</y>
+		<z>3.08873</z>
+	</Size>
+	<Center>
+		<x>-0.062276</x>
+		<y>0.265982</y>
+		<z>0.166989</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>2</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>gorilaShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

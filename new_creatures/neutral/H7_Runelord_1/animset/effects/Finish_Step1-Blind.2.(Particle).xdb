@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Particle>
+	<SrcName href="/Effects/Spells/Blind.mb"/>
+	<ExportPrefix>Flash</ExportPrefix>
+	<WrapSize>
+		<x>0</x>
+		<y>0</y>
+	</WrapSize>
+	<Bound>00000000000000000000000000000000000000000000000000000000</Bound>
+	<PerParticleFog>false</PerParticleFog>
+	<uid>92C61632-37EC-4318-A4FD-5557D9171A17</uid>
+</Particle>

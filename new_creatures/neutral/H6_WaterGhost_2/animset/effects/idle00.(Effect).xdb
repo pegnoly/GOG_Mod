@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="336">
+	<Instances>				
+		<Item href="ParticleInstance/FrostRing.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		
+		<Item href="ParticleInstance/idle00S.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		
+	</Instances>
+	<Lights/>
+	<Models>
+	
+			<Item href="ModelInstance/Hip/Model_Global.xdb#xpointer(/ModelInstance)"/>
+			
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

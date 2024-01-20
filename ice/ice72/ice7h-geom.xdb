@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/ice7h.mb"/>
+	<uid>931E5630-F54D-4174-BA90-3099901059BB</uid>
+	<RootMesh/>
+	<RootJoint>ice7h</RootJoint>
+	<Size>
+		<x>0.850134</x>
+		<y>0.182975</y>
+		<z>0.602988</z>
+	</Size>
+	<Center>
+		<x>0</x>
+		<y>-0.683612</y>
+		<z>2.751</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>ice7hShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

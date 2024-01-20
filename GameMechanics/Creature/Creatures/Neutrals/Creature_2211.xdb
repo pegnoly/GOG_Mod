@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature ObjectRecordID="1000012">
+	<AttackSkill>16</AttackSkill>
+	<DefenceSkill>13</DefenceSkill>
+	<Shots>12</Shots>
+	<MinDamage>7</MinDamage>
+	<MaxDamage>17</MaxDamage>
+	<Speed>7</Speed>
+	<Initiative>15</Initiative>
+	<Flying>false</Flying>
+	<Health>60</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>95</Exp>
+	<Power>1445</Power>
+	<TimeToCommand>10</TimeToCommand>
+	<CreatureTier>5</CreatureTier>
+	<Upgrade>true</Upgrade>
+	<PairCreature>CREATURE_2210</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_FIRE</First>
+		<Second>ELEMENT_EARTH</Second>
+	</MagicElement>
+	<WeeklyGrowth>3</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>0</Gem>
+		<Gold>900</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<MonsterShared href="/new_creatures/Neutral/H7_Centaur_2/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/new_creatures/Neutral/H7_Centaur_2/creature.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
+	<Range>-2</Range>
+	<BaseCreature>CREATURE_2210</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_WARDING_ARROWS</Item>
+		<Item>ABILITY_MANEURE</Item>
+                <Item>ABILITY_BATTLE_RAGE</Item>
+                <Item>ABILITY_NO_RANGE_PENALTY</Item>
+	</Abilities>
+</Creature>

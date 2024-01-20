@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+	<Item href="ParticleInstance/body/.xdb#xpointer(/ParticleInstance)"/>
+	
+	
+	</Instances>
+	<Lights/>
+	<Models>
+			
+		<Item href="ModelInstance/head_part1/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/head_part2/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/horn/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/skulls/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/back/Model_Global.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/tail/Model_Global.xdb#xpointer(/ModelInstance)"/>			
+		
+		<Item href="ModelInstance/sword_part1/Model_Global.xdb#xpointer(/ModelInstance)"/>						
+		<Item href="ModelInstance/sword_part2/Model_Global.xdb#xpointer(/ModelInstance)"/>						
+		<Item href="ModelInstance/sword_part3/Model_Global.xdb#xpointer(/ModelInstance)"/>						
+						
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Jaw.mb"/>
+	<uid>6EA3BB35-FFB4-444C-B3BD-6010A306CCD7</uid>
+	<RootMesh/>
+	<RootJoint>Jaw</RootJoint>
+	<Size>
+		<x>0.661403</x>
+		<y>0.73952</y>
+		<z>0.758552</z>
+	</Size>
+	<Center>
+		<x>-8.85129e-005</x>
+		<y>-0.154869</y>
+		<z>0.149317</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>JawShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

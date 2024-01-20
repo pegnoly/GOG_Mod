@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Leg2.mb"/>
+	<uid>7C3D600F-4288-4C51-B034-EBC06066F7CD</uid>
+	<RootMesh/>
+	<RootJoint>L_Leg2</RootJoint>
+	<Size>
+		<x>0.655162</x>
+		<y>0.656817</y>
+		<z>1.22575</z>
+	</Size>
+	<Center>
+		<x>-0.00557099</x>
+		<y>-0.163117</y>
+		<z>0.305348</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_Leg2Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

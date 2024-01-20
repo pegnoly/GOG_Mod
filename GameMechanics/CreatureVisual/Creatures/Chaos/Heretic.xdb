@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual ObjectRecordID="1001216">
+	<CreatureNameFileRef href="/Text/Game/Creatures/Chaos/Heretic/Name.txt"/>
+	<CreatureAbilitiesFileRef/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Chaos/Heretic/Description.txt"/>
+	
+	<Icon href="/UI/Icons/Chaos/Heretic/64x64/Janczar.xdb#xpointer(/Texture)"/>
+	<Icon32 href="/UI/Icons/Chaos/Heretic/64x64/Janczar.xdb#xpointer(/Texture)"/>
+	<Icon64 href="/UI/Icons/Chaos/Heretic/64x64/Janczar.xdb#xpointer(/Texture)"/>
+	<Icon128 href="/UI/Icons/Chaos/Heretic/128x128/Janczar.xdb#xpointer(/Texture)"/>
+	
+	<AnimCharacter href="/Characters/Creatures/Chaos/Heretic/Heretic.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot href="/GameMechanics/Shot/Creatures/Chaos/Heretic/Heretic.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Steel_Hits.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>-0.0251883</x>
+		<y>0.0432517</y>
+		<z>1.47313</z>
+	</MountPoint>
+	<MountBone>Chest</MountBone>
+</CreatureVisual>

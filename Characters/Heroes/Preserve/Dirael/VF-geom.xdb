@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/VF.mb"/>
+	<uid>8E6E0C1E-51B5-410C-944B-40D8BE958C35</uid>
+	<RootMesh/>
+	<RootJoint>group</RootJoint>
+	<Size>
+		<x>0.433667</x>
+		<y>0.260607</y>
+		<z>0.139343</z>
+	</Size>
+	<Center>
+		<x>0.00239174</x>
+		<y>-0.0194793</y>
+		<z>0.772647</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>pasted__Mesh_0012Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

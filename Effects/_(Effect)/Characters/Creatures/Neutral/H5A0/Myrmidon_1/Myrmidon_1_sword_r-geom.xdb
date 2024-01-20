@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName/>
+	<uid>9E27EE1D-AA91-47E1-8988-313BB4726508</uid>
+	<RootMesh/>
+	<RootJoint>yatagan</RootJoint>
+	<Size>
+		<x>0.396307</x>
+		<y>1.61993</y>
+		<z>0.0742785</z>
+	</Size>
+	<Center>
+		<x>0.0223409</x>
+		<y>-0.457919</y>
+		<z>0</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>yatagan</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

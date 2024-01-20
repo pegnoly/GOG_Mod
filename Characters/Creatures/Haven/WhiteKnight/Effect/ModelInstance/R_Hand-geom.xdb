@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/R_Hand.mb"/>
+	<uid>3C1148D1-26CE-4A24-8AC2-27DFF2E31359</uid>
+	<RootMesh/>
+	<RootJoint>R_Hand</RootJoint>
+	<Size>
+		<x>1.23524</x>
+		<y>0.42546</y>
+		<z>0.607804</z>
+	</Size>
+	<Center>
+		<x>0.203717</x>
+		<y>-0.305855</y>
+		<z>0.080498</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>R_HandShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

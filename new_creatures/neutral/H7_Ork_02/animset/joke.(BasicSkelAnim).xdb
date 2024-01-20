@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BasicSkelAnim ObjectRecordID="527">
+	<SrcName href="/models/Creatures/Castle/Peasant.mb"/>
+	<uid>B8A24CF4-20C5-42F4-A108-08F019FB0F1E</uid>
+	<ExpSrcClip href="/Animations/Creatures/Peasant/Clip/Peasant.stir00.ma"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+	<ExpFrameFirst>0</ExpFrameFirst>
+	<ExpFrameLast>0</ExpFrameLast>
+	<ExpSettingsFile href="/H:/Tools/MayaExportSettings/settings_character_anim.ges"/>
+	<MovementSpeed>0</MovementSpeed>
+	<SpeedFactor>0.9</SpeedFactor>
+	<Sound href="/Sounds/_(Sound)/Creatures/Neutral/H7_Ork/ork_joke.xdb#xpointer(/Sound)"/>
+	<Effect/>
+	<SpeedLineFallTime>250</SpeedLineFallTime>
+	<SpeedLineMaterial/>
+</BasicSkelAnim>

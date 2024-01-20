@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="dwarf guard.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="dwarf guard-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="dwarf guard-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>

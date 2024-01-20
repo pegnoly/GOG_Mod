@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapObjectLink>
+	<Link href="/MapObjects/Haven/ElratAngel.xdb#xpointer(/AdvMapMonsterShared)"/>
+	<RndGroup/>
+	<IconFile>ElratAngel.dds</IconFile>
+	<HideInEditor>false</HideInEditor>
+</AdvMapObjectLink>

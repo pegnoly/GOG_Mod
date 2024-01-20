@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/right wing.mb"/>
+	<uid>35DD83A2-CF9C-413A-8406-3D3DD822E2E9</uid>
+	<RootMesh/>
+	<RootJoint>polySurface87</RootJoint>
+	<Size>
+		<x>2.47592</x>
+		<y>0.27518</y>
+		<z>4.56737</z>
+	</Size>
+	<Center>
+		<x>1.23121</x>
+		<y>-0.0300206</y>
+		<z>-0.290803</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape87</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

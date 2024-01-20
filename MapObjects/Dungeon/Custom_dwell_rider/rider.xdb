@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Arenas/Town/Dungeon/UpperRock-lambert36.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Dungeon/UpperRock-lambert36.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Dungeon/wicked_pastures_u2r0-_7_lambert6.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="mushrooms.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="rider-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

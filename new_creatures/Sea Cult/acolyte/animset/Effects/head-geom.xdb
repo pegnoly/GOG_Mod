@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Head.mb"/>
+	<uid>0242ECB1-195C-423F-AFA2-C643E47F8F86</uid>
+	<RootMesh/>
+	<RootJoint>Head2</RootJoint>
+	<Size>
+		<x>0.362112</x>
+		<y>0.293816</y>
+		<z>0.257579</z>
+	</Size>
+	<Center>
+		<x>0.182304</x>
+		<y>0.0252978</y>
+		<z>-0.000667557</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>0</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>MaleHeadBretonShape</Item>
+		<Item>HeadBase:HairMaleNord14Shape</Item>
+		<Item>HeadBase:HumanBeard41Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

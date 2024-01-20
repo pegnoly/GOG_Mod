@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterView>
+	<Model href="shark_warrior_3.xdb#xpointer(/Model)"/>
+	<AnimSet href="shark_warrior_3-arena.xdb#xpointer(/AnimSet)"/>
+	<sequence/>
+	<Effect/>
+</CharacterView>

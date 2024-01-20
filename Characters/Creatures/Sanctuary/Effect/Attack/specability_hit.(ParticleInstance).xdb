@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParticleInstance ObjectRecordID="1000875">
+	<SrcName/>
+	<Light>L_NORMAL</Light>
+	<Particle href="/Effects/_(Particle)/Characters/NECROPOLIS/Wraith/specability_hit.(Particle).xdb#xpointer(/Particle)"/>
+	<Position>
+		<x>0</x>
+		<y>0.1</y>
+		<z>0</z>
+	</Position>
+	<Rotation>
+		<x>0.9</x>
+		<y>0</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.22</Scale>
+	<Speed>0.82</Speed>
+	<Offset>1</Offset>
+	<EndCycle>2.5</EndCycle>
+	<CycleCount>1</CycleCount>
+	<Pivot>
+		<x>0</x>
+		<y>0</y>
+	</Pivot>
+	<Textures>
+		<Item href="Textures/FlashGlow07.xdb#xpointer(/Texture)"/>
+		<Item href=".xdb#xpointer(/Texture)"/>
+		<Item/>
+		<Item href="Textures/Glow08.xdb#xpointer(/Texture)"/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item href=".xdb#xpointer(/Texture)"/>
+		<Item href=".xdb#xpointer(/Texture)"/>
+	</Textures>
+	<IsCrown>false</IsCrown>
+	<Static>P_STATIC</Static>
+	<DoesCastShadow>false</DoesCastShadow>
+	<GlueToBone>0</GlueToBone>
+	<GlueToNamedBone>Heade</GlueToNamedBone>
+	<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+	<Priority>0</Priority>
+</ParticleInstance>

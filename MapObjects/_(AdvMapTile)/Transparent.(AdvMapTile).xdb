@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapTile>
+	<Texture href="/Textures/Effects/_Various/SparkBlue00.xdb#xpointer(/Texture)"/>
+	<SecondTexture/>
+	<Material/>
+	<Priority>25</Priority>
+	<Type>TT_GRASS</Type>
+	<MinimapColor>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</MinimapColor>
+	<IconFile/>
+	<AmbientSoundSet/>
+	<AdventureMusic/>
+	<HideInEditor>false</HideInEditor>
+</AdvMapTile>

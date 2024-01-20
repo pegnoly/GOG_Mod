@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParticleInstance ObjectRecordID="1000249">
+				<SrcName/>
+				<Light>L_NORMAL</Light>
+				<Particle href="#n:inline(Particle)" id="item_11d7e652-6807-45f4-b736-43f26899fe35">
+					<Particle ObjectRecordID="1000211">
+						<SrcName href="/Effects/Characters/DemonLord/Path/FireSmoke02_Small.mb"/>
+						<ExportPrefix>Smoke</ExportPrefix>
+						<WrapSize>
+							<x>0</x>
+							<y>0</y>
+						</WrapSize>
+						<Bound>c0b3243dc087c73dd8153d3fb9136e405e2a19409bb41b40fa7dbd3f</Bound>
+						<PerParticleFog>false</PerParticleFog>
+						<uid>299559E4-D578-484E-A9AD-F700B476F8A4</uid>
+					</Particle>
+				</Particle>
+				<Position>
+		<x>-0.9</x>
+		<y>0.9</y>
+					<z>0</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>0</w>
+				</Rotation>
+				<Scale>0.4</Scale>
+				<Speed>1</Speed>
+				<Offset>0</Offset>
+				<EndCycle>3</EndCycle>
+				<CycleCount>0</CycleCount>
+				<Pivot>
+					<x>0</x>
+					<y>0</y>
+				</Pivot>
+				<Textures>
+					<Item href="Textures/Lightning/ElectricDischarge00.xdb#xpointer(/Texture)"/>
+					<Item href="Textures/Lightning/Lightning01.(Texture).xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+				</Textures>
+	<IsCrown>false</IsCrown>
+	<Static>P_STATIC</Static>
+	<DoesCastShadow>false</DoesCastShadow>
+	<GlueToBone>0</GlueToBone>
+	<GlueToNamedBone>Tail6</GlueToNamedBone>
+	<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+	<Priority>0</Priority>
+</ParticleInstance>

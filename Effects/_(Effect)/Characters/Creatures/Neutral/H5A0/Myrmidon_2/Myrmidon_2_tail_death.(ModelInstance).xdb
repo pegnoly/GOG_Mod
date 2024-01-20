@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance>
+	<Model href="Myrmidon_2_tail.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim href="/Characters/Creatures/Neutral/H5A0/Myrmidon_2/Myrmidon_2-arena-tail_death.xdb#xpointer(/BasicSkelAnim)"/>
+	<Position>
+		<x>0.27</x>
+		<y>-0.05</y>
+		<z>-0.8</z>
+	</Position>
+	<Rotation>
+		<x>-0.04</x>
+		<y>0</y>
+		<z>-0.6</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.57</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>1</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>Spine</GlueToNamedBone>
+</ModelInstance>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="orc_warrior(Material).xdb#xpointer(/Material)"/>
+		<Item href="/new_creatures/orcs/dm_orc_warrior/orc_warrior(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="dm_orc_leg_l2-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

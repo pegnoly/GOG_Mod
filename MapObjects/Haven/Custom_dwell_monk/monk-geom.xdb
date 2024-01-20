@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/monk.mb"/>
+	<uid>42662BE8-ACE7-4F55-A622-5E366E08EE84</uid>
+	<RootMesh/>
+	<RootJoint>monk</RootJoint>
+	<Size>
+		<x>6.49585</x>
+		<y>9.46524</y>
+		<z>10.3779</z>
+	</Size>
+	<Center>
+		<x>-0.00230849</x>
+		<y>0.0933633</y>
+		<z>5.19827</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>1.5</y>
+		<z>11</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>2</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>postamentShape</Item>
+		<Item>soborShape</Item>
+		<Item>oknaShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

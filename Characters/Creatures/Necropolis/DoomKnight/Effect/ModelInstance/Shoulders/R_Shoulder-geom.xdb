@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/R_Shoulder.mb"/>
+	<uid>66714893-C596-4ED9-AC5E-3D52EE200E00</uid>
+	<RootMesh/>
+	<RootJoint>R_Shoulder</RootJoint>
+	<Size>
+		<x>0.82729</x>
+		<y>0.919779</y>
+		<z>0.742507</z>
+	</Size>
+	<Center>
+		<x>-0.055885</x>
+		<y>-0.0473935</y>
+		<z>-0.0446745</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>R_ShoulderShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/kappa_head.mb"/>
+	<uid>D62AD5C6-F813-436A-9F7F-CA6D4EFAE134</uid>
+	<RootMesh/>
+	<RootJoint>Latnik</RootJoint>
+	<Size>
+		<x>2.0971</x>
+		<y>2.4283</y>
+		<z>1.694</z>
+	</Size>
+	<Center>
+		<x>-0.00425005</x>
+		<y>-0.17105</y>
+		<z>0.6652</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>2</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>vfghj_polySurfaceShape1</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

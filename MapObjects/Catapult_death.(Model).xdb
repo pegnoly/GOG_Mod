@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="3988">
+	<Materials>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Veselov-lambert5.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/_(Model)/Buildings/Posters/Night-lambert10.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="#n:inline(Skeleton)" id="item_26b2b806-6223-4593-a05b-1d75d333487c">
+		<Skeleton ObjectRecordID="308">
+			<SrcName href="/models/Creatures/WarMachines/Catapult_death.mb"/>
+			<RootJoint>Global</RootJoint>
+			<MSRFormat>true</MSRFormat>
+			<Animations/>
+			<uid>71C74DC3-C904-477A-8F23-98E5EF89CFDA</uid>
+		</Skeleton>
+	</Skeleton>
+	<Geometry href="#n:inline(Geometry)" id="item_6c03d889-f65d-4595-8169-a373d764c364">
+		<Geometry ObjectRecordID="3427">
+			<SrcName href="/Animations/Creatures/WarMachines/Catapult/Catapult_Death.mb"/>
+			<uid>4494ABE5-CF9D-412D-B495-854C87383138</uid>
+			<RootMesh>Global</RootMesh>
+			<RootJoint/>
+			<Size>
+				<x>5.72413</x>
+				<y>8.95311</y>
+				<z>7.92253</z>
+			</Size>
+			<Center>
+				<x>0</x>
+				<y>-0.267287</y>
+				<z>3.96126</z>
+			</Center>
+			<BestFitPoint>
+				<x>-4.1394e-008</x>
+				<y>-4.74384</y>
+				<z>7.92253</z>
+			</BestFitPoint>
+			<Dir>
+				<x>0</x>
+				<y>0</y>
+				<z>0</z>
+				<w>0</w>
+			</Dir>
+			<AIGeometry href="#n:inline(AIGeometry)" id="item_41d084b9-a083-4cf9-b4f2-161f9dfbd872">
+				<AIGeometry ObjectRecordID="123">
+					<SrcName href="/Animations/Creatures/WarMachines/Catapult/Catapult_Death.mb"/>
+					<RootMesh>AI</RootMesh>
+					<RootJoint/>
+					<Volume>0</Volume>
+					<SolidPart>0</SolidPart>
+					<AABBCenter>
+						<x>0.373554</x>
+						<y>0.610133</y>
+						<z>1.97952</z>
+					</AABBCenter>
+					<AABBHalfSize>
+						<x>3.79487</x>
+						<y>4.76053</y>
+						<z>1.97952</z>
+					</AABBHalfSize>
+					<uid>B33CC569-0A84-4D80-BB09-E86C6643E5A5</uid>
+				</AIGeometry>
+			</AIGeometry>
+			<NumMeshes>27</NumMeshes>
+			<MaterialQuantities>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+				<Item>1</Item>
+			</MaterialQuantities>
+			<MeshNames>
+				<Item>Catapult_meshShape</Item>
+				<Item>Catapult_mesh1Shape</Item>
+				<Item>Catapult_mesh3Shape</Item>
+				<Item>Catapult_mesh4Shape</Item>
+				<Item>Catapult_meshShape2</Item>
+				<Item>Catapult_mesh5Shape</Item>
+				<Item>Catapult_mesh6Shape</Item>
+				<Item>Catapult_mesh7Shape</Item>
+				<Item>Catapult_mesh8Shape</Item>
+				<Item>Catapult_mesh9Shape</Item>
+				<Item>Catapult_mesh10Shape</Item>
+				<Item>Catapult_mesh11Shape</Item>
+				<Item>Catapult_mesh12Shape</Item>
+				<Item>Catapult_mesh13Shape</Item>
+				<Item>Catapult_mesh14Shape</Item>
+				<Item>Catapult_mesh15Shape</Item>
+				<Item>Catapult_mesh16Shape</Item>
+				<Item>Catapult_mesh17Shape</Item>
+				<Item>Catapult_mesh18Shape</Item>
+				<Item>Catapult_mesh19Shape</Item>
+				<Item>Catapult_mesh20Shape</Item>
+				<Item>Catapult_mesh21Shape</Item>
+				<Item>Catapult_mesh22Shape</Item>
+				<Item>Catapult_mesh23Shape</Item>
+				<Item>Catapult_mesh24Shape</Item>
+				<Item>Catapult_mesh25Shape</Item>
+				<Item>Catapult_mesh26Shape</Item>
+			</MeshNames>
+			<MeshAnimated/>
+			<MeshWindAffected/>
+		</Geometry>
+	</Geometry>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

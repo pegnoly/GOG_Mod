@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/pit.mb"/>
+	<uid>6C82FE75-15E6-4933-AE0D-47FAF1BB7B8C</uid>
+	<RootMesh/>
+	<RootJoint>pit</RootJoint>
+	<Size>
+		<x>12.9625</x>
+		<y>12.7303</y>
+		<z>12.2183</z>
+	</Size>
+	<Center>
+		<x>0.305376</x>
+		<y>0.427348</y>
+		<z>6.05786</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>14</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>5</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>zaglushkaShape</Item>
+		<Item>stoneShape</Item>
+		<Item>stolbShape</Item>
+		<Item>stenaShape</Item>
+		<Item>demonShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

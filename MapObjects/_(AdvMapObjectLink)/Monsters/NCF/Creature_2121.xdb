@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapObjectLink>
+    <Link href="/MapObjects/Heaven/Pretorianin/RoyalGuard.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+    <RndGroup/>
+    <IconFile>Icons\Creature_622.dds</IconFile>
+    <HideInEditor>false</HideInEditor>
+</AdvMapObjectLink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Shoulder.mb"/>
+	<uid>08BB4642-396B-4037-88BF-42C482FAABB8</uid>
+	<RootMesh/>
+	<RootJoint>L_Shoulder</RootJoint>
+	<Size>
+		<x>0.604168</x>
+		<y>0.582554</y>
+		<z>0.42632</z>
+	</Size>
+	<Center>
+		<x>-0.017598</x>
+		<y>-0.005519</y>
+		<z>0.029565</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_ShoulderShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="/Characters/Heroes/H5A2/God_Of_Dwarves.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="/Characters/Creatures/Dwarves/T7_Dwarf/FireDragon-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="/Characters/Creatures/Dwarves/T7_Dwarf/FireDragon-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>
+

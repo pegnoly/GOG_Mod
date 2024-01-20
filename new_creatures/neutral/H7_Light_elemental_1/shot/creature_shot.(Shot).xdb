@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shot ObjectRecordID="13">
+	<StartEffect/>
+	<RotateStartEffectToTarget>false</RotateStartEffectToTarget>
+	<MissileShot>
+		<Model/>
+		<Effect href="FX_DivineVengeance.(Effect).xdb#xpointer(/Effect)"/>
+		<Speed>0.035</Speed>
+		<Height>0</Height>
+		<ForwardOffset>2.6</ForwardOffset>
+		<StartZOffset>1.25</StartZOffset>
+		<RightOffset>0</RightOffset>
+	</MissileShot>
+	<LineShot>
+		<Effects/>
+		<SkipSegmentsNumber>0</SkipSegmentsNumber>
+		<SegmentLength>2</SegmentLength>
+		<StepDelay>66</StepDelay>
+		<EffectLifeTime>4100</EffectLifeTime>
+	</LineShot>
+	<StrikeDelay>0</StrikeDelay>
+	<StrikeEffectID>SPELL_FIREBALL</StrikeEffectID>
+	<DelayBetweenChains>0</DelayBetweenChains>
+	<StrikeVisualEffect/>
+</Shot>

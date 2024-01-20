@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/RShoulder.mb"/>
+	<uid>006242F8-7E85-452D-8651-A85A0E83A928</uid>
+	<RootMesh/>
+	<RootJoint>RShoulder</RootJoint>
+	<Size>
+		<x>0.157399</x>
+		<y>0.278845</y>
+		<z>0.500177</z>
+	</Size>
+	<Center>
+		<x>-0.0368215</x>
+		<y>-0.0113415</y>
+		<z>0.163992</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>RShoulderShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

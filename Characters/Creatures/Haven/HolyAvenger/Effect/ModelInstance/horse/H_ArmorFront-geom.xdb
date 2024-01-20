@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/H_ArmorFront.mb"/>
+	<uid>038555D1-2965-4BAF-A6A7-F0F6FA9EB40B</uid>
+	<RootMesh/>
+	<RootJoint>H_ArmorFront</RootJoint>
+	<Size>
+		<x>1.11482</x>
+		<y>1.21677</y>
+		<z>1.07811</z>
+	</Size>
+	<Center>
+		<x>-0.019261</x>
+		<y>0.010606</y>
+		<z>0.111094</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>H_ArmorFrontShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

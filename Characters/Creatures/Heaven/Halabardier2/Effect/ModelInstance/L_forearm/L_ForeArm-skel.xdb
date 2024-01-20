@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/L_ForeArm.mb"/>
+	<RootJoint>L_ForeArm</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>818F40BB-E360-4EFE-BEBF-FCB2185A1DB7</uid>
+</Skeleton>

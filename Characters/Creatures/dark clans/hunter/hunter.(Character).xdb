@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="1000008">
+	<Model href="hunter.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="hunter-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Grenadier-adv.xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>

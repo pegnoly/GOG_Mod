@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000546">
+	<Instances>
+		<Item href="/MapObjects/Inferno/Custom_dwell_pit/GrailFX.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="/MapObjects/Inferno/Custom_dwell_pit/HeartGlow.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="/MapObjects/Inferno/Custom_dwell_pit/TempleNoSmoke2.xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="/MapObjects/Inferno/Custom_dwell_pit/Heart.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

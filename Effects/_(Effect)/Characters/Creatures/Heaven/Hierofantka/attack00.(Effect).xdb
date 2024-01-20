@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="rangeattack00.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="rangeattack01.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="attack01.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="Model/ModelInstance/head/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="Model/ModelInstance/crown/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="Model/ModelInstance/chest/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="Model/ModelInstance/Armor/Model_Shoulder.xdb#xpointer(/ModelInstance)"/>		
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

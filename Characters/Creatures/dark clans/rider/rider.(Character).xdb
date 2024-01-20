@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="28">
+	<Model href="/Characters/Creatures/dark clans/rider/rider.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="/Characters/Creatures/dark clans/rider/rider-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels/>
+</Character>

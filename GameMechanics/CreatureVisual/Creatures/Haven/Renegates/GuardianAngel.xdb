@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/chaostheory/livingsaint/name.txt"/>
+	<CreatureAbilitiesFileRef href="/Text/Game/Creatures/chaostheory/livingsaint/name.txt"/>
+	<DescriptionFileRef href="/Text/Game/Creatures/chaostheory/livingsaint/Description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64 href="/Icons/Creatures/Heaven/LivingSaint/FallenAngel.(Texture).xdb#xpointer(/Texture)"/>
+	<Icon128 href="/Icons/Creatures/Heaven/LivingSaint/Fallen_Angel.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Heaven/LivingSaintRed/Archangel.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot href="/GameMechanics/Shot/Creatures/Heaven/LivingSaint/LS.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Flesh_and_Blood.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>-0.0265395</x>
+		<y>-0.0677697</y>
+		<z>2.30853</z>
+	</MountPoint>
+	<MountBone>Chest</MountBone>
+</CreatureVisual>

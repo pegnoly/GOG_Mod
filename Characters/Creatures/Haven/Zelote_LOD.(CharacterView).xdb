@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterView ObjectRecordID="46">
+	<Model href="/_(Model)/Creatures/Haven/Zelote.(Model).xdb#xpointer(/Model)"/>
+	<AnimSet href="/_(AnimSet)/Creatures/Haven/Zelote-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<sequence/>
+	<Effect/>
+</CharacterView>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shot>
+	<StartEffect/>
+	<RotateStartEffectToTarget>false</RotateStartEffectToTarget>
+	<MissileShot>
+		<Model/>
+		<Effect href="/Effects/_(Effect)/Spells/Fireball.xdb#xpointer(/Effect)"/>
+		<Speed>0.04</Speed>
+		<Height>0</Height>
+		<ForwardOffset>0</ForwardOffset>
+		<StartZOffset>1.4</StartZOffset>
+		<RightOffset>0</RightOffset>
+	</MissileShot>
+	<LineShot>
+		<Effects/>
+		<SkipSegmentsNumber>1</SkipSegmentsNumber>
+		<SegmentLength>2</SegmentLength>
+		<StepDelay>100</StepDelay>
+		<EffectLifeTime>1000</EffectLifeTime>
+	</LineShot>
+	<StrikeDelay>0</StrikeDelay>
+	<DelayBetweenChains>250</DelayBetweenChains>
+	<StrikeVisualEffect href="/GameMechanics/SpellVisual/Fun.xdb#xpointer(/SpellVisual)"/>
+</Shot>

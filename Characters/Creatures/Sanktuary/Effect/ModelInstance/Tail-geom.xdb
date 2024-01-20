@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Tail.mb"/>
+	<uid>27B732D7-E4BD-4587-BD13-98B09FE0685B</uid>
+	<RootMesh/>
+	<RootJoint>Tail</RootJoint>
+	<Size>
+		<x>1.59077</x>
+		<y>1.05399</y>
+		<z>0.804205</z>
+	</Size>
+	<Center>
+		<x>-0.592824</x>
+		<y>0.465654</y>
+		<z>0.253614</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>TailShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

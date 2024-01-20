@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Recruit-lambert.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Recruit-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Recruit-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

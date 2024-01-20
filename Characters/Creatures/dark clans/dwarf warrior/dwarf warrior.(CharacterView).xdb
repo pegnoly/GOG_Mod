@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterView>
+	<Model href="dwarf warrior.xdb#xpointer(/Model)"/>
+	<AnimSet href="dwarf warrior-arena.xdb#xpointer(/AnimSet)"/>
+	<sequence/>
+	<Effect/>
+</CharacterView>

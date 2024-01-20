@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Mane.mb"/>
+	<uid>812BFEA2-7C58-4498-9285-E9C3FCD0D60D</uid>
+	<RootMesh/>
+	<RootJoint>Mane</RootJoint>
+	<Size>
+		<x>0.035784</x>
+		<y>0.405517</y>
+		<z>0.577866</z>
+	</Size>
+	<Center>
+		<x>0.007905</x>
+		<y>-0.0333705</y>
+		<z>-0.085801</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>ManeShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/dungeon/rider.mb"/>
+	<uid>B6297A2F-9642-478C-9816-41B8D3F77F2D</uid>
+	<RootMesh/>
+	<RootJoint>rider</RootJoint>
+	<Size>
+		<x>7.91172</x>
+		<y>7.08805</y>
+		<z>18.2985</z>
+	</Size>
+	<Center>
+		<x>1.30162</x>
+		<y>0.867611</y>
+		<z>9.11243</z>
+	</Center>
+	<BestFitPoint>
+		<x>1</x>
+		<y>0.8</y>
+		<z>19</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>4</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>stoneShape</Item>
+		<Item>verhShape</Item>
+		<Item>osnovaShape</Item>
+		<Item>mushroomsShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

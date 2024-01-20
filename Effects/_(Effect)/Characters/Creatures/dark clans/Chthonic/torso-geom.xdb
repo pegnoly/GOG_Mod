@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/kappa_up_torso.mb"/>
+	<uid>83DDFFBC-7377-416C-9536-7B3E57DE5633</uid>
+	<RootMesh/>
+	<RootJoint>Latnik</RootJoint>
+	<Size>
+		<x>1.357</x>
+		<y>1.7977</y>
+		<z>0.9367</z>
+	</Size>
+	<Center>
+		<x>0.0221</x>
+		<y>-0.16895</y>
+		<z>0.03485</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>vfghj_polySurfaceShape1</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

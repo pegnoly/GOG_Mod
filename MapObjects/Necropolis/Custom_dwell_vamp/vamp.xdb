@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Arenas/Town/Necropolis/Estate_u2r0-Estate_mat.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Necropolis/Estate_u2r0-Estate_Window_noLM.3.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Necropolis/Estate_u2r0-Rock.3.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="vamp-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

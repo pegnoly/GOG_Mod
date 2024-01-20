@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Effects/_(Effect)/Characters/Creatures/dark clans/dwarven pikeman/T4_Dwarf/Brawler-lambert10.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Brawler-Diffuse_Mt1.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="/Effects/_(Effect)/Characters/Creatures/dark clans/dwarven pikeman/T4_Dwarf/Brawler-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="/Effects/_(Effect)/Characters/Creatures/dark clans/dwarven pikeman/T4_Dwarf/Brawler-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

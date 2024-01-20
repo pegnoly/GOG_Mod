@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<Geometry>
+			<SrcName href="/models/Creatures/WarMachines/Ballista.mb"/>
+			<uid>0EDD5F1C-B98F-449C-A7A8-C0F2341E3C0F</uid>
+			<RootMesh/>
+			<RootJoint>Global</RootJoint>
+			<Size>
+				<x>2.96258</x>
+				<y>3.39189</y>
+				<z>1.30228</z>
+			</Size>
+			<Center>
+				<x>0</x>
+				<y>-0.147942</y>
+				<z>0.645338</z>
+			</Center>
+			<BestFitPoint>
+				<x>0.0287559</x>
+				<y>-0.547133</y>
+				<z>1.12233</z>
+			</BestFitPoint>
+			<Dir>
+				<x>0</x>
+				<y>0</y>
+				<z>0</z>
+				<w>0</w>
+			</Dir>
+			<AIGeometry href="Ballista.(AIGeometry).xdb#xpointer(/AIGeometry)"/>
+			<NumMeshes>2</NumMeshes>
+			<MaterialQuantities>
+				<Item>1</Item>
+				<Item>1</Item>
+			</MaterialQuantities>
+			<MeshNames>
+				<Item>BodyShape</Item>
+				<Item>PikeShape</Item>
+			</MeshNames>
+			<MeshAnimated/>
+			<MeshWindAffected/>
+		</Geometry>

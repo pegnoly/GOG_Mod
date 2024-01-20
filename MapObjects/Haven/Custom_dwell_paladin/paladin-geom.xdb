@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/heaven/paladin.mb"/>
+	<uid>04C2C781-086C-4527-B392-C9B7FFEC97FF</uid>
+	<RootMesh/>
+	<RootJoint>paladin</RootJoint>
+	<Size>
+		<x>13.9298</x>
+		<y>13.8919</y>
+		<z>6.1239</z>
+	</Size>
+	<Center>
+		<x>0.00145483</x>
+		<y>0.0058558</y>
+		<z>3.05405</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>9</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>2</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>arenaShape</Item>
+		<Item>Plane001Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

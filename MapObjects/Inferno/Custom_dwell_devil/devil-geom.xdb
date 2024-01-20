@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/devil.mb"/>
+	<uid>652EB8E0-0195-44A3-AD33-5594534221D2</uid>
+	<RootMesh/>
+	<RootJoint>devil</RootJoint>
+	<Size>
+		<x>12.5414</x>
+		<y>12.5542</y>
+		<z>18.943</z>
+	</Size>
+	<Center>
+		<x>-0.0233374</x>
+		<y>0.0114586</y>
+		<z>7.86212</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>-2</y>
+		<z>18</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>5</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Object001Shape</Item>
+		<Item>osnovaShape</Item>
+		<Item>okna_1Shape</Item>
+		<Item>okna_2Shape</Item>
+		<Item>okna_3Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

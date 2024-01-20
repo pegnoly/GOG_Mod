@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Model_Neck1.mb"/>
+	<uid>FAE5CD70-A378-423F-88E4-F31A30A9C28E</uid>
+	<RootMesh/>
+	<RootJoint>Model_Neck1</RootJoint>
+	<Size>
+		<x>0.712266</x>
+		<y>0.362632</y>
+		<z>0.496109</z>
+	</Size>
+	<Center>
+		<x>-0.010723</x>
+		<y>0.015227</y>
+		<z>0.0284715</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Model_Neck1Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

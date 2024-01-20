@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="hair.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item/>
+		<Item href="torso.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="sp.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="2naga_hip.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="naga_hip.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item/>
+		<Item href="tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="2tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="3tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="4tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="5tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="16tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="11tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="12tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="13tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="14tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="15tentacle.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item/>
+		<Item href="faceless_arm_l3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="faceless_arm_r3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="faceless_arm_l1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="faceless_arm_r1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="faceless_arm_r2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="faceless_arm_l2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item/>
+		<Item href="1wings/Lwings_idle00.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1wings/Rwings_idle00.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="wings/Lwings_idle00.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="wings/Rwings_idle00.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

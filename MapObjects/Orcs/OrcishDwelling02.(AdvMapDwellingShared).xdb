@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapDwellingShared>
+	<Model/>
+	<AnimSet/>
+	<blockedTiles>
+		<Item>
+			<x>1</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>2</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>2</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+	</blockedTiles>
+	<holeTiles/>
+	<activeTiles>
+		<Item>
+			<x>1</x>
+			<y>0</y>
+		</Item>
+	</activeTiles>
+	<passableTiles/>
+	<PossessionMarkerTile>
+		<x>0</x>
+		<y>0</y>
+	</PossessionMarkerTile>
+	<Effect href="1dwel.(Effect).xdb#xpointer(/Effect)"/>
+	<EffectWhenOwned href="1dwel.(Effect).xdb#xpointer(/Effect)"/>
+	<messagesFileRef>
+		<Item href="FortressAxemen/Name.txt"/>
+		<Item href="FortressAxemen/Description.txt"/>
+		<Item href="FortressAxemen/FirstVisit.txt"/>
+		<Item href="FortressAxemen/SecondVisit.txt"/>
+		<Item href="FortressAxemen/FirstVisitNoHire.txt"/>
+		<Item href="FortressAxemen/SecondVisitNoHire.txt"/>
+	</messagesFileRef>
+	<WaterBased>false</WaterBased>
+	<ApplyHeroTrace>false</ApplyHeroTrace>
+	<SoundEffect/>
+	<flybyMessageFileRef href=""/>
+	<ObjectTypeFileRef href="/Text/Visibility_Types/Buildings.txt"/>
+	<TerrainAligned>false</TerrainAligned>
+	<FlyPassable>true</FlyPassable>
+	<AdventureSoundEffect/>
+	<RazedStatic/>
+	<Icon128 href="02.xdb#xpointer(/Texture)"/>
+	<Type>BUILDING_STRONGHOLD_CENTAURS</Type>
+	<guards/>
+	<creatures>
+		<Item>CREATURE_CENTAUR</Item>
+	</creatures>
+	<RandomType>DWELLING_TYPE_SPECIFIC</RandomType>
+</AdvMapDwellingShared>

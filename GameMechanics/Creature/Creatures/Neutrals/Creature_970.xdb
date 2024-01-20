@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature>
+	<AttackSkill>80</AttackSkill>
+	<DefenceSkill>80</DefenceSkill>
+	<Shots>0</Shots>
+	<MinDamage>200</MinDamage>
+	<MaxDamage>250</MaxDamage>
+	<Speed>5</Speed>
+	<Initiative>9</Initiative>
+	<Flying>false</Flying>
+	<Health>8000</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>1900</Exp>
+	<Power>30000</Power>
+	<TimeToCommand>20</TimeToCommand>
+	<CreatureTier>8</CreatureTier>
+	<Upgrade>false</Upgrade>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_WATER</First>
+		<Second>ELEMENT_NONE</Second>
+	</MagicElement>
+	<WeeklyGrowth>1</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>10</Sulfur>
+		<Gem>0</Gem>
+		<Gold>22000</Gold>
+	</Cost>
+	<PresetPrice>0</PresetPrice>
+	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<MonsterShared href="/new_creatures/neutral/H7_KrakenBoss/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack href="Strike_KrakenBoss.xdb#xpointer(/PatternAttack)"/>
+	<flybySequence/>
+	<Visual href="/new_creatures/neutral/H7_KrakenBoss/creature.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
+	<Range>0</Range>
+	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_FEAR</Item>
+		<Item>ABILITY_FRIGHT_AURA</Item>
+		<Item>ABILITY_CRUSHING_BLOW</Item>
+		<Item>ABILITY_DEMONIC</Item>
+		<Item>ABILITY_ACID_BLOOD</Item>
+		<Item>ABILITY_MAGIC_PROOF_75</Item>
+		<Item>ABILITY_IMMUNITY_TO_WATER</Item>
+		<Item>ABILITY_IMMUNITY_TO_CURSE</Item>
+		<Item>ABILITY_IMMUNITY_TO_MIND_CONTROL</Item>
+		<Item>ABILITY_IMMUNITY_TO_BLIND</Item>
+	</Abilities>
+</Creature>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIGeometry>
+	<SrcName href="/models/Creatures/Castle/Peasant.mb"/>
+	<RootMesh>AI</RootMesh>
+	<RootJoint/>
+	<Volume>0</Volume>
+	<SolidPart>0</SolidPart>
+	<AABBCenter>
+		<x>0</x>
+		<y>-0.0885088</y>
+		<z>0.803958</z>
+	</AABBCenter>
+	<AABBHalfSize>
+		<x>0.425881</x>
+		<y>0.334043</y>
+		<z>0.803958</z>
+	</AABBHalfSize>
+	<uid>BA789043-9423-4333-9094-E7DC40EBC911</uid>
+</AIGeometry>

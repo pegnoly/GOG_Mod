@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/belt.mb"/>
+	<uid>84FF907E-A0F7-4E48-B55D-5ADDAE0A3657</uid>
+	<RootMesh/>
+	<RootJoint>belt</RootJoint>
+	<Size>
+		<x>0.728746</x>
+		<y>0.527804</y>
+		<z>0.972257</z>
+	</Size>
+	<Center>
+		<x>-0.093892</x>
+		<y>0.045773</y>
+		<z>-0.201439</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>beltShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

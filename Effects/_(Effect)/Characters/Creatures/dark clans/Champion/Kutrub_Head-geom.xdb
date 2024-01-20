@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName/>
+	<uid>3C5CE318-AAC1-4167-9DFD-2AA6FD2930CE</uid>
+	<RootMesh/>
+	<RootJoint>Kutrub_Head</RootJoint>
+	<Size>
+		<x>0.147745</x>
+		<y>0.18459</y>
+		<z>0.180836</z>
+	</Size>
+	<Center>
+		<x>0.000790887</x>
+		<y>-0.0354683</y>
+		<z>0.0649985</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Kutrub_Head</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

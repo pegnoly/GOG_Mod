@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/R_Leg.mb"/>
+	<uid>0818EFCF-7C4C-455B-ABAC-5DD34A21F1F5</uid>
+	<RootMesh/>
+	<RootJoint>R_Leg</RootJoint>
+	<Size>
+		<x>0.283393</x>
+		<y>0.297516</y>
+		<z>0.588067</z>
+	</Size>
+	<Center>
+		<x>0.0032425</x>
+		<y>-0.033872</y>
+		<z>0.0420925</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>R_LegShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

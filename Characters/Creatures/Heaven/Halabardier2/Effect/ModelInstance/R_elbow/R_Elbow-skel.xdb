@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/R_Elbow.mb"/>
+	<RootJoint>R_Elbow</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>CC692772-3885-4A41-9ECC-80B38DD9FF52</uid>
+</Skeleton>

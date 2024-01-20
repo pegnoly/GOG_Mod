@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/models/Creatures/Castle/Champion.mb"/>
+			<RootJoint>Global</RootJoint>
+			<MSRFormat>true</MSRFormat>
+			<Animations/>
+			<uid>BAB8213D-8806-4DF9-BEA4-72CF8836BDA1</uid>
+</Skeleton>

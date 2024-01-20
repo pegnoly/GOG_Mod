@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+			
+		<Item href="Effect/.xdb#xpointer(/ParticleInstance)"/>
+		
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="ModelInstance/Horseman/Head(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Horseman/Shoulders/L_Shoulder(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Horseman/Shoulders/R_Shoulder(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Horseman/Chest(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+				
+		<Item href="ModelInstance/Horseman/Shield(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Horseman/Shoulders/Sword(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+
+		
+		**************************HORSE**************************
+			/////////////Ogon///////////////
+			<Item href="ModelInstance/H_Back/Tail/Model_Death.xdb#xpointer(/ModelInstance)"/>
+		
+		      //////////Nogi przod/////////
+		<Item href="ModelInstance/H_frontlegs/H_hand/H_RHand(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/H_LHand(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/H_RForeArm(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/H_LForeArm(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		
+		     /////////Nogi Tyl//////////////
+		<Item href="ModelInstance/H_frontlegs/H_hand/HR_Foot(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/HL_Foot(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/HR_Leg(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/HL_Leg(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/H_neck/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/H_frontlegs/H_hand/Head(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+
+		<Item href="ModelInstance/horse/H_HeadArmor(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/horse/H_ArmorFront(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/horse/H_BackArmor(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

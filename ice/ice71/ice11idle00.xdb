@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000286">
+	<Instances/>
+
+	<Lights/>
+	<Models>
+		<Item href="hip.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="head4.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back.(ModelInstance).xdb#xpointer(/ModelInstance)"/>	
+		<Item href="toe1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>	
+		<Item href="toe.(ModelInstance).xdb#xpointer(/ModelInstance)"/>	
+		<Item href="back.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back3.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back4.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back5.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back6.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back7.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back8.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back9.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back10.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back11.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back12.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back13.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="back14.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handR.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handL.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handR1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handL1.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handR2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="handL2.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

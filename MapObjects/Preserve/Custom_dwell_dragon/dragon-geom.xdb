@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/dragon.mb"/>
+	<uid>1A650EB3-D93F-4EC7-858F-1AFC6D3B582C</uid>
+	<RootMesh/>
+	<RootJoint>dragon</RootJoint>
+	<Size>
+		<x>9.10222</x>
+		<y>10.3594</y>
+		<z>23.7289</z>
+	</Size>
+	<Center>
+		<x>-1.66367</x>
+		<y>-0.0348651</y>
+		<z>2.51976</z>
+	</Center>
+	<BestFitPoint>
+		<x>-1</x>
+		<y>0.2</y>
+		<z>16</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>4</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>osnovaShape</Item>
+		<Item>podShape</Item>
+		<Item>korniShape</Item>
+		<Item>treesShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

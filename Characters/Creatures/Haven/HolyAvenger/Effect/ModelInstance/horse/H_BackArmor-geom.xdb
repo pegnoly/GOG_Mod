@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/H_BackArmor.mb"/>
+	<uid>16B18C67-EBAE-4FBD-A073-4E3AAB16B56F</uid>
+	<RootMesh/>
+	<RootJoint>H_BackArmor</RootJoint>
+	<Size>
+		<x>1.07013</x>
+		<y>1.04325</y>
+		<z>1.08276</z>
+	</Size>
+	<Center>
+		<x>-0.0974975</x>
+		<y>0.018703</y>
+		<z>-0.0609225</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>H_BackArmorShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

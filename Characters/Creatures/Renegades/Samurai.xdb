@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Samurai-lambert3.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Samurai-lambert3.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Samurai-lambert3.1.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Samurai-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Samurai-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

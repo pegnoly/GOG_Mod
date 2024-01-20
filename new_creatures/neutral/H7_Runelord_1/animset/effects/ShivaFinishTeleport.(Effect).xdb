@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="303">
+	<Instances>
+		<Item/>
+		<Item href="Finish_Step1-Blind.1.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Finish_Step1-Blind.2.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights>
+		<Item href="Finish_Step2-Orb.(LightInstance).xdb#xpointer(/LightInstance)"/>
+		<Item href="Finish_Step1-Blind.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="#n:inline(ModelInstance)" id="item_8ab6a579-26c1-4d4c-8c11-e4bbeef812e0">
+			<ModelInstance ObjectRecordID="32">
+				<Model href="/_(Model)/Effects/Spells/Anti-magic.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="Anti-magic.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>1</Scale>                                
+	                        <Speed>1.4</Speed>
+				<Offset>0.01</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>1</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Hellspike.mb"/>
+	<uid>29194106-552C-4C1A-AF1B-84953130D4C1</uid>
+	<RootMesh/>
+	<RootJoint>Hellspike</RootJoint>
+	<Size>
+		<x>1.51947</x>
+		<y>1.57255</y>
+		<z>0.218154</z>
+	</Size>
+	<Center>
+		<x>-0.0221525</x>
+		<y>-0.062799</y>
+		<z>0.081524</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>HellspikeShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

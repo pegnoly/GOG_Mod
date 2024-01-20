@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/RSword.mb"/>
+	<uid>583B46BB-F333-43E5-8172-2572E558C315</uid>
+	<RootMesh/>
+	<RootJoint>RSword</RootJoint>
+	<Size>
+		<x>0.9904</x>
+		<y>3.3378</y>
+		<z>0.1649</z>
+	</Size>
+	<Center>
+		<x>0.160025</x>
+		<y>-0.780637</y>
+		<z>0.10195</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>RSwordShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

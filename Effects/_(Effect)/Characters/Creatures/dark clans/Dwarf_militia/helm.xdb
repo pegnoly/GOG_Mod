@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="helm.(Material).xdb#xpointer(/Material)"/>
+		<Item href="helm.(Material).xdb#xpointer(/Material)"/>
+		<Item href="helm.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="helm-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="helm-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

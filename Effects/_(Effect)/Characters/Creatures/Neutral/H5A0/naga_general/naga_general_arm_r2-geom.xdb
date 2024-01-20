@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Latnik2.mb"/>
+	<uid>13E56F77-5106-4EFE-A28C-E15147E4D03F</uid>
+	<RootMesh/>
+	<RootJoint>Latnik</RootJoint>
+	<Size>
+		<x>0.7509</x>
+		<y>0.3595</y>
+		<z>0.3834</z>
+	</Size>
+	<Center>
+		<x>0.02925</x>
+		<y>-0.04815</y>
+		<z>0.03</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>vfghj_polySurfaceShape1</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

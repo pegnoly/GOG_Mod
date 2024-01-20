@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="42">
+	<Model href="Killer.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Killer-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Killer-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>

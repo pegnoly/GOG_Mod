@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature ObjectRecordID="1000010">
+	<AttackSkill>9</AttackSkill>
+	<DefenceSkill>12</DefenceSkill>
+	<Shots>0</Shots>
+	<MinDamage>6</MinDamage>
+	<MaxDamage>15</MaxDamage>
+	<Speed>5</Speed>
+	<Initiative>10</Initiative>
+	<Flying>false</Flying>
+	<Health>70</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>62</Exp>
+	<Power>846</Power>
+	<TimeToCommand>15</TimeToCommand>
+	<CreatureTier>4</CreatureTier>
+	<Upgrade>true</Upgrade>
+	<PairCreature>CREATURE_2169</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_WATER</First>
+		<Second>ELEMENT_AIR</Second>
+	</MagicElement>
+	<WeeklyGrowth>4</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>0</Gem>
+		<Gold>440</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<MonsterShared href="/MapObjects/Neutral/Myrmidon_2.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/Myrmidon_2.xdb#xpointer(/CreatureVisual)"/>
+	<Range>0</Range>
+	<BaseCreature>CREATURE_2169</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_IMMUNITY_TO_WATER</Item>
+		<Item>ABILITY_REGENERATION</Item>
+		<Item>ABILITY_UNLIMITED_RETALIATION</Item>
+		<Item>ABILITY_TAUNT</Item>
+	</Abilities>
+</Creature>

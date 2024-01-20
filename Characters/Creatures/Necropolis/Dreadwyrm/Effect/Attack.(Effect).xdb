@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+			<Item href="ParticleInstance/Sorrow.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>						
+							
+		<Item href="ParticleInstance/attack/attack00.xdb#xpointer(/ParticleInstance)"/>
+		<Item href="ParticleInstance/attack/attack02.xdb#xpointer(/ParticleInstance)"/>
+		<Item href="ParticleInstance/attack/attack03.xdb#xpointer(/ParticleInstance)"/>
+
+	</Instances>
+	<Lights/>
+	<Models>
+					
+		<Item href="ModelInstance/Model_Head.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/Model_Jaw.xdb#xpointer(/ModelInstance)"/>	
+		
+		<Item href="ModelInstance/Model_Neck_1.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/Model_Neck_2.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Chest.xdb#xpointer(/ModelInstance)"/>	
+		
+		<Item href="ModelInstance/Model_Spine.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/Model_Hip.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/Model_Global.xdb#xpointer(/ModelInstance)"/>			
+		<Item href="ModelInstance/Model_Global2.xdb#xpointer(/ModelInstance)"/>	
+		
+		<Item href="ModelInstance/Ground/Model_Global.xdb#xpointer(/ModelInstance)"/>		
+		
+								
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

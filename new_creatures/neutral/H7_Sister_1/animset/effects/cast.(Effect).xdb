@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="Cast/cast.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		
+	</Instances>
+	<Lights>
+		<Item href="Cast/FX_DivineVengeance.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="Cast/FX_DivineVengeance.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	
+		<Item href="Cast/cast.(ModelInstance).xdb#xpointer(/ModelInstance)"/>	
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>5</Duration>
+</Effect>

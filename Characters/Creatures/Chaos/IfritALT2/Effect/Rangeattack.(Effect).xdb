@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>	
+			<Item href="ParticleInstance/GrailFX.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>			
+			<Item href="ParticleInstance/HeartGlow.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+						
+			<Item href="ParticleInstance/Head.xdb#xpointer(/ParticleInstance)"/>
+			
+			<Item href="#n:inline(ParticleInstance)" id="item_ec7b1dc4-490c-4cb8-8520-6631336bdad8">
+			<ParticleInstance ObjectRecordID="1000359">
+				<SrcName/>
+				<Light>L_NORMAL</Light>
+				<Particle href="/Effects/_(Particle)/Spells/ChainLightningHit_Flash.xdb#xpointer(/Particle)"/>
+				<Position>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.3</Scale>
+				<Speed>0.8</Speed>
+				<Offset>1</Offset>
+				<EndCycle>1</EndCycle>
+				<CycleCount>1</CycleCount>
+				<Pivot>
+					<x>0</x>
+					<y>0</y>
+				</Pivot>
+				<Textures>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/Spells/FlashGlow03.xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/_Various/glow07_orange.(Texture).xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+				</Textures>
+				<IsCrown>false</IsCrown>
+				<Static>P_STATIC</Static>
+				<DoesCastShadow>false</DoesCastShadow>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone>R_Hand</GlueToNamedBone>
+				<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+				<Priority>0</Priority>
+			</ParticleInstance>
+		</Item>
+			
+			///////////////////BACK///////////////////
+			<Item href="ParticleInstance/BGrailFX.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>			
+			<Item href="ParticleInstance/BHeartGlow.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		
+			<Item href="ParticleInstance/Fire Column.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+			
+			<Item href="ParticleInstance/FireWINGL.xdb#xpointer(/ParticleInstance)"/>
+			<Item href="ParticleInstance/FireWINGR.xdb#xpointer(/ParticleInstance)"/>
+
+			<Item href="#n:inline(ParticleInstance)" id="item_91f3ba2b-9d6c-4a78-abf3-d290fc27b476">
+				<ParticleInstance ObjectRecordID="479">
+					<SrcName/>
+					<Light>L_NORMAL</Light>
+					<Particle href="/Effects/_(Particle)/Towns/Inferno/Hellhole02.xdb#xpointer(/Particle)"/>
+					<Position>
+						<x>0</x>
+						<y>0.2</y>
+						<z>-2.2</z>
+					</Position>
+					<Rotation>
+						<x>0</x>
+						<y>0</y>
+						<z>0</z>
+						<w>1</w>
+					</Rotation>
+					<Scale>1</Scale>
+					<Speed>0.7</Speed>
+					<Offset>0</Offset>
+					<EndCycle>4</EndCycle>
+					<CycleCount>0</CycleCount>
+					<Pivot>
+						<x>0</x>
+						<y>0</y>
+					</Pivot>
+					<Textures>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire00.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire01.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire02.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire03.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire04.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire05.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire06.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire07.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire08.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire09.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/FireSequence/Red/Fire10.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/_Various/Glow08.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/_Various/SparkRed01.xdb#xpointer(/Texture)"/>
+						<Item/>
+						<Item/>
+						<Item/>
+					</Textures>
+					<IsCrown>false</IsCrown>
+					<Static>P_STATIC</Static>
+					<DoesCastShadow>false</DoesCastShadow>
+					<GlueToBone>0</GlueToBone>
+					<GlueToNamedBone>Chest</GlueToNamedBone>
+					<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+					<Priority>0</Priority>
+				</ParticleInstance>
+			</Item>
+			
+			<Item href="#n:inline(ParticleInstance)" id="item_07bd9207-54b8-4aeb-b102-3526d82b26d4">
+				<ParticleInstance ObjectRecordID="1000249">
+					<SrcName/>
+					<Light>L_NORMAL</Light>
+					<Particle href="#n:inline(Particle)" id="item_11d7e652-6807-45f4-b736-43f26899fe35">
+						<Particle ObjectRecordID="1000211">
+							<SrcName href="/Effects/Characters/DemonLord/Path/FireSmoke02_Small.mb"/>
+							<ExportPrefix>Smoke</ExportPrefix>
+							<WrapSize>
+								<x>0</x>
+								<y>0</y>
+							</WrapSize>
+							<Bound>c0b3243dc087c73dd8153d3fb9136e405e2a19409bb41b40fa7dbd3f</Bound>
+							<PerParticleFog>false</PerParticleFog>
+							<uid>299559E4-D578-484E-A9AD-F700B476F8A4</uid>
+						</Particle>
+					</Particle>
+					<Position>
+						<x>0</x>
+						<y>0</y>
+						<z>-0.3</z>
+					</Position>
+					<Rotation>
+						<x>0</x>
+						<y>0</y>
+						<z>0</z>
+						<w>0</w>
+					</Rotation>
+					<Scale>0.8</Scale>
+					<Speed>1</Speed>
+					<Offset>0</Offset>
+					<EndCycle>6</EndCycle>
+					<CycleCount>0</CycleCount>
+					<Pivot>
+						<x>0</x>
+						<y>0</y>
+					</Pivot>
+					<Textures>
+						<Item href="/Textures/Effects/Spells/RedFire01.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/Spells/RedFire02.xdb#xpointer(/Texture)"/>
+						<Item href="/Textures/Effects/Spells/RedFire03.xdb#xpointer(/Texture)"/>
+					</Textures>
+					<IsCrown>false</IsCrown>
+					<Static>P_STATIC</Static>
+					<DoesCastShadow>false</DoesCastShadow>
+					<GlueToBone>0</GlueToBone>
+					<GlueToNamedBone/>
+					<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+					<Priority>0</Priority>
+				</ParticleInstance>
+			</Item>
+		
+	</Instances>
+	<Lights/>
+	<Models>
+		
+		<Item href="ModelInstance/Model_Head.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_Jaw.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Chest.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Back/Model_Back.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Shoulders/Model_L_Shoulder.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Shoulders/Model_R_Shoulder.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/ForeArms/Model_L_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/ForeArms/Model_R_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		
+		
+		<Item href="#n:inline(ModelInstance)" id="item_100b215b-e302-4c36-931e-8167819bc65a">
+			<ModelInstance ObjectRecordID="1000030">
+				<Model href="Attack/deflectarrows_shield.xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Spells/DeflectArrows_shield.xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>0</x>
+					<y>-1</y>
+					<z>0.2</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.5</Scale>
+				<Offset>1</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>1</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>				
+					
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

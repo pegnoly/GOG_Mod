@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/R_Leg.mb"/>
+	<RootJoint>R_Leg</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>DDEDC94F-4B45-4D88-9234-9801492F7707</uid>
+</Skeleton>

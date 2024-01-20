@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="naga_swamp_general.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="naga_swamp_general-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels/>
+</Character>

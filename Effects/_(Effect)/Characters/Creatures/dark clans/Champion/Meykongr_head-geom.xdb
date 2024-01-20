@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/helmet.mb"/>
+	<uid>FD5BA908-CD58-44D5-92C5-A5250908E614</uid>
+	<RootMesh/>
+	<RootJoint>Berserke_01</RootJoint>
+	<Size>
+		<x>0.466567</x>
+		<y>0.44054</y>
+		<z>0.305373</z>
+	</Size>
+	<Center>
+		<x>0</x>
+		<y>-0.0079487</y>
+		<z>0.0469441</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape43</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

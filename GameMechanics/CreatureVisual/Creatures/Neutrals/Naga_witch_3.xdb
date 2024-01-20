@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/Neutrals/Naga_witch_3/name.txt"/>
+	<CreatureAbilitiesFileRef href=""/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Neutrals/Naga_witch_3/description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/UI/H5A0/Icons/Creatures/Neutral/128x128/Naga_witch_3.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Neutral/H5A0/Naga_witch_3/Naga_witch_3.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot href="Shot_Naga_witch_3/StormStrike.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Steel_Hits.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>0.0442407</x>
+		<y>-0.283827</y>
+		<z>1.39059</z>
+	</MountPoint>
+	<MountBone>G2_Chest</MountBone>
+</CreatureVisual>

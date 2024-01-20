@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/LC1.mb"/>
+	<uid>418060FF-9F07-4FEB-9C0D-05D46AB06273</uid>
+	<RootMesh/>
+	<RootJoint>polySurface85</RootJoint>
+	<Size>
+		<x>0.49536</x>
+		<y>0.553372</y>
+		<z>0.529373</z>
+	</Size>
+	<Center>
+		<x>-0.090059</x>
+		<y>0.097483</y>
+		<z>1.64207</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape86</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

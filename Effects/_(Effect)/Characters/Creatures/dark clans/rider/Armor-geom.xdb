@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Chestarmor polySurface26.mb"/>
+	<uid>8966C38E-B3A3-4581-9CD4-70556444331C</uid>
+	<RootMesh/>
+	<RootJoint>polySurface26</RootJoint>
+	<Size>
+		<x>0.924801</x>
+		<y>0.285418</y>
+		<z>0.620851</z>
+	</Size>
+	<Center>
+		<x>0</x>
+		<y>-0.0548604</y>
+		<z>-0.234711</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape26</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

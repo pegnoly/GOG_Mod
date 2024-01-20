@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/BackSpike1.mb"/>
+	<uid>FDD0D24B-D3E6-4E10-ABF9-32BA9F253BC8</uid>
+	<RootMesh/>
+	<RootJoint>BackSpike1</RootJoint>
+	<Size>
+		<x>0.206884</x>
+		<y>0.433995</y>
+		<z>0.577498</z>
+	</Size>
+	<Center>
+		<x>0.028188</x>
+		<y>0.111286</y>
+		<z>0.150081</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>BackSpike1Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

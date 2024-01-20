@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/R_Thigh.mb"/>
+	<RootJoint>R_Thigh</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>C8D3DF9D-C572-409C-92BC-65D3FA4CD96B</uid>
+</Skeleton>

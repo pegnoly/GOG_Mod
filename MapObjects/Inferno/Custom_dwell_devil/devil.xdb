@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Arenas/Town/NewInferno/orderoffire_u1r0-OrderOfFire2_lambert145.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/forsakenpalace_u2r0-lambert138.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/forsakenpalace_fx01-lambert140.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/forsakenpalace_fx01-lambert139.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/forsakenpalace_fx02-lambert142.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="devil-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

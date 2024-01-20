@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="dwarven pikeman_body_mat.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="dwarven pikeman_metal_mat.2.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="dwarven pikeman-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="dwarven pikeman-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

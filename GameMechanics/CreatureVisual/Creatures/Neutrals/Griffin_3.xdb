@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/Neutrals/Griffin_3/name.txt"/>
+	<CreatureAbilitiesFileRef href=""/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Neutrals/Griffin_3/description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/UI/H5A0/Icons/Creatures/Neutral/128x128/Griffin_3.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Neutral/H5A0/Griffin_3/Skylord.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Flesh_and_Blood.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>-0.0340881</x>
+		<y>-0.0283348</y>
+		<z>0.903658</z>
+	</MountPoint>
+	<MountBone>Chest</MountBone>
+</CreatureVisual>

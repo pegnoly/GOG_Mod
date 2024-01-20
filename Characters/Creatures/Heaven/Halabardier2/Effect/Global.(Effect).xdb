@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+
+
+	</Instances>
+	<Lights/>
+	<Models>
+		
+		<Item href="ModelInstance/Head/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/chest/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/belt/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_shoulder/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_shoulder/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_arm/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_arm/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_forearm/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_forearm/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_elbow/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_elbow/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_hand/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_hand/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/R_thigh/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/L_thigh/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/L_leg/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/R_leg/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/L_foot/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/R_foot/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/weapon/Model_Global.xdb#xpointer(/ModelInstance)"/>
+
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

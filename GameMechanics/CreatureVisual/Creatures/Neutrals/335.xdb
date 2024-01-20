@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual ObjectRecordID="1001193">
+	<CreatureNameFileRef href="Teksty/Dziadek/Angel.txt"/>
+	<CreatureAbilitiesFileRef href="Teksty/Dziadek/AngelAbilities.txt"/>
+	<DescriptionFileRef href="Teksty/Dziadek/AngelDescription.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/Ikonki/128/Dziadek.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Druid/T4_High_Druid.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot href="/GameMechanics/Shot/Creatures/Preserve/Druid.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Flesh_and_Blood.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView href="#n:inline(Win3DObj)" id="item_b8a29137-263d-4eff-b728-75718c91a8aa">
+		<Win3DObj ObjectRecordID="14">
+			<Model href="/Druid/T4_High_Druid.xdb#xpointer(/Model)"/>
+			<placements>
+				<Item>
+					<SizeDesc href="/GameMechanics/Win3DObjSizeDesc/creatureInfo.xdb#xpointer(/Win3DObjSizeDesc)"/>
+					<Matrix>9ae3243fc5435fbe0000000000000000f806633cf7aa273d64ba2d3f000080bf3ad05ebe448e24bf8003313d000000000000000000000000000000000000803f</Matrix>
+					<Shift>
+						<x>0</x>
+						<y>-1</y>
+					</Shift>
+					<RollY>0.3264</RollY>
+					<RollX>-1.5072</RollX>
+					<Scale>0.68</Scale>
+				</Item>
+			</placements>
+		</Win3DObj>
+	</Win3DView>
+	<MountPoint>
+		<x>0.0783522</x>
+		<y>-0.148639</y>
+		<z>2.7531</z>
+	</MountPoint>
+	<MountBone>p1</MountBone>
+</CreatureVisual>

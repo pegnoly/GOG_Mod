@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="336">
+	<Instances>			
+	</Instances>
+	<Lights/>
+	<Models>			
+			<Item href="Myrmidon_3_tail_move.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_belt.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_jaw.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_beard.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_arm_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_arm_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_sword_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+			<Item href="Myrmidon_3_sword_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

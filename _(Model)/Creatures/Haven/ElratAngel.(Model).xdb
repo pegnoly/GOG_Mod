@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="ElratAngel-Arch_add.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ElratAngel-SwordGlow_.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ElratAngel-Arch_main.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ElratAngel-Arch_add.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ElratAngel-Face_lambert.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ElratAngel_Hair_lambert.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="ElratAngel-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="ElratAngel-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

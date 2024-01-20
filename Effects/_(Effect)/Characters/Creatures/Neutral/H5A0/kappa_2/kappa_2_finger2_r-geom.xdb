@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/kappa_finger2_r.mb"/>
+	<uid>A06AF70D-FC4F-4156-9909-E69EF6A00AE4</uid>
+	<RootMesh/>
+	<RootJoint>Latnik</RootJoint>
+	<Size>
+		<x>0.1981</x>
+		<y>0.3951</y>
+		<z>0.099</z>
+	</Size>
+	<Center>
+		<x>0.01045</x>
+		<y>-0.14985</y>
+		<z>-0.0405</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>vfghj_polySurfaceShape1</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/R_Arm.mb"/>
+	<uid>8A11A091-64A3-4054-8FEB-A2629FC1FEC7</uid>
+	<RootMesh/>
+	<RootJoint>R_Arm</RootJoint>
+	<Size>
+		<x>0.793584</x>
+		<y>0.356665</y>
+		<z>0.344748</z>
+	</Size>
+	<Center>
+		<x>0.013731</x>
+		<y>-0.0165135</y>
+		<z>0.014656</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>R_ArmShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

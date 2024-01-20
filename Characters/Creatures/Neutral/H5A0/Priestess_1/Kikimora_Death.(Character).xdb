@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Character>
+	<Model href="Kikimora_Death.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Kikimora_Death-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels/>
+</Character>

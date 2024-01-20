@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/R_Feaver.mb"/>
+	<uid>406CE4DC-EF28-41A6-8243-598B81F26D6D</uid>
+	<RootMesh/>
+	<RootJoint>R_Feaver</RootJoint>
+	<Size>
+		<x>0.73838</x>
+		<y>1.66195</y>
+		<z>1.56322</z>
+	</Size>
+	<Center>
+		<x>-0.24221</x>
+		<y>0.77116</y>
+		<z>-0.344026</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>R_FeaverShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/academy/djinn.mb"/>
+	<uid>1D195DA3-B5D7-48A7-9DD4-D955C5B65356</uid>
+	<RootMesh/>
+	<RootJoint>djinn</RootJoint>
+	<Size>
+		<x>7.3498</x>
+		<y>7.80601</y>
+		<z>9.89416</z>
+	</Size>
+	<Center>
+		<x>1.02508</x>
+		<y>0.458417</y>
+		<z>5.64735</z>
+	</Center>
+	<BestFitPoint>
+		<x>0.8</x>
+		<y>0.8</y>
+		<z>11</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>4</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>altarShape</Item>
+		<Item>F6B1AB8_04Shape</Item>
+		<Item>F6B1AB8_01Shape</Item>
+		<Item>F6B1AB8_02Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

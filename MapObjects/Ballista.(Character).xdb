@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="39">
+	<Model href="1Ballista.(Model).xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Ballista-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels/>
+</Character>

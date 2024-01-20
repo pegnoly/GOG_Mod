@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Arenas/Town/NewInferno/templeofdamned_u2r0-lambert148.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/templeofdamned_u2r0-lambert148.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/templeofdamned_u2r0-qqq_TempleOfDamnedFPP_Temple2_TempleOfDamned.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/templeofdamned_u2r0-inf_lambert135.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/NewInferno/Grail_u1r0-Grail_M.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="pit-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

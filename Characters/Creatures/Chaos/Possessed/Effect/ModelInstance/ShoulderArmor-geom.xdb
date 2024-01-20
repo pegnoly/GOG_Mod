@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/ShoulderArmor.mb"/>
+	<uid>C1B0B999-B709-44B2-B8BC-DF09C0BDD401</uid>
+	<RootMesh/>
+	<RootJoint>ShoulderArmor</RootJoint>
+	<Size>
+		<x>0.600415</x>
+		<y>0.556165</y>
+		<z>0.514672</z>
+	</Size>
+	<Center>
+		<x>0.0652005</x>
+		<y>-0.0384335</y>
+		<z>0.042036</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>ShoulderArmorShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

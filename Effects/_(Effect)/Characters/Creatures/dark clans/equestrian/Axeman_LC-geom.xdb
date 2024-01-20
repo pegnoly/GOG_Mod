@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/LC polySurface47.mb"/>
+	<uid>7071F297-79D5-4588-B659-0B72C292F475</uid>
+	<RootMesh/>
+	<RootJoint>polySurface47</RootJoint>
+	<Size>
+		<x>0.419132</x>
+		<y>0.544934</y>
+		<z>0.521388</z>
+	</Size>
+	<Center>
+		<x>0.374646</x>
+		<y>0.0583719</y>
+		<z>0.150428</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape48</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

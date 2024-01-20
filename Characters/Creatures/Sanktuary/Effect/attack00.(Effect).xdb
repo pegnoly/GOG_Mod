@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>			
+		<Item href="ParticleInsteance/FR_Leg.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="ParticleInsteance/FL_Leg.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="ParticleInsteance/BR_Leg.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="ParticleInsteance/BL_Leg.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+
+		***************attack*****************
+		<Item href="Attack/specability_hit.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+
+		
+	</Instances>
+	<Lights/>
+	<Models>
+	
+		<Item href="ModelInstance/Model_Heade.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_Jaw.xdb#xpointer(/ModelInstance)"/>
+	
+		<Item href="ModelInstance/T_2a/Model_Global.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/T_2b/Model_Global.xdb#xpointer(/ModelInstance)"/>
+	
+		<Item href="ModelInstance/Model_R_shoulder.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_L_shoulder.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Tail.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/KirinMane/Model_KirinMane.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/KirinMane/Model_KirinMane2.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/KirinMane/Model_KirinMane3.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_BackSpike1.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_BackSpike2.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_BackSpike3.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_BackSpike4.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_BackSpike5.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Husk/Model_L_shoulder.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Husk/Model_R_shoulder.xdb#xpointer(/ModelInstance)"/>
+		
+		**********************Atak************************
+			<Item href="#n:inline(ModelInstance)" id="item_920636e7-ae39-43e7-b17b-3d53be6d569b">
+			<ModelInstance ObjectRecordID="1000032">
+				<Model href="Attack/Shot.xdb#xpointer(/Model)"/>
+				<SkelAnim href="Attack/Shot.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>0</x>
+					<y>-3.5</y>
+					<z>-2.4</z>
+				</Position>
+				<Rotation>
+					<x>0.3</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>3.5</Scale>
+				<Offset>1.3</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>1</CycleCount>
+				<GlueToNamedBone>Heade</GlueToNamedBone>
+				<GlueToBone>0</GlueToBone>
+			</ModelInstance>
+		</Item>
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

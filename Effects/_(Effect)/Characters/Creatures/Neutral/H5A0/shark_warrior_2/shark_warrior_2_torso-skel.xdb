@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/shark_warrior_up_torso.mb"/>
+	<RootJoint>Latnik</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>8F330216-D4E5-4651-92B6-276662321F8D</uid>
+</Skeleton>

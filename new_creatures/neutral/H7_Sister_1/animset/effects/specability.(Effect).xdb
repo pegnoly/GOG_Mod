@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="Specability/cast.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		
+		<Item href="#n:inline(ParticleInstance)" id="item_eeaf7533-8674-405d-99fd-c29ae31e00f7">
+			<ParticleInstance ObjectRecordID="1000485">
+				<SrcName/>
+				<Light>L_SELFILLUM</Light>
+				<Particle href="#n:inline(Particle)" id="item_828534f1-25cd-45ee-b5aa-656159f7980a">
+					<Particle ObjectRecordID="1000400">
+						<SrcName href="/Effects/Spells/Forgetfulness.mb"/>
+						<ExportPrefix>Face</ExportPrefix>
+						<WrapSize>
+							<x>0</x>
+							<y>0</y>
+						</WrapSize>
+						<Bound>90902f3e00608e3c83e59e408ab5cf401b8c7840bb3b6940017c6d40</Bound>
+						<PerParticleFog>false</PerParticleFog>
+						<uid>730E27EF-F1FC-4765-81E5-303745FFBDFA</uid>
+					</Particle>
+				</Particle>
+				<Position>
+					<x>0</x>
+					<y>0</y>
+					<z>1</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.9</Scale>
+				<Speed>0.8</Speed>
+				<Offset>-0.8</Offset>
+				<EndCycle>5</EndCycle>
+				<CycleCount>1</CycleCount>
+				<Pivot>
+					<x>0</x>
+					<y>0</y>
+				</Pivot>
+				<Textures>
+					<Item href="Specability/Cross/Forgetfulness_face.xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+					<Item href=".xdb#xpointer(/Texture)"/>
+				</Textures>
+				<IsCrown>false</IsCrown>
+				<Static>P_STATIC</Static>
+				<DoesCastShadow>false</DoesCastShadow>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+				<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+				<Priority>0</Priority>
+			</ParticleInstance>
+		</Item>
+
+	</Instances>
+	<Lights>
+		<Item href="Specability/FX_DivineVengeance.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="Specability/FX_DivineVengeance.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	
+		<Item href="Specability/cast.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="Specability/Seal/Symbol.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

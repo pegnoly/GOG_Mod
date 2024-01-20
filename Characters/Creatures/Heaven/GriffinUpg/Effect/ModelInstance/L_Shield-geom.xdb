@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Shield.mb"/>
+	<uid>71BA6BD2-7870-4428-9BDD-ADF970AC8074</uid>
+	<RootMesh/>
+	<RootJoint>L_Shield</RootJoint>
+	<Size>
+		<x>0.348357</x>
+		<y>0.685473</y>
+		<z>0.794753</z>
+	</Size>
+	<Center>
+		<x>0.0172915</x>
+		<y>-0.0635935</y>
+		<z>-0.0913815</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_ShieldShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

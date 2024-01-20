@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+	
+		<Item href=".xdb#xpointer(/ParticleInstance)"/>
+		
+				
+	</Instances>
+	<Lights/>
+	<Models>
+		
+		<Item href="ModelInstance/Head/Model_Head.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Chest/Model_Chest.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Hip/Model_Hip.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Shoulders/Model_L_Shoulder.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Shoulders/Model_R_Shoulder.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Shoulders/Model_L_Arm.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Shoulders/Model_R_Arm.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/ForeArms/Model_L_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/ForeArms/Model_R_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Legs/Model_L_Leg.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Legs/Model_R_Leg.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Foots/Model_L_Leg2.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Foots/Model_R_Leg2.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Foots/Model_L_Foot.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Foots/Model_R_Foot.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Sword/Model_Sword.xdb#xpointer(/ModelInstance)"/>
+			
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Thigh.mb"/>
+	<uid>A88B05F3-4EFA-431D-BAE4-D611ACDCA9E3</uid>
+	<RootMesh/>
+	<RootJoint>L_Thigh</RootJoint>
+	<Size>
+		<x>0.281377</x>
+		<y>0.334599</y>
+		<z>0.609988</z>
+	</Size>
+	<Center>
+		<x>-0.0497623</x>
+		<y>0.0388212</y>
+		<z>0.0762547</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_ThighShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

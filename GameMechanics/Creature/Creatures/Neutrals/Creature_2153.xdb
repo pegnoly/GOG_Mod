@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature>
+	<AttackSkill>3</AttackSkill>
+	<DefenceSkill>4</DefenceSkill>
+	<Shots>7</Shots>
+	<MinDamage>3</MinDamage>
+	<MaxDamage>4</MaxDamage>
+	<Speed>7</Speed>
+	<Initiative>10</Initiative>
+	<Flying>false</Flying>
+	<Health>80</Health>
+	<KnownSpells/>
+	<SpellPoints>1000</SpellPoints>
+	<SpellPoints1>5</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>10</Exp>
+	<Power>100</Power>
+	<TimeToCommand>15</TimeToCommand>
+	<CreatureTier>5</CreatureTier>
+	<Upgrade>false</Upgrade>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_WATER</First>
+		<Second>ELEMENT_WATER</Second>
+	</MagicElement>
+	<WeeklyGrowth>3</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>0</Gem>
+		<Gold>850</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+	<MonsterShared href="/MapObjects/dark clans/Tour.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>4</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/dark clans/tour.xdb#xpointer(/CreatureVisual)"/>
+	<Range>-2</Range>
+	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+	<Upgrades/>
+	<Abilities/>
+</Creature>

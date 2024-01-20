@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Knife_joint.mb"/>
+	<uid>CF740949-1EF5-4486-A140-AC3BA2945D0B</uid>
+	<RootMesh/>
+	<RootJoint>Knife_joint</RootJoint>
+	<Size>
+		<x>0.052718</x>
+		<y>0.1447</y>
+		<z>0.429361</z>
+	</Size>
+	<Center>
+		<x>-0.007556</x>
+		<y>0.00413</y>
+		<z>-0.0648925</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Knife_jointShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

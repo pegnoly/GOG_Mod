@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance>
+	<Model href="/Arenas/CombatArena/Necropolisarena/gate1_u1r2.xdb#xpointer(/Model)"/>
+	<SkelAnim href="/_(AnimSet)/CombatArena/Necropolisarena/Gate_2-death.xdb#xpointer(/BasicSkelAnim)"/>
+	<Position>
+		<x>-319</x>
+		<y>-284</y>
+		<z>-9</z>
+	</Position>
+	<Rotation>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>1</CycleCount>
+	<GlueToBone>0</GlueToBone>
+	<GlueToNamedBone/>
+</ModelInstance>

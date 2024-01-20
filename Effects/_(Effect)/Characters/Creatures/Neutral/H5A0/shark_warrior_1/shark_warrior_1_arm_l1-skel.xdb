@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/shark_warrior_arm_l1.mb"/>
+	<RootJoint>Latnik</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>835AE054-1DF7-4CEE-9583-4DDBC74B6E0E</uid>
+</Skeleton>

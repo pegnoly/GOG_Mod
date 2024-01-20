@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="619">
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="#n:inline(ModelInstance)" id="item_5138c515-0634-47fe-8ac5-b02019c58411">
+			<ModelInstance ObjectRecordID="166">
+				<Model href="/_(Model)/Effects/Towns/Haven_BigFlag_Griffin.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Towns/Haven_BigFlag00.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>-0.2</x>
+					<y>1.3</y>
+					<z>11.9</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>1</z>
+					<w>0</w>
+				</Rotation>
+				<Scale>0.6</Scale>
+				<Offset>0</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>0</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+		<Item href="#n:inline(ModelInstance)" id="item_746c38a1-746f-42a0-97e9-964e7aa1ae84">
+			<ModelInstance ObjectRecordID="158">
+				<Model href="/_(Model)/Effects/Towns/Haven_Flag01.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Towns/Haven_Flag01.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>-1.84</x>
+					<y>0.17</y>
+					<z>7.8</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0.3</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.3</Scale>
+				<Offset>1</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>0</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+		<Item href="#n:inline(ModelInstance)" id="item_5b7bcf2b-91d0-4937-b6a4-41e59344a04b">
+			<ModelInstance ObjectRecordID="160">
+				<Model href="/_(Model)/Effects/Towns/Haven_Flag01.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Towns/Haven_Flag01.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>1.35</x>
+					<y>0.165</y>
+					<z>7.8</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0.3</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.3</Scale>
+				<Offset>0</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>0</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+		<Item href="#n:inline(ModelInstance)" id="item_df492b4a-16ff-420f-9c4d-91255db83c8c">
+			<ModelInstance ObjectRecordID="149">
+				<Model href="/_(Model)/Effects/Towns/Haven_Flag00.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Towns/Haven_Flag00.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>-0.2</x>
+					<y>1.7</y>
+					<z>8.45</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0.3</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.3</Scale>
+				<Offset>0</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>0</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+                <Item href="#n:inline(ModelInstance)" id="item_d4c38e33-317a-40cc-875b-bb2c22b94112">
+			<ModelInstance ObjectRecordID="174">
+				<Model href="/_(Model)/Effects/Towns/Haven_Flag00.(Model).xdb#xpointer(/Model)"/>
+				<SkelAnim href="/_(BasicSkelAnim)/Effects/Towns/Haven_Flag00.(BasicSkelAnim).xdb#xpointer(/BasicSkelAnim)"/>
+				<Position>
+					<x>-0.205</x>
+					<y>-1.405</y>
+					<z>7.18</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0.3</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>0.3</Scale>
+				<Offset>0</Offset>
+				<CycleLength>0</CycleLength>
+				<CycleCount>0</CycleCount>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+			</ModelInstance>
+		</Item>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

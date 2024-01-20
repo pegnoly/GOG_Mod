@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Body.mb"/>
+	<uid>C206AF56-9294-4A4B-AE17-6D3FC99287AA</uid>
+	<RootMesh/>
+	<RootJoint>Body</RootJoint>
+	<Size>
+		<x>0.643828</x>
+		<y>0.626227</y>
+		<z>0.566118</z>
+	</Size>
+	<Center>
+		<x>0.007855</x>
+		<y>-0.00374667</y>
+		<z>0.0500007</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>BodyShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

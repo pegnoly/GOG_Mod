@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Foot.mb"/>
+	<uid>9EE04392-CFC8-43DF-A345-A35ED95B1C7E</uid>
+	<RootMesh/>
+	<RootJoint>L_Foot</RootJoint>
+	<Size>
+		<x>1.09032</x>
+		<y>2.00526</y>
+		<z>1.1019</z>
+	</Size>
+	<Center>
+		<x>0.016099</x>
+		<y>-0.233662</y>
+		<z>-0.106888</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_FootShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="2911">
+	<Materials>
+		<Item href="Knight_horse.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Knight.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Knight_weapon.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Knight_weapon.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="#n:inline(Skeleton)" id="item_7064144b-d00a-439d-8f3c-5f479cc8e3ba">
+		<Skeleton ObjectRecordID="1147">
+			<SrcName href="/models/Creatures/Castle/Paladin.mb"/>
+			<RootJoint>Global</RootJoint>
+			<MSRFormat>true</MSRFormat>
+			<Animations/>
+			<uid>34878D87-1477-4B23-B9BA-845D9C83E818</uid>
+		</Skeleton>
+	</Skeleton>
+	<Geometry href="#n:inline(Geometry)" id="item_5e0f951c-2184-4ceb-8e5a-a17e284cbba7">
+<Geometry>
+	<SrcName href="/H5A1/Models/Creatures/Renegates/Champion.mb"/>
+	<uid>25E7AA41-C3A0-41A7-8D53-409E08705CF0</uid>
+	<RootMesh/>
+	<RootJoint>Global</RootJoint>
+	<Size>
+		<x>3.95074</x>
+		<y>4.06773</y>
+		<z>6.90988</z>
+	</Size>
+	<Center>
+		<x>0.272703</x>
+		<y>0.0479165</y>
+		<z>3.45494</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry href="Knight-geom-AI.xdb#xpointer(/AIGeometry)"/>
+	<NumMeshes>4</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>New_Horse_meshShape</Item>
+		<Item>New_Knight_meshShape</Item>
+		<Item>Spear_meshShape</Item>
+		<Item>ShildShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>
+
+	</Geometry>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance>
+	<Model href="Wand_of_.(Model).xdb#xpointer(/Model)"/>
+	<SkelAnim/>
+	<Position>
+		<x>1.11</x>
+		<y>-1.5</y>
+		<z>-1.08</z>
+	</Position>
+	<Rotation>
+		<x>-0.4</x>
+		<y>-0.3</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.8</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToBone>1</GlueToBone>
+	<GlueToNamedBone>R_Sable</GlueToNamedBone>
+</ModelInstance>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/up_right.mb"/>
+	<uid>9D73D44A-37C5-45C4-AC94-FC82A71497AD</uid>
+	<RootMesh/>
+	<RootJoint>polySurface139</RootJoint>
+	<Size>
+		<x>2.72741</x>
+		<y>0.251204</y>
+		<z>4.90475</z>
+	</Size>
+	<Center>
+		<x>1.35556</x>
+		<y>0.179466</y>
+		<z>-0.321797</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape139</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

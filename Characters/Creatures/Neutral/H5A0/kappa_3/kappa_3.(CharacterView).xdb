@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterView>
+	<Model href="kappa_3.xdb#xpointer(/Model)"/>
+	<AnimSet href="kappa_3-arena.xdb#xpointer(/AnimSet)"/>
+	<sequence/>
+	<Effect/>
+</CharacterView>

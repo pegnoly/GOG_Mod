@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Head.mb"/>
+	<uid>50053E33-3370-45FA-A1E9-863ABA5912A7</uid>
+	<RootMesh/>
+	<RootJoint>Head</RootJoint>
+	<Size>
+		<x>0.34278</x>
+		<y>0.402696</y>
+		<z>0.492331</z>
+	</Size>
+	<Center>
+		<x>0.000183001</x>
+		<y>-0.094165</y>
+		<z>0.0324565</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>HeadShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

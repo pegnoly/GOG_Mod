@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Hand.mb"/>
+	<uid>47D2BD88-287D-4A06-A13D-2C83BCAB3835</uid>
+	<RootMesh/>
+	<RootJoint>Hand</RootJoint>
+	<Size>
+		<x>0.263712</x>
+		<y>0.24806</y>
+		<z>0.226221</z>
+	</Size>
+	<Center>
+		<x>-0.043214</x>
+		<y>-0.007205</y>
+		<z>-0.0331505</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>HandShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

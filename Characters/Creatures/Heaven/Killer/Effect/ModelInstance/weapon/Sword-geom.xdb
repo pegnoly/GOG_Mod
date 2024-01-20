@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Sword.mb"/>
+	<uid>F2671C3D-0F50-4807-8C51-4F0E04141D28</uid>
+	<RootMesh/>
+	<RootJoint>Sword</RootJoint>
+	<Size>
+		<x>0.0769722</x>
+		<y>0.330211</y>
+		<z>1.84193</z>
+	</Size>
+	<Center>
+		<x>0.00108415</x>
+		<y>0.00117709</y>
+		<z>-0.542543</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>SwordShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

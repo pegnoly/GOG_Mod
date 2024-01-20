@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParticleInstance ObjectRecordID="1000875">
+	<SrcName/>
+	<Light>L_NORMAL</Light>
+	<Particle href="specability_hit.(Particle).xdb#xpointer(/Particle)"/>
+	<Position>
+		<y>0.3</y>
+		<z>0.15</z>
+		<z>0</z>
+	</Position>
+	<Rotation>
+		<x>-0.07</x>
+		<y>0</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>0.07</Scale>
+	<Speed>0.3</Speed>
+	<Offset>0</Offset>
+	<EndCycle>0.7</EndCycle>
+	<CycleCount>0</CycleCount>
+	<Pivot>
+		<x>0</x>
+		<y>0</y>
+	</Pivot>
+	<Textures>
+		<Item href="/Textures/Effects/Spells/FlashGlow07.xdb#xpointer(/Texture)"/>
+		<Item href=""/>
+		<Item/>
+		<Item href="/Textures/Effects/_Various/Glow08.xdb#xpointer(/Texture)"/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item href=""/>
+		<Item href=""/>
+	</Textures>
+	<IsCrown>false</IsCrown>
+	<Static>P_STATIC</Static>
+	<DoesCastShadow>false</DoesCastShadow>
+	<GlueToBone>0</GlueToBone>
+	<GlueToNamedBone>Bull_Neck</GlueToNamedBone>
+	<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+	<Priority>0</Priority>
+</ParticleInstance>

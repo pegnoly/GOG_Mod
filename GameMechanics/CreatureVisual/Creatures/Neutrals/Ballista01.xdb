@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/Neutrals/Ballista01/name.txt"/>
+	<CreatureAbilitiesFileRef/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Neutrals/Ballista01/description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="ico_Ballista01.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Neutrals/Ballista01/Ballista.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter href="/Characters/Creatures/Neutrals/Ballista01/Ballista_death.(Character).xdb#xpointer(/Character)"/>
+	<AnimShot href="Ballista01.(Shot).xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/War_Machine.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView href="#n:inline(Win3DObj)" id="item_3aa9300f-3961-4480-ab89-87aeb40928d7">
+		<Win3DObj ObjectRecordID="45">
+			<Model href="/Characters/Creatures/Neutrals/Ballista01/Ballista.(Model).xdb#xpointer(/Model)"/>
+			<placements>
+				<Item>
+					<SizeDesc href="/GameMechanics/Win3DObjSizeDesc/creatureInfo.xdb#xpointer(/Win3DObjSizeDesc)"/>
+					<Matrix>08877b3f42933ebe000000b200000000c0368f3db604bd3ed43d6d3f653bdfbe5c9c30bec21869bf2261c03e000000000000000000000000000000000000803f</Matrix>
+					<Shift>
+						<x>0</x>
+						<y>-0.436</y>
+					</Shift>
+					<RollY>0.1872</RollY>
+					<RollX>-1.1856</RollX>
+					<Scale>1</Scale>
+				</Item>
+			</placements>
+		</Win3DObj>
+	</Win3DView>
+	<MountPoint>
+		<x>0</x>
+		<y>0.759</y>
+		<z>0.685</z>
+	</MountPoint>
+	<MountBone>hitPoint</MountBone>
+</CreatureVisual>

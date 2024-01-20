@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect ObjectRecordID="1000166">
+	<Instances>
+		<Item/>
+		<Item/>
+		<Item/>
+		<Item href="Bone/Head.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Bone/Head_InitialState.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="Bone/Head.(ParticleInstance) (2).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="#n:inline(ParticleInstance)" id="item_d1338b4d-66c8-4579-8db8-cba6ca1f2c6d">
+			<ParticleInstance ObjectRecordID="1000177">
+				<SrcName/>
+				<Light>L_NORMAL</Light>
+				<Particle href="/Effects/_(Particle)/Spells/Teleport_end.xdb#xpointer(/Particle)"/>
+				<Position>
+					<x>0</x>
+					<y>0</y>
+					<z>0.5</z>
+				</Position>
+				<Rotation>
+					<x>0</x>
+					<y>0</y>
+					<z>0</z>
+					<w>1</w>
+				</Rotation>
+				<Scale>1</Scale>
+				<Speed>1</Speed>
+				<Offset>0</Offset>
+				<EndCycle>2</EndCycle>
+				<CycleCount>1</CycleCount>
+				<Pivot>
+					<x>0</x>
+					<y>0</y>
+				</Pivot>
+				<Textures>
+					<Item href="SpiralCW.xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/_Various/Glow02.xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/_Various/SparkGreen01.xdb#xpointer(/Texture)"/>
+					<Item href="/Textures/Effects/_Various/SparkGreen00.xdb#xpointer(/Texture)"/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item/>
+					<Item href="Flash01.xdb#xpointer(/Texture)"/>
+					<Item/>
+					<Item href="ButtonRing.xdb#xpointer(/Texture)"/>
+				</Textures>
+				<IsCrown>false</IsCrown>
+				<Static>P_STATIC</Static>
+				<DoesCastShadow>false</DoesCastShadow>
+				<GlueToBone>0</GlueToBone>
+				<GlueToNamedBone/>
+				<LeaveParticlesWhereStarted>false</LeaveParticlesWhereStarted>
+				<Priority>0</Priority>
+			</ParticleInstance>
+		</Item>
+	</Instances>
+	<Lights>
+		<Item href="DimesionDoorEnd.(LightInstance).xdb#xpointer(/LightInstance)"/>
+	</Lights>
+	<Models>
+		<Item href="/Effects/_(ModelInstance)/Effects/Spells/Teleport.xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2</Duration>
+</Effect>

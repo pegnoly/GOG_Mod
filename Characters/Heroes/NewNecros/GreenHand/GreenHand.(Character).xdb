@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="GreenHand-Color-White.(Model).xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="/_(AnimSet)/Heroes/Necromancer-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet/>
+	<ColourModels>
+		<Item href="GreenHand-Color-White.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Red.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Blue.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Green.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Yellow.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Orange.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Teal.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Purple.(Model).xdb#xpointer(/Model)"/>
+		<Item href="GreenHand-Color-Tan.(Model).xdb#xpointer(/Model)"/>
+	</ColourModels>
+</Character>

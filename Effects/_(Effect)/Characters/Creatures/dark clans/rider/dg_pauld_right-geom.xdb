@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/RCpolySurface34.mb"/>
+	<uid>F7D08DD7-0E11-44E8-9990-9FC794DFF0BF</uid>
+	<RootMesh/>
+	<RootJoint>polySurface34</RootJoint>
+	<Size>
+		<x>0.49914</x>
+		<y>0.626389</y>
+		<z>0.50937</z>
+	</Size>
+	<Center>
+		<x>-0.317187</x>
+		<y>0.0684835</y>
+		<z>-0.0366335</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape34</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

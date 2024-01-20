@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shot ObjectRecordID="1000001">
+	<StartEffect/>
+	<RotateStartEffectToTarget>false</RotateStartEffectToTarget>
+	<MissileShot>
+		<Model/>
+		<Effect/>
+		<Speed>0.05</Speed>
+		<Height>0</Height>
+		<ForwardOffset>1.5</ForwardOffset>
+		<StartZOffset>1.3</StartZOffset>
+		<RightOffset>0.2</RightOffset>
+	</MissileShot>
+	<LineShot>
+		<Effects>
+			<Item href="Shot.xdb#xpointer(/Effect)"/>
+		</Effects>
+		<SkipSegmentsNumber>1</SkipSegmentsNumber>
+		<SegmentLength>2</SegmentLength>
+		<StepDelay>0</StepDelay>
+		<EffectLifeTime>1500</EffectLifeTime>
+	</LineShot>
+	<StrikeDelay>0</StrikeDelay>
+	<StrikeEffectID>SPELL_ABILITY_DEATH_CLOUD</StrikeEffectID>
+	<DelayBetweenChains>0</DelayBetweenChains>
+	<StrikeVisualEffect href="Incubus.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
+</Shot>

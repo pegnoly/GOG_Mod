@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Dwelling_5_u2r0-T5_M.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Neutral/Special_5_u1r0-RunicAcademy_M.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Neutral/Dwelling_1_u2r0-T1_M.(Material).xdb#xpointer(/Material)"/>
+		<Item href="ded_plane.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="ded-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

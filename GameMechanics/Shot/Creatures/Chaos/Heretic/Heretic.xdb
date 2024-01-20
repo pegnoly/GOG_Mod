@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shot ObjectRecordID="4">
+	<StartEffect/>
+	<RotateStartEffectToTarget>false</RotateStartEffectToTarget>
+	<MissileShot>
+		<Model/>
+		<Effect/>
+		<Speed>0.06</Speed>
+		<Height>0</Height>
+		<ForwardOffset>0</ForwardOffset>
+		<StartZOffset>0</StartZOffset>
+		<RightOffset>0</RightOffset>
+	</MissileShot>
+	<LineShot>
+		<Effects/>
+		<SkipSegmentsNumber>0</SkipSegmentsNumber>
+		<SegmentLength>2</SegmentLength>
+		<StepDelay>0</StepDelay>
+		<EffectLifeTime>1000</EffectLifeTime>
+	</LineShot>
+	<StrikeDelay>1500</StrikeDelay>
+	<StrikeEffectID>SPELL_NONE</StrikeEffectID>
+	<DelayBetweenChains>0</DelayBetweenChains>
+	<StrikeVisualEffect href="Heretic.(SpellVisual).xdb#xpointer(/SpellVisual)"/>
+</Shot>

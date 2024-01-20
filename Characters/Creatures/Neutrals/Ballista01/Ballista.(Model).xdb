@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model ObjectRecordID="2919">
+	<Materials>
+		<Item href="Ballista.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Ballista.2.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Ballista.(Skel).xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Ballista.(Geometry).xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

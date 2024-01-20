@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character ObjectRecordID="50">
+	<Model href="Archangel.(Model).xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="ArchAngel-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="ArchAngel-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>

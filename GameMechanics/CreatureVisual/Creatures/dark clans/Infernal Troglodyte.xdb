@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/dark clans/Infernal Troglodyte/name.txt"/>
+	<CreatureAbilitiesFileRef href=""/>
+	<DescriptionFileRef href="/Text/Game/Creatures/dark clans/Infernal Troglodyte/description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/UI/H5A0/Icons/Creatures/dark clans/128x128/Infernal Troglodyte.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/dark clans/Infernal Troglodyte/Infernal Troglodyte.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Flesh_and_Blood.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>-0.00961146</x>
+		<y>-0.127935</y>
+		<z>0.583788</z>
+	</MountPoint>
+	<MountBone>Neck</MountBone>
+</CreatureVisual>

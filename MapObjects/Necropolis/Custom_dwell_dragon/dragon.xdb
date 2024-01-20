@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="/Arenas/Town/Necropolis/DragonGraveyrd_u2r0-DragonGraveyard.2.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Necropolis/DragonTombstone_u1r0-DragonTombstone_M.1.(Material).xdb#xpointer(/Material)"/>
+		<Item href="/Arenas/Town/Necropolis/DragonGraveyrd_u2r0-Rock.2.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton/>
+	<Geometry href="dragon-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

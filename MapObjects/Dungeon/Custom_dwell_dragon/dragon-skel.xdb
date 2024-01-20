@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/dungeon/dragon.mb"/>
+	<RootJoint>dragon</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>2215BBFD-CF69-4881-86B8-BC187867E841</uid>
+</Skeleton>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Shield.mb"/>
+	<uid>0B7A81B2-F93D-4DF8-867B-E1978F439A5C</uid>
+	<RootMesh/>
+	<RootJoint>Shield</RootJoint>
+	<Size>
+		<x>0.643718</x>
+		<y>0.2051</y>
+		<z>1.21574</z>
+	</Size>
+	<Center>
+		<x>-0.012979</x>
+		<y>-0.04622</y>
+		<z>-0.115614</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>ShieldShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

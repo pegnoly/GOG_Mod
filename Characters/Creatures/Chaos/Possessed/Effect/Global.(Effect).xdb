@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances/>
+	<Lights/>
+	<Models>
+	
+		<Item href="ModelInstance/Model_Head.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_ShoulderArmor.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_ForeArmor.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_L_Boot.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_R_Boot.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Chain1.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_Chain2.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_Chain3.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_ChainBack.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_ChainBack2.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Sword/Model_Sword.xdb#xpointer(/ModelInstance)"/>
+	
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

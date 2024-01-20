@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/HL_Foot.mb"/>
+	<uid>B642F4CC-CFE5-40CB-AD67-110D96827864</uid>
+	<RootMesh/>
+	<RootJoint>HR_Foot</RootJoint>
+	<Size>
+		<x>0.376555</x>
+		<y>0.391791</y>
+		<z>0.640185</z>
+	</Size>
+	<Center>
+		<x>-0.0199295</x>
+		<y>-0.0225733</y>
+		<z>-0.0344452</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>HR_FootShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

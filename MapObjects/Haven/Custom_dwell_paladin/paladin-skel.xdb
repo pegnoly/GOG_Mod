@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/heaven/paladin.mb"/>
+	<RootJoint>paladin</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>535ECEEE-DF21-4527-A17B-3854A1E2F46C</uid>
+</Skeleton>

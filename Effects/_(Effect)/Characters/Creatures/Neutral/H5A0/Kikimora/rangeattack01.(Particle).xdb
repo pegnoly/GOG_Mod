@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Particle>
+	<SrcName/>
+	<ExportPrefix>FX</ExportPrefix>
+	<WrapSize>
+		<x>0</x>
+		<y>0</y>
+	</WrapSize>
+	<Bound>c09b0cbd299bb4be6e38773f75f06a3fd01feb3ead2b053fc9c1193f</Bound>
+	<PerParticleFog>true</PerParticleFog>
+	<uid>AACFE4D2-A0CE-4302-AF7E-676E224FD30E</uid>
+</Particle>

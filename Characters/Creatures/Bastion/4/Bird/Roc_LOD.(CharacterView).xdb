@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterView ObjectRecordID="144">
+	<Model href="/Characters/Creatures/Bastion/4/Bird/Roc_LOD.(Model).xdb#xpointer(/Model)"/>
+	<AnimSet href="/Characters/Creatures/Bastion/4/Bird/FireBird-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
+	<sequence/>
+	<Effect/>
+</CharacterView>

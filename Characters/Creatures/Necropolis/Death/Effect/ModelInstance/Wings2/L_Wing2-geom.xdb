@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Wing2.mb"/>
+	<uid>5DE04BD5-8671-4484-88D0-35E93CE45E9A</uid>
+	<RootMesh/>
+	<RootJoint>L_Wing2</RootJoint>
+	<Size>
+		<x>0.376424</x>
+		<y>0.205253</y>
+		<z>1.29519</z>
+	</Size>
+	<Center>
+		<x>0.115683</x>
+		<y>0.0541315</y>
+		<z>0.419196</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_Wing2Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

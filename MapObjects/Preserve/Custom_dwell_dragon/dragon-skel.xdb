@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/dragon.mb"/>
+	<RootJoint>dragon</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>AB16798E-1013-4742-8B4E-9A2B87271D81</uid>
+</Skeleton>

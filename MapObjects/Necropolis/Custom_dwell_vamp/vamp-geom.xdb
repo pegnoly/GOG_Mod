@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/vamp.mb"/>
+	<uid>017692C4-7165-41CC-B07E-7E2B143FC532</uid>
+	<RootMesh/>
+	<RootJoint>vamp</RootJoint>
+	<Size>
+		<x>10.1587</x>
+		<y>8.20482</y>
+		<z>5.95118</z>
+	</Size>
+	<Center>
+		<x>-2.09661</x>
+		<y>-0.836146</y>
+		<z>2.97161</z>
+	</Center>
+	<BestFitPoint>
+		<x>-4.2</x>
+		<y>1.2</y>
+		<z>7</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>osnovaShape</Item>
+		<Item>oknaShape</Item>
+		<Item>Object001Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

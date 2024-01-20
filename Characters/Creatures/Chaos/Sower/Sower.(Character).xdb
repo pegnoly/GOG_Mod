@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Character>
+	<Model href="Sower.xdb#xpointer(/Model)"/>
+	<ArenaAnimSet href="Sower-arena.xdb#xpointer(/AnimSet)"/>
+	<AdvMapAnimSet href="Sower-arena.xdb#xpointer(/AnimSet)"/>
+	<ColourModels/>
+</Character>

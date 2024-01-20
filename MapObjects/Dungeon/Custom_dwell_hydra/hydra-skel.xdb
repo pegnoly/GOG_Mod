@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/dungeon/hydra.mb"/>
+	<RootJoint>hydra</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>F79CC1AD-1109-4D0A-9C13-09BDDFF0910B</uid>
+</Skeleton>

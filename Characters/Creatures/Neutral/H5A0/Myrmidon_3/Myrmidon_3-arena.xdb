@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimSet ObjectRecordID="320">
+	<animations>
+                <Item>
+			<Kind>cast</Kind>
+			<Anim href="Myrmidon_3-arena-attack01.xdb#xpointer(/BasicSkelAnim)"/>
+	        </Item>
+		<Item>
+			<Kind>attack00</Kind>
+			<Anim href="Myrmidon_3-arena-attack01.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>attack01</Kind>
+			<Anim href="Myrmidon_3-arena-specability.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>death</Kind>
+			<Anim href="Myrmidon_3-arena-death.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>hit</Kind>
+			<Anim href="Myrmidon_3-arena-hit.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>idle00</Kind>
+			<Anim href="Myrmidon_3-arena-idle00.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>move</Kind>
+			<Anim href="Myrmidon_3-arena-move.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>happy</Kind>
+			<Anim href="Myrmidon_3-arena-happy.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+		<Item>
+			<Kind>stir00</Kind>
+			<Anim href="Myrmidon_3-arena-stir00.xdb#xpointer(/BasicSkelAnim)"/>
+		</Item>
+	</animations>
+	<ExpSrcScene href="/models/Creatures/Dungeon/Minotaur.mb"/>
+	<ExpSrcClipFolder href="/Animations/Creatures/Dungeon/Minotaur/Clip/"/>
+	<ExpRootTransform>Global</ExpRootTransform>
+</AnimSet>

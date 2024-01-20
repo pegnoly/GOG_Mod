@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/vestnik.mb"/>
+	<uid>567C8B94-51F5-42BE-96AB-52876B83D501</uid>
+	<RootMesh/>
+	<RootJoint>vestnik</RootJoint>
+	<Size>
+		<x>12.6842</x>
+		<y>13.435</y>
+		<z>19.7826</z>
+	</Size>
+	<Center>
+		<x>0.0363183</x>
+		<y>0.00998902</y>
+		<z>9.88104</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>-6</y>
+		<z>21</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>2</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>osnovaShape</Item>
+		<Item>oknaShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

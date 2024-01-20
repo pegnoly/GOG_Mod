@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/L_Leg.mb"/>
+	<uid>34AEC5F9-96CB-49B1-A2C6-446EB68BE706</uid>
+	<RootMesh/>
+	<RootJoint>L_Leg</RootJoint>
+	<Size>
+		<x>0.440614</x>
+		<y>0.599094</y>
+		<z>0.647118</z>
+	</Size>
+	<Center>
+		<x>-0.00339101</x>
+		<y>-0.0222916</y>
+		<z>0.022242</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>L_LegShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

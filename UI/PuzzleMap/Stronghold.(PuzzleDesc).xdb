@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PuzzleDesc ObjectRecordID="1000000">
+	<pieces>
+		<Item>
+			<Texture href="Dwarven/01.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/02.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/03.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/04.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/05.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/06.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/07.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/08.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/09.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/10.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/11.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/12.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/13.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/14.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/15.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/16.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/17.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/18.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/19.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/20.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/21.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/22.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/23.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/24.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/25.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/26.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/27.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/28.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/29.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/30.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/31.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/32.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/33.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/34.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/35.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<Texture href="Dwarven/36.(Texture).xdb#xpointer(/Texture)"/>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+	</pieces>
+	<CloseButtonActive href="Dwarven/CloseActive.(Texture).xdb#xpointer(/Texture)"/>
+	<CloseButtonPushed href="Dwarven/ClosePushed.(Texture).xdb#xpointer(/Texture)"/>
+	<CloseButtonOver href="Dwarven/CloseOver.(Texture).xdb#xpointer(/Texture)"/>
+	<Frame href="Dwarven/Frame.(Texture).xdb#xpointer(/Texture)"/>
+</PuzzleDesc>

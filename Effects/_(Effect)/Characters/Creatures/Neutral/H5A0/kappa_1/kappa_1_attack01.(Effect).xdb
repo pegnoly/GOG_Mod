@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances>
+		<Item href="kappa_1_surf01.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="kappa_1_surf02.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+		<Item href="kappa_1_surf03.(ParticleInstance).xdb#xpointer(/ParticleInstance)"/>
+	</Instances>
+	<Lights/>
+	<Models>
+		<Item href="kappa_1_jaw.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_head.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_SirenWaterRiple.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="/Effects/_(ModelInstance)/Effects/Characters/AttackTrails/DemonAttack01.xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_hip.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_hand_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger1_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger2_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger3_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_hand_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger1_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger2_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_finger3_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_foot_r.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="kappa_1_foot_l.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/monk.mb"/>
+	<RootJoint>monk</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>7947034A-4EBA-4A26-9651-D21FF00A20DC</uid>
+</Skeleton>

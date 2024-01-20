@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/HR_Leg.mb"/>
+	<uid>F7DA9965-0F94-40EE-87FB-32A99B2B8850</uid>
+	<RootMesh/>
+	<RootJoint>HR_Leg</RootJoint>
+	<Size>
+		<x>0.352034</x>
+		<y>0.609285</y>
+		<z>0.994131</z>
+	</Size>
+	<Center>
+		<x>-0.034638</x>
+		<y>-0.000781506</y>
+		<z>9.55015e-005</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>HR_LegShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

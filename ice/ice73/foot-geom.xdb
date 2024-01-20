@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/foot.mb"/>
+	<uid>88527929-9EAF-4FFA-9F39-2AFD8AF5D15C</uid>
+	<RootMesh/>
+	<RootJoint>foot</RootJoint>
+	<Size>
+		<x>1.18777</x>
+		<y>2.49819</y>
+		<z>0.646294</z>
+	</Size>
+	<Center>
+		<x>0.828012</x>
+		<y>-0.161994</y>
+		<z>-1.8271</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>footShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

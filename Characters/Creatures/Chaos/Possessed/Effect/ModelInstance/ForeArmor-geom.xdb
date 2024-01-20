@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/ForeArmor.mb"/>
+	<uid>9187A0CB-E66D-4F03-AFED-79C88DB49424</uid>
+	<RootMesh/>
+	<RootJoint>ForeArmor</RootJoint>
+	<Size>
+		<x>0.993408</x>
+		<y>0.790251</y>
+		<z>0.538331</z>
+	</Size>
+	<Center>
+		<x>0.026079</x>
+		<y>-0.00981151</y>
+		<z>0.0295105</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>ForeArmorShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

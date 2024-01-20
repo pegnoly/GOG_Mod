@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="1Lava_Root.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="2tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="3tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="4tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="5tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="6tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="7tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="8tree.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1stoyn.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="2stoyn.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1Lava_Root.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1Lava_Root.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+		<Item href="1Lava_Root.(ModelInstance).xdb#xpointer(/ModelInstance)"/>
+	</Models>
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

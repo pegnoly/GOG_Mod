@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature>
+	<AttackSkill>30</AttackSkill>
+	<DefenceSkill>30</DefenceSkill>
+	<Shots>0</Shots>
+	<MinDamage>35</MinDamage>
+	<MaxDamage>60</MaxDamage>
+	<Speed>6</Speed>
+	<Initiative>8</Initiative>
+	<Flying>false</Flying>
+	<Health>200</Health>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>221</Exp>
+	<Power>3872</Power>
+	<TimeToCommand>10</TimeToCommand>
+	<CreatureTier>7</CreatureTier>
+	<Upgrade>false</Upgrade>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
+	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_AIR</First>
+		<Second>ELEMENT_FIRE</Second>
+	</MagicElement>
+	<WeeklyGrowth>1</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>2</Gem>
+		<Gold>3000</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+	<MonsterShared href="/MapObjects/Neutral/Ape_leader.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/Ape_leader.xdb#xpointer(/CreatureVisual)"/>
+	<Range>0</Range>
+	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_SHIELD_WALL</Item>
+		<Item>ABILITY_FRIGHT_AURA</Item>
+		<Item>ABILITY_CRUSHING_BLOW</Item>
+		<Item>ABILITY_IMMUNITY_TO_WATER</Item>
+		<Item>ABILITY_AURA_OF_FIRE_VULNERABILITY</Item>
+	</Abilities>
+</Creature>

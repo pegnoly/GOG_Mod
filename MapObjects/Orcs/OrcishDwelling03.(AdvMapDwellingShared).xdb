@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapDwellingShared>
+	<Model/>
+	<AnimSet/>
+	<blockedTiles>
+		<Item>
+			<x>-1</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>-1</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>-1</x>
+			<y>-1</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>-1</y>
+		</Item>
+	</blockedTiles>
+	<holeTiles/>
+	<activeTiles>
+		<Item>
+			<x>0</x>
+			<y>-1</y>
+		</Item>
+	</activeTiles>
+	<passableTiles/>
+	<PossessionMarkerTile>
+		<x>0</x>
+		<y>0</y>
+	</PossessionMarkerTile>
+	<Effect href="dwelling03.(Effect).xdb#xpointer(/Effect)"/>
+	<EffectWhenOwned href="dwelling03.(Effect).xdb#xpointer(/Effect)"/>
+	<messagesFileRef>
+		<Item href="FortressBearRiders/Name.txt"/>
+		<Item href="FortressBearRiders/Description.txt"/>
+		<Item href="FortressBearRiders/FirstVisit.txt"/>
+		<Item href="FortressBearRiders/SecondVisit.txt"/>
+		<Item href="FortressBearRiders/FirstVisitNoHire.txt"/>
+		<Item href="FortressBearRiders/SecondVisitNoHire.txt"/>
+	</messagesFileRef>
+	<WaterBased>false</WaterBased>
+	<ApplyHeroTrace>false</ApplyHeroTrace>
+	<SoundEffect/>
+	<flybyMessageFileRef href=""/>
+	<ObjectTypeFileRef href="/Text/Visibility_Types/Buildings.txt"/>
+	<TerrainAligned>false</TerrainAligned>
+	<FlyPassable>true</FlyPassable>
+	<AdventureSoundEffect/>
+	<RazedStatic/>
+	<Icon128 href="03.xdb#xpointer(/Texture)"/>
+	<Type>BUILDING_STRONGHOLD_WARRIORS</Type>
+	<guards/>
+	<creatures>
+		<Item>CREATURE_ORC_WARRIOR</Item>
+	</creatures>
+	<RandomType>DWELLING_TYPE_SPECIFIC</RandomType>
+</AdvMapDwellingShared>

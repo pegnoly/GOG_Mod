@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Effect>
+	<Instances/>
+	<Lights/>
+	<Models>
+		<Item href="ModelInstance/Model_Head.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Chest.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_L_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		<Item href="ModelInstance/Model_R_ForeArm.xdb#xpointer(/ModelInstance)"/>
+		
+		<Item href="ModelInstance/Model_Knife.xdb#xpointer(/ModelInstance)"/>
+
+	</Models>	
+	<WindAffected>false</WindAffected>
+	<WindPower>1</WindPower>
+	<Duration>2.5</Duration>
+</Effect>

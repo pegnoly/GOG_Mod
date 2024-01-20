@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Particle>
+	<SrcName href="/Effects/Towns/Inferno/General.mb"/>
+	<ExportPrefix>DemonGate</ExportPrefix>
+	<WrapSize>
+		<x>0</x>
+		<y>0</y>
+	</WrapSize>
+	<Bound>6070913b5497cbbd8bc1f23d7353353fb610e03e6ba9db3ee4d2b53e</Bound>
+	<PerParticleFog>false</PerParticleFog>
+	<uid>C61DA488-D3E4-4652-B9FF-31B296C3F9CD</uid>
+</Particle>

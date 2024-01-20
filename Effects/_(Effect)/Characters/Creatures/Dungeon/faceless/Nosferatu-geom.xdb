@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Weapon.mb"/>
+	<uid>E5949534-2231-4196-8E9E-A822A8D399F2</uid>
+	<RootMesh/>
+	<RootJoint>Weapon</RootJoint>
+	<Size>
+		<x>2.14008</x>
+		<y>0.11811</y>
+		<z>1.19231</z>
+	</Size>
+	<Center>
+		<x>0.000970662</x>
+		<y>-0.0480745</y>
+		<z>0.369974</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>polySurfaceShape10</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

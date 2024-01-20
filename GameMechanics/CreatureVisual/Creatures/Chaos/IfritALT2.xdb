@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual ObjectRecordID="1001261">
+	<CreatureNameFileRef href="/Text/Game/Creatures/Chaos/IfritALT2/Name.txt"/>
+	<CreatureAbilitiesFileRef/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Chaos/IfritALT2/Description.txt"/>
+	
+	<Icon href="/Textures/Interface/Ico/Chaos/IfritALT2/ico_64.xdb#xpointer(/Texture)"/>
+	<Icon32/>
+	<Icon64 href="/Textures/Interface/Ico/Chaos/IfritALT2/ico_64.xdb#xpointer(/Texture)"/>
+	<Icon128 href="/Textures/Interface/Ico/Chaos/IfritALT2/ico_128.xdb#xpointer(/Texture)"/>
+	
+	<AnimCharacter href="/Characters/Creatures/Chaos/IfritALT2/Incubus.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	
+	<AnimShot href="/GameMechanics/Shot/Creatures/Chaos/IfritALT2/Incubus.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Necro_Hits2.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>true</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>0.0442407</x>
+		<y>-0.283827</y>
+		<z>1.39059</z>
+	</MountPoint>
+	<MountBone>G2_Chest</MountBone>
+</CreatureVisual>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName/>
+	<uid>7FA61428-2EB3-46D6-9AF2-58B588A7A9D6</uid>
+	<RootMesh/>
+	<RootJoint>helmet</RootJoint>
+	<Size>
+		<x>0.54878</x>
+		<y>0.603029</y>
+		<z>1.06627</z>
+	</Size>
+	<Center>
+		<x>0</x>
+		<y>0.0803355</y>
+		<z>0.346171</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>Incubus_helmet</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

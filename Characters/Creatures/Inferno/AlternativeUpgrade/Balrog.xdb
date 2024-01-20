@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Materials>
+		<Item href="Balrog.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Balrog_Sword.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Balrog.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Balrog_Swordglow.(Material).xdb#xpointer(/Material)"/>
+		<Item href="Balrog_Sword.(Material).xdb#xpointer(/Material)"/>
+	</Materials>
+	<Skeleton href="Balrog-skel.xdb#xpointer(/Skeleton)"/>
+	<Geometry href="Balrog-geom.xdb#xpointer(/Geometry)"/>
+	<Animations/>
+	<WindPower>1</WindPower>
+</Model>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/LSword.mb"/>
+	<uid>F380DF58-FE59-4755-B5BE-80B962EE5178</uid>
+	<RootMesh/>
+	<RootJoint>LSword</RootJoint>
+	<Size>
+		<x>0.9904</x>
+		<y>3.3378</y>
+		<z>0.1649</z>
+	</Size>
+	<Center>
+		<x>-0.152638</x>
+		<y>-0.780637</y>
+		<z>0.019949</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>1</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>LSwordShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInstance>
+	<Model href="Peasant.xdb#xpointer(/Model)"/>
+	<SkelAnim href=".xdb#xpointer(/BasicSkelAnim)"/>
+	<Position>
+		<x>-0.11</x>
+		<y>0.115</y>
+		<z>-1.365</z>
+	</Position>
+	<Rotation>
+		<x>0</x>
+		<y>0.42</y>
+		<z>0</z>
+		<w>1</w>
+	</Rotation>
+	<Scale>1.2</Scale>
+	<Offset>0</Offset>
+	<CycleLength>0</CycleLength>
+	<CycleCount>0</CycleCount>
+	<GlueToNamedBone>Axe_R</GlueToNamedBone>
+	<GlueToBone>0</GlueToBone>
+</ModelInstance>
