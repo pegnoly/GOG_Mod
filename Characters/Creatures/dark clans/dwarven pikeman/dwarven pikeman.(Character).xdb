@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="dwarven pikeman.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="dwarven pikeman-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="dwarven pikeman-arena.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

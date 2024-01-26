@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-		<Skeleton>
-			<SrcName href="/models/Creatures/WarMachines/Ballista.mb"/>
-			<RootJoint>Global</RootJoint>
-			<MSRFormat>true</MSRFormat>
-			<Animations/>
-			<uid>2DCE5945-4F7B-4423-9C2B-6BF2D5EEC05A</uid>
-		</Skeleton>

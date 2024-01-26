@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Skeleton>
-	<SrcName href="/models/Creatures/Castle/Peasant.mb"/>
-	<RootJoint>Global</RootJoint>
-	<MSRFormat>true</MSRFormat>
-	<Animations/>
-	<uid>99026652-4A51-4254-A9B0-E0FB30C14697</uid>
-</Skeleton>

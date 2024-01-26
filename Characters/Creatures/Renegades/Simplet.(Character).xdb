@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="Simplet.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Simplet-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="Simplet-arena.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

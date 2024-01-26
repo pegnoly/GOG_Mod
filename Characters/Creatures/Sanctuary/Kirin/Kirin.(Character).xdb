@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character ObjectRecordID="1000132">
-	<Model href="Kirin.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Kirin-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet/>
-	<ColourModels/>
-</Character>

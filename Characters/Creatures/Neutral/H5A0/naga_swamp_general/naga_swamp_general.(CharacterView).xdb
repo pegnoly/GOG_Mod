@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CharacterView>
-	<Model href="naga_swamp_general.xdb#xpointer(/Model)"/>
-	<AnimSet href="naga_swamp_general-arena.xdb#xpointer(/AnimSet)"/>
-	<sequence/>
-	<Effect/>
-</CharacterView>

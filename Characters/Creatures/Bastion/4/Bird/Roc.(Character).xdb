@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character ObjectRecordID="122">
-	<Model href="/Characters/Creatures/Bastion/4/Bird/Roc.(Model).xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="/Characters/Creatures/Bastion/4/Bird/FireBird-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="/Characters/Creatures/Bastion/4/Bird/FireBird-adv.(AnimSet).xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

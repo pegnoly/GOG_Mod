@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="Dreadwyrm.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Dreadwyrm-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="Dreadwyrm-arena.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

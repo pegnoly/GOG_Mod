@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CharacterView>
-	<Model href="dwarf guard.xdb#xpointer(/Model)"/>
-	<AnimSet href="dwarf guard-arena.xdb#xpointer(/AnimSet)"/>
-	<sequence/>
-	<Effect/>
-</CharacterView>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character ObjectRecordID="28">
-	<Model href="rider.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="rider-arena.(AnimSet).xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet/>
-	<ColourModels/>
-</Character>

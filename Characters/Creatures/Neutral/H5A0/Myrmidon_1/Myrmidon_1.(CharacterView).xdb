@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CharacterView>
-	<Model href="Myrmidon_1.xdb#xpointer(/Model)"/>
-	<AnimSet href="Myrmidon_1-arena.xdb#xpointer(/AnimSet)"/>
-	<sequence/>
-	<Effect/>
-</CharacterView>

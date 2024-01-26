@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character ObjectRecordID="97">
-	<Model href="Champion.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Champion-adv.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="Champion-adv.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

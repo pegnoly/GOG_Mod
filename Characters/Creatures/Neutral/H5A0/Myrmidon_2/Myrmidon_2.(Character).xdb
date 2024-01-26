@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="Myrmidon_2.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Myrmidon_2-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="Myrmidon_2-arena.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

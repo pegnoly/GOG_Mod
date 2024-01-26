@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="Acid_Manticore.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="Acid_Manticore-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet/>
-	<ColourModels/>
-</Character>

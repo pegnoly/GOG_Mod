@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Character>
-	<Model href="ArchLish.xdb#xpointer(/Model)"/>
-	<ArenaAnimSet href="ArchLish-arena.xdb#xpointer(/AnimSet)"/>
-	<AdvMapAnimSet href="ArchLish-arena.xdb#xpointer(/AnimSet)"/>
-	<ColourModels/>
-</Character>

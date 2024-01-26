@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<AnimLight>
-	<SrcName href="/Effects/Characters/DUNGEON/Matron/RangeAttack_charge.mb"/>
-	<SelectNode>Light01</SelectNode>
-	<uid>D71A1054-F276-488C-A3DF-3BF4FE5E009B</uid>
-</AnimLight>
