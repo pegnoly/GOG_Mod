@@ -4460,16 +4460,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- ������ ��� �������������� ���� -->
+			<!-- Заготовка основного оружия -->
 			<ID>ARTIFACT_175</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_175/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_175/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/PrimaryBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/PrimaryBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_175/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4486,16 +4486,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка второстепенного оружия -->
 			<ID>ARTIFACT_176</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_176/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_176/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/SecondaryBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/SecondaryBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_176/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4512,16 +4512,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка доспеха -->
 			<ID>ARTIFACT_177</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_177/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_177/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/ChestBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ChestBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_177/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4538,16 +4538,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка шлема -->
 			<ID>ARTIFACT_178</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_178/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_178/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/HelmetBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/HelmetBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_178/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4564,16 +4564,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка поножей -->
 			<ID>ARTIFACT_179</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_179/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_179/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/FootBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/FootBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_179/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4590,16 +4590,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка кольца -->
 			<ID>ARTIFACT_180</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_180/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_180/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/RingBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/RingBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_180/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4616,16 +4616,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка ожерелья -->
 			<ID>ARTIFACT_181</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_181/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_181/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/NeckBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/NeckBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_181/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4642,16 +4642,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка плаща -->
 			<ID>ARTIFACT_182</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_182/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_182/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/CloakBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/CloakBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_182/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -4668,16 +4668,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Заготовка кармана -->
 			<ID>ARTIFACT_183</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_183/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_183/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/PocketBlank/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/PocketBlank/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_183/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
