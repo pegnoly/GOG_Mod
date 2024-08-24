@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapMonsterShared>
-	<Model href="/Characters/Creatures/Dwarves/T1_Dwarf/Defender_LOD.xdb#xpointer(/Model)"/>
-	<AnimSet href="/Characters/Creatures/Dwarves/T1_Dwarf/Deffender-arena.xdb#xpointer(/AnimSet)"/>
+	<Model href="/Characters/Creatures/Dwarves/AlternativeUpgrade/T5_FlameKeeper/T5_FlameKeeper.xdb#xpointer(/Model)"/>
+	<AnimSet href="/Characters/Creatures/Dwarves/AlternativeUpgrade/T5_FlameKeeper/T5_FlameKeeper-arena.xdb#xpointer(/AnimSet)"/>
 	<blockedTiles/>
 	<holeTiles/>
 	<activeTiles>
@@ -18,7 +18,7 @@
 	<Effect/>
 	<EffectWhenOwned/>
 	<messagesFileRef>
-		<Item href="/Text/Game/Creatures/Dwarf/Defender.txt"/>
+		<Item href="/Text/Game/Creatures/Dwarf/3rd/FlameKeeper_Name.txt"/>
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>
@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_2131</Creature>
+	<Creature>CREATURE_2145</Creature>
 </AdvMapMonsterShared>

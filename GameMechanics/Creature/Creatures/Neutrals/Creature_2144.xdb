@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
-	<AttackSkill>14</AttackSkill>
-	<DefenceSkill>10</DefenceSkill>
-	<Shots>0</Shots>
-	<MinDamage>8</MinDamage>
-	<MaxDamage>12</MaxDamage>
-	<Speed>7</Speed>
-	<Initiative>12</Initiative>
+	<AttackSkill>9</AttackSkill>
+	<DefenceSkill>9</DefenceSkill>
+	<Shots>5</Shots>
+	<MinDamage>14</MinDamage>
+	<MaxDamage>17</MaxDamage>
+	<Speed>3</Speed>
+	<Initiative>10</Initiative>
 	<Flying>false</Flying>
-	<Health>40</Health>
-	<KnownSpells/>
-	<SpellPoints>0</SpellPoints>
+	<Health>60</Health>
+	<KnownSpells>
+		<Item>
+			<Spell>SPELL_DEFLECT_ARROWS</Spell>
+			<Mastery>MASTERY_ADVANCED</Mastery>
+		</Item>
+		<Item>
+			<Spell>SPELL_FIREWALL</Spell>
+			<Mastery>MASTERY_ADVANCED</Mastery>
+		</Item>
+	</KnownSpells>
+	<SpellPoints>25</SpellPoints>
 	<SpellPoints1>0</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>
 	<Exp>100</Exp>
-	<Power>926</Power>
-	<TimeToCommand>10</TimeToCommand>
+	<Power>1308</Power>
+	<TimeToCommand>15</TimeToCommand>
 	<CreatureTier>5</CreatureTier>
 	<Upgrade>true</Upgrade>
 	<PairCreature>CREATURE_2143</PairCreature>
 	<CreatureTown>TOWN_NO_TYPE</CreatureTown>
 	<MagicElement>
-		<First>ELEMENT_EARTH</First>
+		<First>ELEMENT_FIRE</First>
 		<Second>ELEMENT_NONE</Second>
 	</MagicElement>
-	<WeeklyGrowth>5</WeeklyGrowth>
+	<WeeklyGrowth>3</WeeklyGrowth>
 	<Cost>
 		<Wood>0</Wood>
 		<Ore>0</Ore>
@@ -32,21 +41,20 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>500</Gold>
+		<Gold>700</Gold>
 	</Cost>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
-	<MonsterShared href="/MapObjects/Stronghold/Executioner.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<MonsterShared href="/MapObjects/Dwarf/Flame_Mage.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>
-	<PatternAttack/>
+	<PatternAttack href="/GameMechanics/Creature/Creatures/Fortress/CrossAttack.xdb#xpointer(/PatternAttack)"/>
 	<flybySequence/>
-	<Visual href="/GameMechanics/CreatureVisual/Creatures/Orcs/OrcChief2.xdb#xpointer(/CreatureVisual)"/>
-	<Range>0</Range>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/Dwarf/Flame_Mage.xdb#xpointer(/CreatureVisual)"/>
+	<Range>-2</Range>
 	<BaseCreature>CREATURE_2143</BaseCreature>
 	<Upgrades/>
 	<Abilities>
-		<Item>ABILITY_FRIGHT_AURA</Item>
-		<Item>ABILITY_BRAVERY</Item>
-		<Item>ABILITY_CLEAVE</Item>
-		<Item>ABILITY_DEMON_RAGED</Item>
+		<Item>ABILITY_IMMUNITY_TO_FIRE</Item>
+		<Item>ABILITY_MARK_OF_FIRE</Item>
+		<Item>ABILITY_CROSS_ATTACK</Item>
 	</Abilities>
 </Creature>

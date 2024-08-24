@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapMonsterShared>
-	<Model href="/Characters/Creatures/Dwarves/T1_Dwarf/Defender_LOD.xdb#xpointer(/Model)"/>
-	<AnimSet href="/Characters/Creatures/Dwarves/T1_Dwarf/Deffender-arena.xdb#xpointer(/AnimSet)"/>
+	<Model href="/Characters/Creatures/Dwarves/T7_Dwarf/FireDragon_LOD.xdb#xpointer(/Model)"/>
+	<AnimSet href="/Characters/Creatures/Dwarves/T7_Dwarf/FireDragon-arena.xdb#xpointer(/AnimSet)"/>
 	<blockedTiles/>
 	<holeTiles/>
 	<activeTiles>
@@ -15,10 +15,10 @@
 		<x>0</x>
 		<y>0</y>
 	</PossessionMarkerTile>
-	<Effect/>
+	<Effect href="/Effects/_(Effect)/Characters/Creatures/Dwarves/FireDragon/idle00.(Effect).xdb#xpointer(/Effect)"/>
 	<EffectWhenOwned/>
 	<messagesFileRef>
-		<Item href="/Text/Game/Creatures/Dwarf/Defender.txt"/>
+		<Item href="/Text/Game/Creatures/Dwarf/Magma_Dragon.txt"/>
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>
@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_2131</Creature>
+	<Creature>CREATURE_2110</Creature>
 </AdvMapMonsterShared>

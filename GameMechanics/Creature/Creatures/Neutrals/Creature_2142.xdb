@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
-	<AttackSkill>10</AttackSkill>
+	<AttackSkill>7</AttackSkill>
 	<DefenceSkill>7</DefenceSkill>
 	<Shots>0</Shots>
-	<MinDamage>7</MinDamage>
-	<MaxDamage>11</MaxDamage>
+	<MinDamage>3</MinDamage>
+	<MaxDamage>7</MaxDamage>
 	<Speed>5</Speed>
-	<Initiative>12</Initiative>
+	<Initiative>11</Initiative>
 	<Flying>false</Flying>
-	<Health>35</Health>
-	<KnownSpells>
-		<Item>
-			<Spell>SPELL_ABILITY_SACRIFICE_GOBLIN</Spell>
-			<Mastery>MASTERY_ADVANCED</Mastery>
-		</Item>
-		<Item>
-			<Spell>SPELL_SLOW</Spell>
-			<Mastery>MASTERY_ADVANCED</Mastery>
-		</Item>
-		<Item>
-			<Spell>SPELL_HASTE</Spell>
-			<Mastery>MASTERY_ADVANCED</Mastery>
-		</Item>
-	</KnownSpells>
-	<SpellPoints>8</SpellPoints>
+	<Health>30</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
 	<SpellPoints1>0</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>
-	<Exp>55</Exp>
-	<Power>692</Power>
+	<Exp>41</Exp>
+	<Power>434</Power>
 	<TimeToCommand>10</TimeToCommand>
 	<CreatureTier>4</CreatureTier>
 	<Upgrade>false</Upgrade>
@@ -37,7 +24,7 @@
 		<First>ELEMENT_EARTH</First>
 		<Second>ELEMENT_NONE</Second>
 	</MagicElement>
-	<WeeklyGrowth>5</WeeklyGrowth>
+	<WeeklyGrowth>6</WeeklyGrowth>
 	<Cost>
 		<Wood>0</Wood>
 		<Ore>0</Ore>
@@ -45,21 +32,22 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>360</Gold>
+		<Gold>220</Gold>
 	</Cost>
+	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
-	<MonsterShared href="/MapObjects/Stronghold/Hag.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<MonsterShared href="/MapObjects/Dwarf/Battlerager.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>
 	<PatternAttack/>
 	<flybySequence/>
-	<Visual href="/GameMechanics/CreatureVisual/Creatures/Orcs/3rd/ShamanHag.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/Dwarf/3rd/BattleRager.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
 	<Range>0</Range>
 	<BaseCreature>CREATURE_2140</BaseCreature>
 	<Upgrades/>
 	<Abilities>
-		<Item>ABILITY_DEMON_RAGED</Item>
-		<Item>ABILITY_SACRIFICE_GOBLIN</Item>
-		<Item>ABILITY_HEXING_ATTACK</Item>
-		<Item>ABILITY_FAST_ATTACK</Item>
+		<Item>ABILITY_ANTI_GIANT</Item>
+		<Item>ABILITY_BASH</Item>
+		<Item>ABILITY_IMMUNITY_TO_MIND_CONTROL</Item>
+		<Item>ABILITY_BATTLE_RAGE</Item>
 	</Abilities>
 </Creature>
