@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature>
 	<AttackSkill>25</AttackSkill>
-	<DefenceSkill>15</DefenceSkill>
+	<DefenceSkill>18</DefenceSkill>
 	<Shots>0</Shots>
-	<MinDamage>15</MinDamage>
-	<MaxDamage>30</MaxDamage>
+	<MinDamage>20</MinDamage>
+	<MaxDamage>28</MaxDamage>
 	<Speed>7</Speed>
-	<Initiative>10</Initiative>
+	<Initiative>11</Initiative>
 	<Flying>true</Flying>
-	<Health>120</Health>
+	<Health>110</Health>
 	<KnownSpells/>
 	<SpellPoints>0</SpellPoints>
 	<SpellPoints1>0</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>
-	<Exp>146</Exp>
-	<Power>2631</Power>
+	<Exp>162</Exp>
+	<Power>2918</Power>
 	<TimeToCommand>10</TimeToCommand>
 	<CreatureTier>6</CreatureTier>
 	<Upgrade>false</Upgrade>
-	<PairCreature>CREATURE_STOUT_DEFENDER</PairCreature>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
 	<CreatureTown>TOWN_FORTRESS</CreatureTown>
 	<MagicElement>
-		<First>ELEMENT_AIR</First>
-		<Second>ELEMENT_EARTH</Second>
+		<First>ELEMENT_EARTH</First>
+		<Second>ELEMENT_AIR</Second>
 	</MagicElement>
 	<WeeklyGrowth>2</WeeklyGrowth>
 	<Cost>
@@ -32,23 +32,20 @@
 		<Crystal>0</Crystal>
 		<Sulfur>0</Sulfur>
 		<Gem>0</Gem>
-		<Gold>1000</Gold>
+		<Gold>1500</Gold>
 	</Cost>
-	<PresetPrice>0</PresetPrice>
 	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
-	<MonsterShared href="/MapObjects/dark clans/Manticora.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<MonsterShared href="/MapObjects/dark clans/Acid_Manticore.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>
 	<flybySequence/>
-	<Visual href="/GameMechanics/CreatureVisual/Creatures/dark clans/Manticora.xdb#xpointer(/CreatureVisual)"/>
+	<Visual href="/GameMechanics/CreatureVisual/Creatures/dark clans/Acid_Manticore.xdb#xpointer(/CreatureVisual)"/>
 	<Range>0</Range>
-	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
-	<Upgrades>
-		<Item>CREATURE_STOUT_DEFENDER</Item>
-		<Item>CREATURE_STONE_DEFENDER</Item>
-	</Upgrades>
+	<BaseCreature>CREATURE_DEFENDER</BaseCreature>
+	<Upgrades/>
 	<Abilities>
-		<Item>ABILITY_POISONOUS_ATTACK</Item>
 		<Item>ABILITY_DEMON_RAGED</Item>
+		<Item>ABILITY_ACID_BLOOD</Item>
+		<Item>ABILITY_VENOM</Item>
 	</Abilities>
 </Creature>

@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_ORCCHIEF_BUTCHER</Creature>
+	<Creature>CREATURE_BEAR_RIDER</Creature>
 </AdvMapMonsterShared>

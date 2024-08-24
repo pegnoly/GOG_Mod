@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_GOBLIN</Creature>
+	<Creature>CREATURE_RUNE_MAGE</Creature>
 </AdvMapMonsterShared>

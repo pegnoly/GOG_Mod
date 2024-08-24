@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_CYCLOP_BLOODEYED</Creature>
+	<Creature>CREATURE_LAVA_DRAGON</Creature>
 </AdvMapMonsterShared>
