@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual ObjectRecordID="0812200755">
+	<CreatureNameFileRef href="/Text/Game/Creatures/Free cities/dark wizard/name.txt"/>
+	<CreatureAbilitiesFileRef/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Free cities/dark wizard/description.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/UI/H5A0/Icons/Creatures/Free cities/128x128/dark wizard.(Texture).xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Free cities/dark wizard.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter href="/Characters/Creatures/Free cities/dark wizardDeath.(Character).xdb#xpointer(/Character)"/>
+	<AnimShot href="/GameMechanics/Shot/Creatures/Neutral/dark wizard_Shot.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Flesh_and_Blood.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>0.0175458</x>
+		<y>-0.0639013</y>
+		<z>1.16347</z>
+	</MountPoint>
+	<MountBone>Chest</MountBone>
+</CreatureVisual>
