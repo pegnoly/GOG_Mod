@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AdvMapMonsterShared>
-	<Model href="/Characters/Creatures/Neutral/StormElemental.xdb#xpointer(/Model)"/>
-	<AnimSet href="/Characters/Creatures/Neutral/StormElemental-arena.xdb#xpointer(/AnimSet)"/>
+	<Model href="/Characters/Creatures/Neutral/BlazeElemental.(Model).xdb#xpointer(/Model)"/>
+	<AnimSet href="/Characters/Creatures/Neutral/BlazeElemental-arena.xdb#xpointer(/AnimSet)"/>
 	<blockedTiles/>
 	<holeTiles/>
 	<activeTiles>
@@ -18,7 +18,7 @@
 	<Effect/>
 	<EffectWhenOwned/>
 	<messagesFileRef>
-		<Item href="/Text/Game/Creatures/Neutrals/Storm_Elemental.txt"/>
+		<Item href="/Text/Game/Creatures/Neutrals/Blaze_Elemental.txt"/>
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>
@@ -31,5 +31,5 @@
 	<RazedStatic/>
 	<Icon128/>
 	<Type>MONSTER_SPECIFIC</Type>
-	<Creature>CREATURE_2311</Creature>
+	<Creature>CREATURE_2313</Creature>
 </AdvMapMonsterShared>
