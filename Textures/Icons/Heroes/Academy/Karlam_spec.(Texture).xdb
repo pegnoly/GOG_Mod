@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Texture>
 	<SrcName href=""/>
-	<DestName href="kspec_icon.dds"/>
+	<DestName href="MarkOfFate.dds"/>
 	<Type>TEXTURE_2D</Type>
 	<ConversionType>CONVERT_ORDINARY</ConversionType>
 	<AddrType>CLAMP</AddrType>
