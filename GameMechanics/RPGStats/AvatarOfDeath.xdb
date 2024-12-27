@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RPGCombatUniqueCreatureStats>
-	<PrototypeCreature>CREATURE_GOLD_DRAGON</PrototypeCreature>
+	<PrototypeCreature>CREATURE_2314</PrototypeCreature>
 	<Health>135</Health>
 	<Health_PerPower>21</Health_PerPower>
 	<Health_PerLevel>18</Health_PerLevel>
