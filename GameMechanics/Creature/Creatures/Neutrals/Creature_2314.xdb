@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creature>
+	<AttackSkill>17</AttackSkill>
+	<DefenceSkill>70</DefenceSkill>
+	<Shots>0</Shots>
+	<MinDamage>25</MinDamage>
+	<MaxDamage>34</MaxDamage>
+	<Speed>5</Speed>
+	<Initiative>12</Initiative>
+	<Flying>false</Flying>
+	<Health>165</Health>
+	<KnownSpells/>
+	<SpellPoints>0</SpellPoints>
+	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints2>0</SpellPoints2>
+	<Exp>301</Exp>
+	<Power>5905</Power>
+	<TimeToCommand>10</TimeToCommand>
+	<CreatureTier>7</CreatureTier>
+	<Upgrade>false</Upgrade>
+	<PairCreature>CREATURE_UNKNOWN</PairCreature>
+	<CreatureTown>TOWN_PRESERVE</CreatureTown>
+	<MagicElement>
+		<First>ELEMENT_EARTH</First>
+		<Second>ELEMENT_FIRE</Second>
+	</MagicElement>
+	<WeeklyGrowth>1</WeeklyGrowth>
+	<Cost>
+		<Wood>0</Wood>
+		<Ore>0</Ore>
+		<Mercury>0</Mercury>
+		<Crystal>0</Crystal>
+		<Sulfur>0</Sulfur>
+		<Gem>2</Gem>
+		<Gold>3400</Gold>
+	</Cost>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+	<MonsterShared href="/new_creatures/Neutral/H7_Dragon_1/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
+	<CombatSize>2</CombatSize>
+	<PatternAttack/>
+	<flybySequence/>
+	<Visual href="/new_creatures/Neutral/H7_Dragon_1/creature.(CreatureVisual).xdb#xpointer(/CreatureVisual)"/>
+	<Range>0</Range>
+	<BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+	<Upgrades/>
+	<Abilities>
+		<Item>ABILITY_ARMORED</Item>
+		<Item>ABILITY_CRYSTAL_SCALES</Item>
+		<Item>ABILITY_IMMUNITY_TO_EARTH</Item>
+		<Item>ABILITY_PAW_STRIKE</Item>
+		<Item>ABILITY_SHIELD_WALL</Item> 
+	</Abilities>
+</Creature>
