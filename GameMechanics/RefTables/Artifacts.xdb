@@ -4694,16 +4694,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Minor weapons blueprint -->
 			<ID>ARTIFACT_184</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_184/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_184/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MinorWeaponsBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MinorWeaponsBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_184/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5240,16 +5240,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Minor weapons blueprint -->
 			<ID>ARTIFACT_205</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_205/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_205/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MinorWeaponsBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MinorWeaponsBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_205/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MinorWeaponsBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5266,16 +5266,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Minor armor blueprint -->
 			<ID>ARTIFACT_206</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_206/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_206/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MinorArmorBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MinorArmorBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_206/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MinorArmorBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5292,15 +5292,15 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Minor jewelry blueprint -->
 			<ID>ARTIFACT_207</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_207/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_207/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MinorJewelryBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MinorJewelryBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MINOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_207/Icon.xdb#xpointer(/Texture)"/>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MinorJewelryBlueprint/Icon.xdb#xpointer(/Texture)"/>
 				<CostOfGold>2000</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
@@ -5318,16 +5318,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Major weapons blueprint -->
 			<ID>ARTIFACT_208</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_208/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_208/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MajorWeaponsBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MajorWeaponsBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MAJOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_208/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MajorWeaponsBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5344,16 +5344,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Major armor blueprint -->
 			<ID>ARTIFACT_209</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_209/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_209/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MajorArmorBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MajorArmorBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MAJOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_209/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MajorArmorBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5370,16 +5370,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Major jewelry blueprint -->
 			<ID>ARTIFACT_210</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_210/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_210/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/MajorJewelryBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/MajorJewelryBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
-				<Type>ARTF_CLASS_RELIC</Type>
+				<Type>ARTF_CLASS_MAJOR</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_210/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/MajorJewelryBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5396,16 +5396,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Relic weapon blueprint -->
 			<ID>ARTIFACT_211</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_211/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_211/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/RelicWeaponsBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/RelicWeaponsBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_211/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/RelicWeaponsBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5422,16 +5422,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Relic armor blueprint -->
 			<ID>ARTIFACT_212</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_212/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_212/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/RelicArmorBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/RelicArmorBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_212/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/RelicArmorBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -5448,16 +5448,16 @@
 			</obj>
 		</Item>
 		<Item>
-			<!-- �������� -->
+			<!-- Relic jewelry blueprint -->
 			<ID>ARTIFACT_213</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_213/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_213/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/RelicJewelryBlueprint/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/RelicJewelryBlueprint/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
-				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_213/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<Icon href="/Textures/HeroScreen/Artifacts/NAF/RelicJewelryBlueprint/Icon.xdb#xpointer(/Texture)"/>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -8917,8 +8917,8 @@
 		<Item>
 			<ID>ARTIFACT_350</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_350/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_350/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/RainbowCrystal/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/RainbowCrystal/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
@@ -8942,13 +8942,13 @@
 		<Item>
 			<ID>ARTIFACT_351</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_351/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_351/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/ElementalFrozenHeart/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ElementalFrozenHeart/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_351/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -8967,13 +8967,13 @@
 		<Item>
 			<ID>ARTIFACT_352</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_352/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_352/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/ElementalBlazingHeart/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ElementalBlazingHeart/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_352/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -8992,13 +8992,13 @@
 		<Item>
 			<ID>ARTIFACT_353</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_353/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_353/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/ElementalDazzlingHeart/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ElementalDazzlingHeart/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_353/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -9017,13 +9017,13 @@
 		<Item>
 			<ID>ARTIFACT_354</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_354/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_354/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/ElementalStoneHeart/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ElementalStoneHeart/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_354/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -9042,13 +9042,13 @@
 		<Item>
 			<ID>ARTIFACT_355</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_355/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_355/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/CompleteKeyOfElements/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/CompleteKeyOfElements/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_355/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -9067,13 +9067,13 @@
 		<Item>
 			<ID>ARTIFACT_356</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_356/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_356/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/SecretTreasureBook/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/SecretTreasureBook/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_356/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -9092,13 +9092,13 @@
 		<Item>
 			<ID>ARTIFACT_357</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_357/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_357/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/BookCipherFragment/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/BookCipherFragment/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_357/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
@@ -9117,13 +9117,13 @@
 		<Item>
 			<ID>ARTIFACT_358</ID>
 			<obj>
-				<NameFileRef href="/Text/Game/Artifacts/NAF/ART_358/Name.txt"/>
-				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/ART_358/Description.txt"/>
+				<NameFileRef href="/Text/Game/Artifacts/NAF/BookCipherKey/name.txt"/>
+				<DescriptionFileRef href="/Text/Game/Artifacts/NAF/BookCipherKey/desc.txt"/>
 				<Model href="/_(Model)/TerrainObjects/Water/SeaChest.(Model).xdb#xpointer(/Model)"/>
 				<Type>ARTF_CLASS_RELIC</Type>
 				<Slot>INVENTORY</Slot>
 				<Icon href="/Textures/HeroScreen/Artifacts/NAF/ART_358/Icon.xdb#xpointer(/Texture)"/>
-				<CostOfGold>2000</CostOfGold>
+				<CostOfGold>1</CostOfGold>
 				<AIValue>2000</AIValue>
 				<CanBeGeneratedToSell>false</CanBeGeneratedToSell>
 				<HeroStatsModif>
