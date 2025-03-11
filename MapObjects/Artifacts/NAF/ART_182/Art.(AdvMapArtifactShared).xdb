@@ -18,8 +18,8 @@
 	<Effect href="/Effects/_(Effect)/Artefacts/General/Gold.xdb#xpointer(/Effect)"/>
 	<EffectWhenOwned/>
 	<messagesFileRef>
-		<Item href="/Text/Game/Artifacts/SwordOfRuin/Name.txt"/>
-		<Item href="/Text/Game/Artifacts/SwordOfRuin/Description.txt"/>
+		<Item href="/Text/Game/Artifacts/NAF/CloakBlank/name.txt"/>
+		<Item href="/Text/Game/Artifacts/NAF/CloakBlank/desc.txt"/>
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>
