@@ -4410,43 +4410,6 @@
 				<Item>SPELL_ABILITY_CUSTOM3</Item>
 				<Item>SPELL_ABILITY_CUSTOM4</Item>
 				<Item>SPELL_EFFECT_FIRST_AID_TENT_PLAGUE</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_DESTRUCTIVE</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_DARK</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_LIGHT</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_SUMMONING</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_ADVENTURE</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_RUNIC</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_WARCRIES</Item>
-				<Item>SPELL_UNIVERSE_MAGIC_SCHOOL_SPECIAL</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_FIELD_MEDICINE</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_ANCIENT_SMITHY</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_DEADLY_COLD</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_STATIC_CHARGE</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY_2</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY_3</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_BONUS</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_BONUS_2</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_LUCK_BONUS_3</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY_2</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY_3</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_BONUS</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_BONUS_2</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_MORALE_BONUS_3</Item>
-				<Item>SPELL_UNIVERSE_EFFECT_BLESSING_OF_THE_MOTHER_EARTH</Item>
-				<Item>SPELL_UNIVERSE_SUMMON_AIR_ELEMENTALS</Item>
-				<Item>SPELL_UNIVERSE_SUMMON_EARTH_ELEMENTALS</Item>
-				<Item>SPELL_UNIVERSE_SUMMON_FIRE_ELEMENTALS</Item>
-				<Item>SPELL_UNIVERSE_SUMMON_WATER_ELEMENTALS</Item>
-				<Item>SPELL_UNIVERSE_CALL_OF_THE_NATURE</Item>
-				<Item>SPELL_UNIVERSE_CALL_OF_THE_TOMB</Item>
-				<Item>SPELL_UNIVERSE_ASHA_FAVOR_MIGHT</Item>
-				<Item>SPELL_UNIVERSE_ASHA_FAVOR_PROTECTION</Item>
-				<Item>SPELL_UNIVERSE_ASHA_FAVOR_MASTERY</Item>
-				<Item>SPELL_UNIVERSE_ASHA_FAVOR_FORTITUDE</Item>
-				<Item>SPELL_UNIVERSE_ASHA_FAVOR_COURAGE</Item>
-				<Item>SPELL_UNIVERSE_DISABLE_SIMULTANEOUS_TURNS</Item>
 			</EnumEntries>
 		</Item>
 		<Item>
@@ -82776,154 +82739,6 @@
 					<Name>SPELL_EFFECT_FIRST_AID_TENT_PLAGUE</Name>
 					<Value>352</Value>
 				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_DESTRUCTIVE</Name>
-					<Value>353</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_DARK</Name>
-					<Value>354</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_LIGHT</Name>
-					<Value>355</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_SUMMONING</Name>
-					<Value>356</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_ADVENTURE</Name>
-					<Value>357</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_RUNIC</Name>
-					<Value>358</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_WARCRIES</Name>
-					<Value>359</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_MAGIC_SCHOOL_SPECIAL</Name>
-					<Value>360</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_FIELD_MEDICINE</Name>
-					<Value>361</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_ANCIENT_SMITHY</Name>
-					<Value>362</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_FROSTBITE</Name>
-					<Value>363</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_STATIC_CHARGE</Name>
-					<Value>364</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY</Name>
-					<Value>365</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY_2</Name>
-					<Value>366</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_PENALTY_3</Name>
-					<Value>367</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_BONUS</Name>
-					<Value>368</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_BONUS_2</Name>
-					<Value>369</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_LUCK_BONUS_3</Name>
-					<Value>370</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY</Name>
-					<Value>371</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY_2</Name>
-					<Value>372</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_PENALTY_3</Name>
-					<Value>373</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_BONUS</Name>
-					<Value>374</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_BONUS_2</Name>
-					<Value>375</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_MORALE_BONUS_3</Name>
-					<Value>376</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_EFFECT_BLESSING_OF_THE_MOTHER_EARTH</Name>
-					<Value>377</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_SUMMON_AIR_ELEMENTALS</Name>
-					<Value>378</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_SUMMON_EARTH_ELEMENTALS</Name>
-					<Value>379</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_SUMMON_FIRE_ELEMENTALS</Name>
-					<Value>380</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_SUMMON_WATER_ELEMENTALS</Name>
-					<Value>381</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_CALL_OF_THE_NATURE</Name>
-					<Value>382</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_CALL_OF_THE_TOMB</Name>
-					<Value>383</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_ASHA_FAVOR_MIGHT</Name>
-					<Value>384</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_ASHA_FAVOR_PROTECTION</Name>
-					<Value>385</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_ASHA_FAVOR_MASTERY</Name>
-					<Value>386</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_ASHA_FAVOR_FORTITUDE</Name>
-					<Value>387</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_ASHA_FAVOR_COURAGE</Name>
-					<Value>388</Value>
-				</Item>
-				<Item>
-					<Name>SPELL_UNIVERSE_DISABLE_SIMULTANEOUS_TURNS</Name>
-					<Value>389</Value>
-				</Item>
 			</Entries>
 			<Attributes>
 				<__ClassTypeID>270064327</__ClassTypeID>
@@ -85172,7 +84987,7 @@
 							<Key>ref_table_num_objs</Key>
 							<Data>
 								<Type>01000000</Type>
-								<Data>223</Data>
+								<Data>224</Data>
 							</Data>
 						</Item>
 						<Item>
@@ -86184,7 +85999,7 @@
 							<Key>ref_table_num_objs</Key>
 							<Data>
 								<Type>01000000</Type>
-								<Data>355</Data>
+								<Data>353</Data>
 							</Data>
 						</Item>
 						<Item>
@@ -86232,8 +86047,8 @@
 						<Item>
 							<__ClassTypeID>270062596</__ClassTypeID>
 							<__ObjectData>
-								<MinElements>355</MinElements>
-								<MaxElements>355</MaxElements>
+								<MinElements>353</MinElements>
+								<MaxElements>353</MaxElements>
 							</__ObjectData>
 						</Item>
 					</Constraints>
