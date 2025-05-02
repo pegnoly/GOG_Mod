@@ -968,11 +968,11 @@
 						<Prob>10</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_SHATTER_DESTRUCTIVE_MAGIC</SkillID>
+						<SkillID>HERO_SKILL_DESTRUCTIVE_MAGIC</SkillID>
 						<Prob>5</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_BARBARIAN_LEARNING</SkillID>
+						<SkillID>HERO_SKILL_LEARNING</SkillID>
 						<Prob>2</Prob>
 					</Item>
 					<Item>
@@ -980,7 +980,7 @@
 						<Prob>15</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_SHATTER_LIGHT_MAGIC</SkillID>
+						<SkillID>HERO_SKILL_LIGHT_MAGIC</SkillID>
 						<Prob>5</Prob>
 					</Item>
 					<Item>
@@ -992,7 +992,7 @@
 						<Prob>10</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_SHATTER_SUMMONING_MAGIC</SkillID>
+						<SkillID>HERO_SKILL_SUMMONING_MAGIC</SkillID>
 						<Prob>5</Prob>
 					</Item>
 					<Item>
@@ -1000,19 +1000,19 @@
 						<Prob>15</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_VOICE</SkillID>
+						<SkillID>HERO_SKILL_SORCERY</SkillID>
 						<Prob>2</Prob>
 					</Item>
 					<Item>
-						<SkillID>HERO_SKILL_SHATTER_DARK_MAGIC</SkillID>
+						<SkillID>HERO_SKILL_DARK_MAGIC</SkillID>
 						<Prob>5</Prob>
 					</Item>
 				</SkillsProbs>
 				<AttributeProbs>
-					<OffenceProb>45</OffenceProb>
-					<DefenceProb>35</DefenceProb>
-					<SpellpowerProb>5</SpellpowerProb>
-					<KnowledgeProb>15</KnowledgeProb>
+					<OffenceProb>25</OffenceProb>
+					<DefenceProb>15</DefenceProb>
+					<SpellpowerProb>40</SpellpowerProb>
+					<KnowledgeProb>20</KnowledgeProb>
 				</AttributeProbs>
 				<PreferredSpellsFromSpellShop/>
 			</obj>
@@ -1156,7 +1156,7 @@
 			</obj>
 		</Item>
 		<Item>
-			<ID>HERO_CLASS_REAVER</ID>
+			<ID>HERO_CLASS_PSIONIC</ID>
 			<obj>
 				<NameFileRef href="HeroClass/HeroClassReaver.txt"/>
 				<SkillsProbs>

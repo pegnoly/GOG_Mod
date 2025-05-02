@@ -12485,10 +12485,10 @@
 				<SkillType>SKILLTYPE_CLASS_PERK</SkillType>
 				<HeroClass>HERO_CLASS_RUNEMAGE</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_RUNELORE</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_DEMONIC_RAGE</BasicSkillID>
 				<SkillPrerequisites>
 					<Item>
-						<Class>HERO_CLASS_RUNEMAGE</Class>
+						<Class>HERO_CLASS_PSIONIC</Class>
 						<dependenciesIDs/>
 					</Item>
 				</SkillPrerequisites>
@@ -12556,7 +12556,7 @@
 				<SkillType>SKILLTYPE_CLASS_PERK</SkillType>
 				<HeroClass>HERO_CLASS_RUNEMAGE</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_RUNELORE</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_DEMONIC_RAGE</BasicSkillID>
 				<SkillPrerequisites>
 					<Item>
 						<Class>HERO_CLASS_RUNEMAGE</Class>
@@ -12627,7 +12627,7 @@
 				<SkillType>SKILLTYPE_CLASS_PERK</SkillType>
 				<HeroClass>HERO_CLASS_RUNEMAGE</HeroClass>
 				<spellBuffs/>
-				<BasicSkillID>HERO_SKILL_RUNELORE</BasicSkillID>
+				<BasicSkillID>HERO_SKILL_DEMONIC_RAGE</BasicSkillID>
 				<SkillPrerequisites>
 					<Item>
 						<Class>HERO_CLASS_RUNEMAGE</Class>
@@ -14335,7 +14335,7 @@
 				</DescriptionFileRef>
 				<CommonDescriptionFileRef href="/Text/Game/Skills/Unique/DemonicRage/Common/Description.txt"/>
 				<SkillType>SKILLTYPE_SKILL</SkillType>
-				<HeroClass>HERO_CLASS_BARBARIAN</HeroClass>
+				<HeroClass>HERO_CLASS_RUNEMAGE</HeroClass>
 				<spellBuffs/>
 				<BasicSkillID>HERO_SKILL_NONE</BasicSkillID>
 				<SkillPrerequisites/>
@@ -17751,6 +17751,81 @@
 						<Class>HERO_CLASS_BARBARIAN</Class>
 						<dependenciesIDs>
 							<Item>HERO_SKILL_BARBARIAN_INTELLIGENCE</Item>
+						</dependenciesIDs>
+					</Item>
+				</SkillPrerequisites>
+				<AIRacesValues>
+					<Haven>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Haven>
+					<Sylvan>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Sylvan>
+					<Academy>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Academy>
+					<Dungeon>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Dungeon>
+					<Necropolis>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Necropolis>
+					<Inferno>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Inferno>
+					<Fortress>
+						<CommanderValue>3000</CommanderValue>
+						<CollectorSupplierValue>100</CollectorSupplierValue>
+						<FreelancerValue>1000</FreelancerValue>
+					</Fortress>
+					<Stronghold>
+						<CommanderValue>0</CommanderValue>
+						<CollectorSupplierValue>0</CollectorSupplierValue>
+						<FreelancerValue>0</FreelancerValue>
+					</Stronghold>
+				</AIRacesValues>
+				<PresetPrice>0</PresetPrice>
+			</obj>
+		</Item>
+		<Item>
+			<ID>HERO_SKILL_GHOST_VEIL</ID>
+			<obj>
+				<Texture>
+					<Item href="/UI/H5A1/Icons/Abilites/Heroes_Abillites/128x128/Mentoring.(Texture).xdb#xpointer(/Texture)"/>
+					<Item href="/UI/H5A1/Icons/Abilites/Heroes_Abillites/128x128/Mentoring.(Texture).xdb#xpointer(/Texture)"/>
+				</Texture>
+				<CommonTexture/>
+				<NameFileRef>
+					<Item href="/Text/Game/Skills/GOG/GhostVeil/name.txt"/>
+				</NameFileRef>
+				<CommonNameFileRef href=""/>
+				<DescriptionFileRef>
+					<Item href="/Text/Game/Skills/GOG/GhostVeil/desc.txt"/>
+				</DescriptionFileRef>
+				<CommonDescriptionFileRef href=""/>
+				<SkillType>SKILLTYPE_SPECIAL_PERK</SkillType>
+				<HeroClass>HERO_CLASS_NECROMANCER</HeroClass>
+				<spellBuffs>
+					<Item>SPELL_RUNE_OF_ETHEREALNESS</Item>
+				</spellBuffs>
+				<BasicSkillID>HERO_SKILL_SUMMONING_MAGIC</BasicSkillID>
+				<SkillPrerequisites>
+					<Item>
+						<Class>HERO_CLASS_NECROMANCER</Class>
+						<dependenciesIDs>
+							<Item>HERO_SKILL_MASTER_OF_ANIMATION</Item>
 						</dependenciesIDs>
 					</Item>
 				</SkillPrerequisites>

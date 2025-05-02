@@ -9,6 +9,7 @@
 	<Initiative>8</Initiative>
 	<Flying>false</Flying>
 	<Health>200</Health>
+	<KnownSpells/>
 	<SpellPoints>0</SpellPoints>
 	<SpellPoints1>0</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>

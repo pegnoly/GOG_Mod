@@ -3,7 +3,7 @@
 	<SrcName href=""/>
 	<DestName href="karlam_64.dds"/>
 	<Type>TEXTURE_2D</Type>
-	<ConversionType>CONVERT_ORDINARY</ConversionType>
+	<ConversionType>CONVERT_TRANSPARENT</ConversionType>
 	<AddrType>CLAMP</AddrType>
 	<Format>TF_8888</Format>
 	<Width>64</Width>

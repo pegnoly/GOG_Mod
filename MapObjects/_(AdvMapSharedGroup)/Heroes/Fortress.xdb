@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapSharedGroup ObjectRecordID="1100006">
+	<links>
+		<Item href="/MapObjects/Dwarves/GOG/Adelgunde.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Bulgaras.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Clovis.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Eliya.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Radak.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Seegrun.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Thorgrim.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+		<Item href="/MapObjects/Dwarves/GOG/Uvin.(AdvMapHeroShared).xdb#xpointer(/AdvMapHeroShared)"/>
+	</links>
+</AdvMapSharedGroup>

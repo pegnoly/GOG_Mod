@@ -35,9 +35,9 @@
 		<Gold>700</Gold>
 	</Cost>
 	<PresetPrice>0</PresetPrice>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Neutral/Obsidian_Elemental.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
-	<CombatSize>2</CombatSize>
+	<CombatSize>1</CombatSize>
 	<PatternAttack/>
 	<flybySequence/>
 	<Visual href="/GameMechanics/CreatureVisual/Creatures/Neutrals/Obsidian_Elemental.xdb#xpointer(/CreatureVisual)"/>

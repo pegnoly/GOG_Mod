@@ -14,9 +14,13 @@
 			<Spell>SPELL_ABILITY_PACK_DIVE</Spell>
 			<Mastery>MASTERY_BASIC</Mastery>
 		</Item>
+		<Item>
+			<Spell>SPELL_CURSED_ROCK_DIVE_TARGET</Spell>
+			<Mastery>MASTERY_BASIC</Mastery>
+		</Item>
 	</KnownSpells>
 	<SpellPoints>0</SpellPoints>
-	<SpellPoints1>0</SpellPoints1>
+	<SpellPoints1>10</SpellPoints1>
 	<SpellPoints2>0</SpellPoints2>
 	<Exp>59</Exp>
 	<Power>0</Power>

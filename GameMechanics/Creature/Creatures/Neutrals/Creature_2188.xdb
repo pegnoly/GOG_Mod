@@ -34,6 +34,7 @@
 		<Gem>0</Gem>
 		<Gold>420</Gold>
 	</Cost>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/Neutral/H7_Succub_02/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>
 	<PatternAttack/>

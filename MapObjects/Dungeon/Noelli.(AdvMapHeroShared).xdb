@@ -25,7 +25,7 @@
 	<AdventureSoundEffect/>
 	<RazedStatic/>
 	<Icon128/>
-	<InternalName>Noelli</InternalName>
+	<InternalName>Noellie</InternalName>
 	<Class>HERO_CLASS_WARLOCK</Class>
 	<Specialization>HERO_SPEC_DARK_ACOLYTE</Specialization>
 	<PrimarySkill>
@@ -35,8 +35,8 @@
 	<SpecializationNameFileRef href="/Text/Game/Heroes/Specializations/Dungeon/BloodPact/Name.txt"/>
 	<SpecializationDescFileRef href="/Text/Game/Heroes/Specializations/Dungeon/BloodPact/Description.txt"/>
 	<SpecializationIcon href="/Textures/HeroScreen/Specializations/Dungeon/Dark_Acolyte.xdb#xpointer(/Texture)"/>
-	<FaceTexture href="/UI/H5A1/Icons/Heroes/Portrets128x128/Shadwyn.(Texture).xdb#xpointer(/Texture)"/>
-	<FaceTextureSmall/>
+	<FaceTexture href="/Textures/Icons/Heroes/Dungeon/Noellie/Noellie_128.(Texture).xdb#xpointer(/Texture)"/>
+	<FaceTextureSmall href="/Textures/Icons/Heroes/Dungeon/Noellie/Noellie_64.(Texture).xdb#xpointer(/Texture)"/>
 	<HeroCharacterArena href="/Characters/Heroes/Ilaya.(Character).xdb#xpointer(/Character)"/>
 	<HeroCharacterArenaMelee/>
 	<HeroCharacterAdventure href="/Characters/Heroes/Ilaya_LOD.(Character).xdb#xpointer(/Character)"/>

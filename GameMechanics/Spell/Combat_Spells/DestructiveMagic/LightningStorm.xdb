@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Spell ObjectRecordID="116">
+<Spell>
 	<NameFileRef href="TestName.txt"/>
 	<LongDescriptionFileRef href="/Text/Game/Spells/Combat/Lightning_Bolt/Long_Description.txt"/>
 	<Texture href="/Textures/SpellBook______2618/Spells/Spell_LightningBolt.xdb#xpointer(/Texture)"/>
@@ -10,7 +10,7 @@
 	</SpellBookPredictions>
 	<CombatLogTexts/>
 	<Level>2</Level>
-	<MagicSchool>MAGIC_SCHOOL_DESTRUCTIVE</MagicSchool>
+	<MagicSchool>MAGIC_SCHOOL_DARK</MagicSchool>
 	<RequiredHeroLevel>0</RequiredHeroLevel>
 	<IsAimed>true</IsAimed>
 	<TrainedCost>5</TrainedCost>

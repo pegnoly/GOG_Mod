@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatureVisual>
+	<CreatureNameFileRef href="/Text/Game/Creatures/Neutrals/Ice_Elemental.txt"/>
+	<CreatureAbilitiesFileRef/>
+	<DescriptionFileRef href="/Text/Game/Creatures/Neutrals/Ice_ElementalDescription.txt"/>
+	<Icon/>
+	<Icon32/>
+	<Icon64/>
+	<Icon128 href="/Textures/Interface/CombatArena/Faces/Neutral/ico_Ice_Elemental_128.xdb#xpointer(/Texture)"/>
+	<AnimCharacter href="/Characters/Creatures/Neutral/IceElemental.(Character).xdb#xpointer(/Character)"/>
+	<DeadCharacter/>
+	<AnimShot href="/GameMechanics/Shot/Spells/Magic_Arrow.xdb#xpointer(/Shot)"/>
+	<SummoningEffect/>
+	<DamageEffect href="/GameMechanics/CreatureDamage/Steel_Hits.xdb#xpointer(/CreatureDamage)"/>
+	<TeleportingMove>
+		<Use>false</Use>
+		<StartEffect/>
+		<FinishEffect/>
+	</TeleportingMove>
+	<Win3DView/>
+	<MountPoint>
+		<x>-0.0159087</x>
+		<y>-0.728633</y>
+		<z>1.95191</z>
+	</MountPoint>
+	<MountBone>b12B</MountBone>
+</CreatureVisual>

@@ -459,17 +459,23 @@
 					</DemonHunter_RPBonusPerHeroLevel>
 					<Bonuses>
 						<Item>
-							<Creature>CREATURE_GOBLIN</Creature>
+							<Creature>CREATURE_DEFENDER</Creature>
 							<Bonus1>
 								<Item>
 									<Type>DEMON_RAGE_BONUS_SPELL</Type>
 									<IntParam>0</IntParam>
 									<FloatParam>0</FloatParam>
 									<Spells>
-										<Item>SPELL_RUNE_OF_CHARGE</Item>
-										<Item>SPELL_RUNE_OF_BERSERKING</Item>
 										<Item>SPELL_RUNE_OF_EXORCISM</Item>
+										<Item>SPELL_RUNE_OF_REVIVE</Item>
 									</Spells>
+									<Abilities/>
+								</Item>
+								<Item>
+									<Type>DEMON_RAGE_BONUS_ATTACK</Type>
+									<IntParam>5</IntParam>
+									<FloatParam>0</FloatParam>
+									<Spells/>
 									<Abilities/>
 								</Item>
 							</Bonus1>
