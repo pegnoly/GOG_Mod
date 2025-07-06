@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Creature ObjectRecordID="66">
-    <InnerName>Lernon&apos;s walking dead</InnerName>
-    <AttackSkill>1</AttackSkill>
-    <DefenceSkill>2</DefenceSkill>
+<Creature ObjectRecordID="71">
+    <InnerName>Lernon&apos;s bone dragon</InnerName>
+    <AttackSkill>27</AttackSkill>
+    <DefenceSkill>28</DefenceSkill>
     <Shots>0</Shots>
-    <MinDamage>1</MinDamage>
-    <MaxDamage>2</MaxDamage>
-    <Speed>4</Speed>
-    <Initiative>6</Initiative>
-    <Flying>false</Flying>
-    <Health>17</Health>
+    <MinDamage>15</MinDamage>
+    <MaxDamage>30</MaxDamage>
+    <Speed>6</Speed>
+    <Initiative>11</Initiative>
+    <Flying>true</Flying>
+    <Health>150</Health>
     <KnownSpells>
     </KnownSpells>
     <SpellPoints>0</SpellPoints>
     <SpellPoints1>0</SpellPoints1>
     <SpellPoints2>0</SpellPoints2>
-    <Exp>9</Exp>
-    <Power>105</Power>
+    <Exp>264</Exp>
+    <Power>3174</Power>
     <TimeToCommand>10</TimeToCommand>
-    <CreatureTier>2</CreatureTier>
+    <CreatureTier>7</CreatureTier>
     <Upgrade>false</Upgrade>
     <PairCreature>CREATURE_UNKNOWN</PairCreature>
     <CreatureTown>TOWN_NECROMANCY</CreatureTown>
     <MagicElement>
-        <First>ELEMENT_EARTH</First>
+        <First>ELEMENT_AIR</First>
         <Second>ELEMENT_NONE</Second>
     </MagicElement>
-    <WeeklyGrowth>15</WeeklyGrowth>
+    <WeeklyGrowth>1</WeeklyGrowth>
     <Cost>
         <Wood>0</Wood>
         <Ore>0</Ore>
-        <Mercury>0</Mercury>
+        <Mercury>1</Mercury>
         <Crystal>0</Crystal>
         <Sulfur>0</Sulfur>
         <Gem>0</Gem>
-        <Gold>40</Gold>
+        <Gold>1300</Gold>
     </Cost>
+    <PresetPrice>0</PresetPrice>
     <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
     <MonsterShared/>
-    <CombatSize>1</CombatSize>
+    <CombatSize>2</CombatSize>
     <PatternAttack>
     </PatternAttack>
     <flybySequence>
     </flybySequence>
-    <Visual href="/GameMechanics/CreatureVisual/Creatures/Necropolis/Walking_Dead.xdb#xpointer(/CreatureVisual)">
+    <Visual href="/GameMechanics/CreatureVisual/Creatures/Necropolis/Bone_Dragon.xdb#xpointer(/CreatureVisual)">
     </Visual>
     <Range>0</Range>
-    <BaseCreature>CREATURE_WALKING_DEAD</BaseCreature>
+    <BaseCreature>CREATURE_BONE_DRAGON</BaseCreature>
     <Upgrades>
-        <Item>CREATURE_2413</Item>
-        <Item>CREATURE_2414</Item>
+        <Item>CREATURE_2419</Item>
+        <Item>CREATURE_2420</Item>
     </Upgrades>
     <Abilities>
         <Item>ABILITY_UNDEAD</Item>
-        <Item>ABILITY_ENRAGED</Item>
-        <Item>ABILITY_POISONOUS_ATTACK</Item>
+        <Item>ABILITY_VENOM</Item>
     </Abilities>
 </Creature>
