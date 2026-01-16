@@ -2,18 +2,57 @@
 <AdvMapDwellingShared>
 	<Model href="/MapObjects/Universe_Mod/New_Dwellings/Dungeon/Dungeon_T4.xdb#xpointer(/Model)"/>
 	<AnimSet/>
-	<blockedTiles/>
-	<holeTiles/>
-	<activeTiles/>
-	<passableTiles/>
+	<blockedTiles>
+		<Item>
+			<x>-1</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>-1</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>-1</x>
+			<y>-1</y>
+		</Item>
+		<Item>
+			<x>1</x>
+			<y>-1</y>
+		</Item>
+	</blockedTiles>
+	<holeTiles />
+	<activeTiles>
+		<Item>
+			<x>0</x>
+			<y>-1</y>
+		</Item>
+	</activeTiles>
+	<passableTiles />
 	<PossessionMarkerTile>
 		<x>0</x>
 		<y>0</y>
 	</PossessionMarkerTile>
-	<Effect href="/MapObjects/Universe_Mod/New_Dwellings/Dungeon/Dungeon_T4.(Effect).xdb#xpointer(/Effect)"/>
-	<EffectWhenOwned href="/MapObjects/Universe_Mod/New_Dwellings/Dungeon/Dungeon_T4.(Effect).xdb#xpointer(/Effect)"/>
+	<Effect href="/MapObjects/Universe_Mod/New_Dwellings/Dungeon/Dungeon_T4.(Effect).xdb#xpointer(/Effect)" />
+	<EffectWhenOwned href="/MapObjects/Universe_Mod/New_Dwellings/Dungeon/Dungeon_T4.(Effect).xdb#xpointer(/Effect)" />
 	<messagesFileRef>
-		<Item href=""/>
+		<Item href="/Text/Game/TownBuildings/Dungeon/Dwelling_4/Name.txt" />
+		<Item href="/Text/Game/TownBuildings/Dungeon/Dwelling_4/Description.txt" />
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>

@@ -2,18 +2,37 @@
 <AdvMapDwellingShared>
 	<Model href="/MapObjects/Universe_Mod/New_Dwellings/Haven/Haven_T4_04.xdb#xpointer(/Model)"/>
 	<AnimSet/>
-	<blockedTiles/>
-	<holeTiles/>
-	<activeTiles/>
-	<passableTiles/>
+	<blockedTiles>
+		<Item>
+			<x>1</x>
+			<y>0</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>1</y>
+		</Item>
+		<Item>
+			<x>0</x>
+			<y>0</y>
+		</Item>
+	</blockedTiles>
+	<holeTiles />
+	<activeTiles>
+		<Item>
+			<x>1</x>
+			<y>1</y>
+		</Item>
+	</activeTiles>
+	<passableTiles />
 	<PossessionMarkerTile>
 		<x>0</x>
 		<y>0</y>
 	</PossessionMarkerTile>
-	<Effect/>
-	<EffectWhenOwned/>
+	<Effect />
+	<EffectWhenOwned />
 	<messagesFileRef>
-		<Item href=""/>
+		<Item href="/Text/Game/TownBuildings/Haven/Dwelling_4/Name.txt" />
+		<Item href="/Text/Game/TownBuildings/Haven/Dwelling_4/Description.txt" />
 	</messagesFileRef>
 	<WaterBased>false</WaterBased>
 	<ApplyHeroTrace>false</ApplyHeroTrace>
