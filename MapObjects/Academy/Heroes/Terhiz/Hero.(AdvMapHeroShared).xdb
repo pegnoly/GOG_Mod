@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapHeroShared>
+    <Model href="/Characters/Creatures/Empire/Archangel.xdb#xpointer(/Model)">
+    </Model>
+    <AnimSet href="/Characters/Creatures/Empire/Archangel-arena.xdb#xpointer(/AnimSet)">
+    </AnimSet>
+    <blockedTiles>
+    </blockedTiles>
+    <holeTiles>
+    </holeTiles>
+    <activeTiles>
+    </activeTiles>
+    <passableTiles>
+    </passableTiles>
+    <PossessionMarkerTile>
+        <x>0</x>
+        <y>0</y>
+    </PossessionMarkerTile>
+    <Effect>
+    </Effect>
+    <EffectWhenOwned>
+    </EffectWhenOwned>
+    <messagesFileRef>
+        <Item href="">
+        </Item>
+    </messagesFileRef>
+    <WaterBased>false</WaterBased>
+    <ApplyHeroTrace>false</ApplyHeroTrace>
+    <SoundEffect>
+    </SoundEffect>
+    <flybyMessageFileRef href="">
+    </flybyMessageFileRef>
+    <ObjectTypeFileRef href="">
+    </ObjectTypeFileRef>
+    <TerrainAligned>false</TerrainAligned>
+    <FlyPassable>true</FlyPassable>
+    <AdventureSoundEffect>
+    </AdventureSoundEffect>
+    <RazedStatic>
+    </RazedStatic>
+    <Icon128 href="/Textures/Icons/Heroes/Academy/Terhiz/Icon.xdb#xpointer(/Texture)"/>
+    <InternalName>Terhiz</InternalName>
+    <Class>HERO_CLASS_KNIGHT</Class>
+    <Specialization>HERO_SPEC_WHITE_KNIGHT</Specialization>
+    <PrimarySkill>
+        <Mastery>MASTERY_BASIC</Mastery>
+        <SkillID>HERO_SKILL_LEADERSHIP</SkillID>
+    </PrimarySkill>
+    <SpecializationNameFileRef href="">
+    </SpecializationNameFileRef>
+    <SpecializationDescFileRef href="">
+    </SpecializationDescFileRef>
+    <SpecializationIcon>
+    </SpecializationIcon>
+    <FaceTexture href="/Textures/Icons/Heroes/Neutral/TavernKeeper/Icon.xdb#xpointer(/Texture)">
+    </FaceTexture>
+    <FaceTextureSmall href="/Textures/Icons/Heroes/Neutral/TavernKeeper/Icon.xdb#xpointer(/Texture)">
+    </FaceTextureSmall>
+    <HeroCharacterArena href="/Characters/Creatures/Empire/Archangel.(Character).xdb#xpointer(/Character)">
+    </HeroCharacterArena>
+    <HeroCharacterArenaMelee>
+    </HeroCharacterArenaMelee>
+    <HeroCharacterAdventure href="/Characters/Creatures/Empire/Archangel.(Character).xdb#xpointer(/Character)">
+    </HeroCharacterAdventure>
+    <HeroIndividualCamera>
+    </HeroIndividualCamera>
+    <CombatVisual href="/GameMechanics/CreatureVisual/Creatures/Haven/Cherubin.xdb#xpointer(/CreatureVisual)">
+    </CombatVisual>
+    <TownType>TOWN_HEAVEN</TownType>
+    <Editable>
+        <NameFileRef href="/Text/Game/Heroes/Persons/Academy/Terhiz/Name.txt"/>
+        <BiographyFileRef href="/Text/Game/Heroes/Persons/Academy/Terhiz/Bio.txt"/>
+        <Offence>0</Offence>
+        <Defence>0</Defence>
+        <Spellpower>0</Spellpower>
+        <Knowledge>0</Knowledge>
+        <skills>
+        </skills>
+        <perkIDs>
+        </perkIDs>
+        <spellIDs>
+        </spellIDs>
+        <Ballista>false</Ballista>
+        <FirstAidTent>false</FirstAidTent>
+        <AmmoCart>false</AmmoCart>
+        <FavoriteEnemies>
+        </FavoriteEnemies>
+        <TalismanLevel>0</TalismanLevel>
+    </Editable>
+    <ArrowButtonState>0</ArrowButtonState>
+    <Decal>
+    </Decal>
+    <Selection>
+    </Selection>
+    <Trace>
+    </Trace>
+    <RaceTraitIcon>
+    </RaceTraitIcon>
+    <RaceTraitDescFileRef href="">
+    </RaceTraitDescFileRef>
+    <ScenarioHero>false</ScenarioHero>
+    <AdventureMusic>
+    </AdventureMusic>
+    <HideInEditor>false</HideInEditor>
+    <PresetMinimalAttributes>
+        <Offence>2</Offence>
+        <Defence>2</Defence>
+        <Spellpower>2</Spellpower>
+        <Knowledge>2</Knowledge>
+    </PresetMinimalAttributes>
+</AdvMapHeroShared>

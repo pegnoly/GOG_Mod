@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvMapDwellingShared>
+	<Model href="/MapObjects/Universe_Mod/New_Dwellings/Fortress/Fortress_T4_02.xdb#xpointer(/Model)"/>
+	<AnimSet/>
+	<blockedTiles/>
+	<holeTiles/>
+	<activeTiles/>
+	<passableTiles/>
+	<PossessionMarkerTile>
+		<x>0</x>
+		<y>0</y>
+	</PossessionMarkerTile>
+	<Effect/>
+	<EffectWhenOwned/>
+	<messagesFileRef>
+		<Item href=""/>
+	</messagesFileRef>
+	<WaterBased>false</WaterBased>
+	<ApplyHeroTrace>false</ApplyHeroTrace>
+	<SoundEffect/>
+	<flybyMessageFileRef href=""/>
+	<ObjectTypeFileRef href=""/>
+	<TerrainAligned>false</TerrainAligned>
+	<FlyPassable>true</FlyPassable>
+	<AdventureSoundEffect/>
+	<RazedStatic/>
+	<Icon128 href="/UI/H5A1/Icons/Buildings/Towns/Fortress/Building_Mode_Icon/128x128/Fighting_Ring.(Texture).xdb#xpointer(/Texture)"/>
+	<Type>BUILDING_FORTRESS_MILITARY_POST</Type>
+	<guards/>
+	<creatures/>
+	<RandomType>DWELLING_TYPE_SPECIFIC</RandomType>
+</AdvMapDwellingShared>
