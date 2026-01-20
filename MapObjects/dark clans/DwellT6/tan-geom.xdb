@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/tan.mb"/>
+	<uid>7E7F6DC5-AC07-443B-944A-52942AB9F03F</uid>
+	<RootMesh/>
+	<RootJoint>tan</RootJoint>
+	<Size>
+		<x>14.0218</x>
+		<y>13.0675</y>
+		<z>10.7363</z>
+	</Size>
+	<Center>
+		<x>0.382802</x>
+		<y>0.43264</y>
+		<z>4.77588</z>
+	</Center>
+	<BestFitPoint>
+		<x>-1</x>
+		<y>-1.6</y>
+		<z>12</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>BDA63_02Shape</Item>
+		<Item>B30A76B_01Shape</Item>
+		<Item>Line001Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>
