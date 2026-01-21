@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/grif.mb"/>
+	<RootJoint>grif</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>EC0E2ABB-C53C-45FC-A36F-A6BE19A3770B</uid>
+</Skeleton>

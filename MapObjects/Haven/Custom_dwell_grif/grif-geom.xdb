@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/grif.mb"/>
+	<uid>206F08F6-C8E8-464D-A8DA-920813FAAF88</uid>
+	<RootMesh/>
+	<RootJoint>grif</RootJoint>
+	<Size>
+		<x>5.09817</x>
+		<y>6.86768</y>
+		<z>14.396</z>
+	</Size>
+	<Center>
+		<x>-0.0337481</x>
+		<y>-0.7539</y>
+		<z>7.19801</z>
+	</Center>
+	<BestFitPoint>
+		<x>-0.2</x>
+		<y>0.1</y>
+		<z>15</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>3</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>1</Item>
+		<Item>1</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>grif_1Shape</Item>
+		<Item>grif_2Shape</Item>
+		<Item>Cylinder001Shape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton>
+	<SrcName href="/Dwellings/angel.mb"/>
+	<RootJoint>angel</RootJoint>
+	<MSRFormat>true</MSRFormat>
+	<Animations/>
+	<uid>776F5625-F03B-4A77-836A-54F576D2E1BA</uid>
+</Skeleton>

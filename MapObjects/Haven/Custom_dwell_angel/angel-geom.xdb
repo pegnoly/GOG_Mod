@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Geometry>
+	<SrcName href="/Dwellings/angel.mb"/>
+	<uid>1F3B78E7-5C3F-4CD4-BBF3-C808D8DADCD3</uid>
+	<RootMesh/>
+	<RootJoint>angel</RootJoint>
+	<Size>
+		<x>10.3675</x>
+		<y>10.1126</y>
+		<z>20.3149</z>
+	</Size>
+	<Center>
+		<x>0.000564575</x>
+		<y>0.0953882</y>
+		<z>9.23531</z>
+	</Center>
+	<BestFitPoint>
+		<x>0</x>
+		<y>0</y>
+		<z>17</z>
+	</BestFitPoint>
+	<Dir>
+		<x>0</x>
+		<y>0</y>
+		<z>0</z>
+		<w>0</w>
+	</Dir>
+	<AIGeometry/>
+	<NumMeshes>2</NumMeshes>
+	<MaterialQuantities>
+		<Item>1</Item>
+		<Item>2</Item>
+	</MaterialQuantities>
+	<MeshNames>
+		<Item>statuyaShape</Item>
+		<Item>capitolShape</Item>
+	</MeshNames>
+	<MeshAnimated/>
+	<MeshWindAffected/>
+</Geometry>
