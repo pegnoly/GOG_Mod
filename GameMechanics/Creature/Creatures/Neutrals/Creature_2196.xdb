@@ -52,7 +52,7 @@
 		<Gold>3500</Gold>
 	</Cost>
 	<PresetPrice>0</PresetPrice>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/Neutral/H7_Seraph_2/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Creature ObjectRecordID="48">
-	<AttackSkill>32</AttackSkill>
-	<DefenceSkill>29</DefenceSkill>
+	<AttackSkill>90</AttackSkill>
+	<DefenceSkill>55</DefenceSkill>
 	<Shots>0</Shots>
-	<MinDamage>36</MinDamage>
-	<MaxDamage>66</MaxDamage>
+	<MinDamage>270</MinDamage>
+	<MaxDamage>360</MaxDamage>
 	<Speed>7</Speed>
-	<Initiative>11</Initiative>
+	<Initiative>14</Initiative>
 	<Flying>false</Flying>
-	<Health>199</Health>
+	<Health>80000</Health>
 	<KnownSpells>
 		<Item>
 			<Spell>SPELL_ABILITY_SUMMON_BALOR</Spell>
@@ -17,7 +17,7 @@
 	</KnownSpells>
 	<SpellPoints>0</SpellPoints>
 	<SpellPoints1>1</SpellPoints1>
-	<SpellPoints2>1</SpellPoints2>
+	<SpellPoints2>0</SpellPoints2>
 	<Exp>311</Exp>
 	<Power>5850</Power>
 	<TimeToCommand>10</TimeToCommand>
@@ -39,7 +39,7 @@
 		<Gem>0</Gem>
 		<Gold>3666</Gold>
 	</Cost>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Chaos/Sower.xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>

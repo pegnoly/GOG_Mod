@@ -34,7 +34,7 @@
 		<Gem>0</Gem>
 		<Gold>25</Gold>
 	</Cost>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/Neutral/H7_Goblin_1/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>1</CombatSize>
 	<PatternAttack/>

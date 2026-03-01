@@ -35,7 +35,7 @@
 		<Gold>2900</Gold>
 	</Cost>
 	<PresetPrice>0</PresetPrice>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/Neutral/H7_Cyclops_1/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack href="/new_creatures/Neutral/H7_Cyclops_1/animset/effects/CrushingBlow.xdb#xpointer(/PatternAttack)"/>

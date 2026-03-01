@@ -35,7 +35,7 @@
 		<Gold>1666</Gold>
 	</Cost>
 	<PresetPrice>0</PresetPrice>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/Inferno/Pit Fiend/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>

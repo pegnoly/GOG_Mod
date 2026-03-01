@@ -35,7 +35,7 @@
 		<Gold>22000</Gold>
 	</Cost>
 	<PresetPrice>0</PresetPrice>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/new_creatures/neutral/H7_KrakenBoss/creature.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack href="Strike_KrakenBoss.xdb#xpointer(/PatternAttack)"/>

@@ -34,7 +34,7 @@
 		<Gem>0</Gem>
 		<Gold>3666</Gold>
 	</Cost>
-	<SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
+	<SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
 	<MonsterShared href="/MapObjects/Chaos/Vicar.xdb#xpointer(/AdvMapMonsterShared)"/>
 	<CombatSize>2</CombatSize>
 	<PatternAttack/>
