@@ -34,7 +34,7 @@
         <Gem>0</Gem>
         <Gold>166</Gold>
     </Cost>
-    <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+    <SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
     <MonsterShared href="/MapObjects/Neutral/kappa_2.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
     <CombatSize>1</CombatSize>
     <PatternAttack/>
@@ -50,4 +50,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>

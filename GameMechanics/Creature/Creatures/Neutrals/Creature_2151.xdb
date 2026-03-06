@@ -18,7 +18,7 @@
     <TimeToCommand>10</TimeToCommand>
     <CreatureTier>7</CreatureTier>
     <Upgrade>true</Upgrade>
-    <PairCreature>CREATURE_UNKNOWN</PairCreature>
+    <PairCreature>CREATURE_2150</PairCreature>
     <CreatureTown>TOWN_NO_TYPE</CreatureTown>
     <MagicElement>
         <First>ELEMENT_EARTH</First>
@@ -41,7 +41,7 @@
     <flybySequence/>
     <Visual href="/GameMechanics/CreatureVisual/Creatures/Sanctuary/Saint_Kirin.xdb#xpointer(/CreatureVisual)"/>
     <Range>0</Range>
-    <BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+    <BaseCreature>CREATURE_2150</BaseCreature>
     <Upgrades/>
     <Abilities>
         <Item>ABILITY_ENTANGLING_ROOTS</Item>
@@ -49,4 +49,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>

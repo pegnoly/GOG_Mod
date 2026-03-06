@@ -17,7 +17,7 @@
     <Power>4822</Power>
     <TimeToCommand>10</TimeToCommand>
     <CreatureTier>7</CreatureTier>
-    <Upgrade>false</Upgrade>
+    <Upgrade>true</Upgrade>
     <PairCreature>CREATURE_UNKNOWN</PairCreature>
     <CreatureTown>TOWN_NO_TYPE</CreatureTown>
     <MagicElement>
@@ -34,14 +34,14 @@
         <Gem>0</Gem>
         <Gold>3500</Gold>
     </Cost>
-    <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+    <SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
     <MonsterShared href="/MapObjects/Sanktuary/Ancient_Kirin.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
     <CombatSize>2</CombatSize>
     <PatternAttack/>
     <flybySequence/>
     <Visual href="/GameMechanics/CreatureVisual/Creatures/Sanktuary/Ancient_Kirin.xdb#xpointer(/CreatureVisual)"/>
     <Range>0</Range>
-    <BaseCreature>CREATURE_UNKNOWN</BaseCreature>
+    <BaseCreature>CREATURE_2150</BaseCreature>
     <Upgrades/>
     <Abilities>
         <Item>ABILITY_RAINBOW_BREATH</Item>
@@ -49,4 +49,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>

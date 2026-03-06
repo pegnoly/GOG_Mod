@@ -43,7 +43,7 @@
         <Gem>0</Gem>
         <Gold>2800</Gold>
     </Cost>
-    <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+    <SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
     <MonsterShared href="/MapObjects/Neutral/naga_swamp_general.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
     <CombatSize>2</CombatSize>
     <PatternAttack/>
@@ -58,4 +58,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>

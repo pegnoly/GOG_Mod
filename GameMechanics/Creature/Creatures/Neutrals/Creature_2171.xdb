@@ -17,7 +17,7 @@
     <Power>862</Power>
     <TimeToCommand>10</TimeToCommand>
     <CreatureTier>4</CreatureTier>
-    <Upgrade>false</Upgrade>
+    <Upgrade>true</Upgrade>
     <PairCreature>CREATURE_UNKNOWN</PairCreature>
     <CreatureTown>TOWN_NO_TYPE</CreatureTown>
     <MagicElement>
@@ -34,7 +34,7 @@
         <Gem>0</Gem>
         <Gold>440</Gold>
     </Cost>
-    <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+    <SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
     <MonsterShared href="/MapObjects/Neutral/Myrmidon_3.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
     <CombatSize>2</CombatSize>
     <PatternAttack/>
@@ -51,4 +51,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>

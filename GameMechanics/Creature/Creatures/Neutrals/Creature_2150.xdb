@@ -18,7 +18,7 @@
     <TimeToCommand>10</TimeToCommand>
     <CreatureTier>7</CreatureTier>
     <Upgrade>false</Upgrade>
-    <PairCreature>CREATURE_UNKNOWN</PairCreature>
+    <PairCreature>CREATURE_2151</PairCreature>
     <CreatureTown>TOWN_NO_TYPE</CreatureTown>
     <MagicElement>
         <First>ELEMENT_EARTH</First>
@@ -34,7 +34,7 @@
         <Gem>0</Gem>
         <Gold>2700</Gold>
     </Cost>
-    <SubjectOfRandomGeneration>false</SubjectOfRandomGeneration>
+    <SubjectOfRandomGeneration>true</SubjectOfRandomGeneration>
     <MonsterShared href="/MapObjects/Sanctuary/Kirin.(AdvMapMonsterShared).xdb#xpointer(/AdvMapMonsterShared)"/>
     <CombatSize>2</CombatSize>
     <PatternAttack/>
@@ -42,10 +42,14 @@
     <Visual href="/GameMechanics/CreatureVisual/Creatures/Sanctuary/Kirin.xdb#xpointer(/CreatureVisual)"/>
     <Range>0</Range>
     <BaseCreature>CREATURE_UNKNOWN</BaseCreature>
-    <Upgrades/>
+    <Upgrades>
+        <Item>CREATURE_2151</Item>
+        <Item>CREATURE_2152</Item>
+    </Upgrades>
     <Abilities>
         <Item>ABILITY_IMMUNITY_TO_WATER</Item>
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>
