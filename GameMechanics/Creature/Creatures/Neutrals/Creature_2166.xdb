@@ -19,7 +19,7 @@
     <CreatureTier>3</CreatureTier>
     <Upgrade>false</Upgrade>
     <PairCreature>CREATURE_2167</PairCreature>
-    <CreatureTown>TOWN_NO_TYPE</CreatureTown>
+    <CreatureTown>TOWN_SPECIAL</CreatureTown>
     <MagicElement>
         <First>ELEMENT_AIR</First>
         <Second>ELEMENT_NONE</Second>

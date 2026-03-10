@@ -19,7 +19,7 @@
     <CreatureTier>7</CreatureTier>
     <Upgrade>false</Upgrade>
     <PairCreature>CREATURE_2176</PairCreature>
-    <CreatureTown>TOWN_NO_TYPE</CreatureTown>
+    <CreatureTown>TOWN_SPECIAL</CreatureTown>
     <MagicElement>
         <First>ELEMENT_EARTH</First>
         <Second>ELEMENT_NONE</Second>
@@ -52,4 +52,5 @@
     </Abilities>
     <VisualExplained/>
     <InnerName/>
+    <TownExtended>TOWN_SANCTUARY</TownExtended>
 </Creature>
